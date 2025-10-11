@@ -4,7 +4,7 @@ Parser functions
 import locale
 import sys
 
-from sportsbetting.bookmakers import (betcity, unibet, jacks, zebet, toto, vbet, bingoal, starcasino)
+from sportsbetting.bookmakers import (betcity, unibet, jacks, zebet, toto, vbet, onecasino, bingoal, starcasino)
                                       
 if sys.platform.startswith("win"):
     locale.setlocale(locale.LC_TIME, "fr")
@@ -28,7 +28,7 @@ def parse(site, url=""):
     "bingoal": bingoal.parse_bingoal,
     #"bet365": Bet365.get_bet365_odds,
     "vbet": vbet.connect_and_get_odds,
-    #"onecasino": onecasino.parse_onecasino,
+    "onecasino": onecasino.parse_onecasino,
     "starcasino": starcasino.parse_starcasino_payload
     }
     return parse_functions[site](url)
