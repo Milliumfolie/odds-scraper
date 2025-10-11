@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ignore everything
+*
+
+# --- Allow only specific folders/files ---
+!/.gitignore
+!/sportsbetting/
+!/interface_pysimplegui.py
+!/requirements.txt
+!/theme.txt
+
+# --- Inside sportsbetting, ignore build/cache ---
+sportsbetting/__pycache__/
+sportsbetting/*.py[cod]
+sportsbetting/*.pyo
+sportsbetting/*.db

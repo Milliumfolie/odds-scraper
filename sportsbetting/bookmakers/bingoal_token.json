@@ -1,0 +1,17 @@
+{
+  "host": "www.bingoal.nl",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+  "Accept": "*/*",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Accept-Encoding": "gzip, deflate, br",
+  "Referer": "https://www.bingoal.nl/nl/Sport/Voetbal/NL/ERE/",
+  "Connection": "keep-alive",
+  "Cookie": "CSPSESSIONID-SP-80-UP-=00e007000000Q5VwxGyS2dgNHcWIyAlzSxGNv0t7tZCurVDqXD; _fbp=fb.1.1703415531102.1740729899; _clck=3bi7mc%7C2%7Cfht%7C0%7C1453; _clsk=1ve8wxa%7C1703416806202%7C9%7C1%7Cz.clarity.ms%2Fcollect; CookieConsent={stamp:%27lXRPxrWFyC2JldbCMeJ04YSA5qVK6xUT2Njhw3SfFUvbaM1eGhu4Dg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1703415533395%2Cregion:%27nl%27}; _ga=GA1.2.253017939.1703415530; _gid=GA1.2.1272421779.1703415534; _ga_3G40M6Y9V9=GS1.1.1703415530.1.1.1703416806.5.0.0; _tgidts=eyJzaCI6ImQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0MjdlIiwiY2kiOiJkZmFjZWUxMS02NzQ0LTUyMzYtODAwMC1mMzhiMTQ5ODU0MzciLCJzaSI6ImQ4MzU1YjNhLWZlYzgtNWU0NC1iMmFmLWQxY2Q1OTYyYTZiMCJ9; _tguatd=eyJzYyI6IihkaXJlY3QpIn0=; _tgpc=fdde4931-75be-58e1-bdf4-5fb4f397a929; _tglksd=eyJzIjoiZDgzNTViM2EtZmVjOC01ZTQ0LWIyYWYtZDFjZDU5NjJhNmIwIiwic3QiOjE3MDM0MTY3OTg0NjYsInNvZCI6IihkaXJlY3QpIiwic29kdCI6MTcwMzQxNjc5ODQ2Niwic29kcyI6Im8iLCJzb2RzdCI6MTcwMzQxNjc5ODQ2Nn0=; _tgsid=eyJscGQiOiJ7XCJscHVcIjpcImh0dHBzOi8vd3d3LmJpbmdvYWwubmwlMkZubCUyRlNwb3J0JTJGXCIsXCJscHRcIjpcIlwiLFwibHByXCI6XCJcIn0iLCJwcyI6ImYyOGU3NWYzLWQ4OTctNGQ2Zi1hMjk0LTZmOTA0YWEzZmIyZCIsInB2YyI6IjEiLCJlYyI6IjQiLCJwdiI6IjEifQ==; _uetsid=6b9c8ba0a24b11eeb68badbd84b35542; _uetvid=6b9cb840a24b11eeb46f21f4619877e6; _tgsc=d8355b3a-fec8-5e44-b2af-d1cd5962a6b0:-1; _tgtim=d8355b3a-fec8-5e44-b2af-d1cd5962a6b0:1703416802956:-1",
+  "Sec-Fetch-Dest": "empty",
+  "Sec-Fetch-Mode": "no-cors",
+  "Sec-Fetch-Site": "same-origin",
+  "TE": "trailers",
+  "Authorization": "Basic B0589FE50AA5C7FED1461623657E446090187958EFD337E2CA71CF03B233A3B39582F887251638F78C550F83BD0ABD4CBFD3B7736098D375C75D509B8A638252A047AE41AB007113FBFD861D0F40401DA0831A2C8CEB56C6235C43C7043FEAC67E5228A095A8780D406060A63141299BE71771F3CAA8D20CF1A62288EA28806DAD34A3E29DD79F7A96B58E1A937FF59A",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache"
+}

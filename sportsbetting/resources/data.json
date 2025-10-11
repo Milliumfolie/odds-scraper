@@ -1,0 +1,1978 @@
+{
+  "football": {
+    "Serbia - Albania": {
+      "odds": {
+        "betcity": [
+          1.71,
+          3.6,
+          5.0
+        ],
+        "bingoal": [
+          1.71,
+          3.6,
+          5.0
+        ],
+        "unibet": [
+          1.71,
+          3.6,
+          5.0
+        ],
+        "toto": [
+          1.69,
+          3.6,
+          5.5
+        ],
+        "zebet": [
+          1.67,
+          3.45,
+          5.2
+        ],
+        "jacks": [
+          1.71,
+          3.6,
+          5.0
+        ],
+        "vbet": [
+          1.59,
+          3.28,
+          5.3
+        ],
+        "starcasino": [
+          1.67,
+          3.5,
+          5.75
+        ]
+      },
+      "id": {
+        "betcity": 1023168661,
+        "bingoal": 1023168661,
+        "unibet": 1023168661,
+        "toto": "9104205",
+        "zebet": "szt93",
+        "jacks": 1023168661,
+        "vbet": "28101719",
+        "starcasino": 13932274
+      },
+      "date": "2025-10-11T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Bulgaria - Turkey": {
+      "odds": {
+        "betcity": [
+          12.0,
+          5.75,
+          1.24
+        ],
+        "bingoal": [
+          12.0,
+          5.8,
+          1.26
+        ],
+        "unibet": [
+          12.0,
+          5.75,
+          1.24
+        ],
+        "toto": [
+          11.5,
+          6.0,
+          1.26
+        ],
+        "zebet": [
+          10.0,
+          5.2,
+          1.23
+        ],
+        "jacks": [
+          12.0,
+          5.75,
+          1.24
+        ],
+        "vbet": [
+          11.0,
+          5.0,
+          1.21
+        ],
+        "starcasino": [
+          11.0,
+          6.0,
+          1.25
+        ]
+      },
+      "id": {
+        "betcity": 1022335863,
+        "bingoal": 1022335863,
+        "unibet": 1022335863,
+        "toto": "9141901",
+        "zebet": "z2x93",
+        "jacks": 1022335863,
+        "vbet": "27960195",
+        "starcasino": 12965084
+      },
+      "date": "2025-10-11T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Iceland - France": {
+      "odds": {
+        "toto": [
+          24.0,
+          9.25,
+          1.11
+        ],
+        "zebet": [
+          19.0,
+          7.25,
+          1.08
+        ],
+        "vbet": [
+          24.0,
+          9.0,
+          1.1
+        ],
+        "starcasino": [
+          21.0,
+          8.0,
+          1.11
+        ]
+      },
+      "id": {
+        "toto": "8963499",
+        "zebet": "kjy93",
+        "vbet": "28115234",
+        "starcasino": 12983042
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Kazakhstan - Liechtenstein": {
+      "odds": {
+        "betcity": [
+          1.13,
+          7.5,
+          17.0
+        ],
+        "bingoal": [
+          1.13,
+          7.5,
+          17.0
+        ],
+        "unibet": [
+          1.13,
+          7.5,
+          17.0
+        ],
+        "toto": [
+          1.13,
+          8.0,
+          23.0
+        ],
+        "zebet": [
+          1.11,
+          6.75,
+          19.0
+        ],
+        "jacks": [
+          1.13,
+          7.5,
+          17.0
+        ],
+        "vbet": [
+          1.1,
+          6.5,
+          17.0
+        ],
+        "starcasino": [
+          1.15,
+          7.0,
+          21.0
+        ]
+      },
+      "id": {
+        "betcity": 1022335946,
+        "bingoal": 1022335946,
+        "unibet": 1022335946,
+        "toto": "8963506",
+        "zebet": "yxt93",
+        "jacks": 1022335946,
+        "vbet": "28024823",
+        "starcasino": 13917374
+      },
+      "date": "2025-10-10T14:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "North Macedonia - Kazakhstan": {
+      "odds": {
+        "toto": [
+          1.32,
+          5.5,
+          9.25
+        ],
+        "zebet": [
+          1.29,
+          4.9,
+          8.5
+        ],
+        "vbet": [
+          1.28,
+          5.3,
+          9.0
+        ],
+        "starcasino": [
+          1.36,
+          4.33,
+          9.5
+        ]
+      },
+      "id": {
+        "toto": "9093947",
+        "zebet": "jjy93",
+        "vbet": "28115225",
+        "starcasino": 13996401
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Latvia - England": {
+      "odds": {
+        "toto": [
+          50.0,
+          14.0,
+          1.05
+        ],
+        "zebet": [
+          32.0,
+          9.0,
+          1.03
+        ],
+        "starcasino": [
+          41.0,
+          12.0,
+          1.04
+        ]
+      },
+      "id": {
+        "toto": "9112579",
+        "zebet": "jmy93",
+        "starcasino": 13996406
+      },
+      "date": "2025-10-14T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Belgium - North Macedonia": {
+      "odds": {
+        "toto": [
+          1.17,
+          7.25,
+          18.0
+        ],
+        "zebet": [
+          1.14,
+          6.4,
+          16.0
+        ],
+        "vbet": [
+          1.13,
+          5.9,
+          15.0
+        ],
+        "starcasino": [
+          1.17,
+          7.5,
+          17.0
+        ]
+      },
+      "id": {
+        "toto": "8963505",
+        "zebet": "xxt93",
+        "vbet": "28024824",
+        "starcasino": 13917358
+      },
+      "date": "2025-10-10T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Faroe Islands - Montenegro": {
+      "odds": {
+        "betcity": [
+          3.35,
+          3.05,
+          2.16
+        ],
+        "bingoal": [
+          3.35,
+          3.05,
+          2.16
+        ],
+        "unibet": [
+          3.35,
+          3.05,
+          2.16
+        ],
+        "toto": [
+          3.5,
+          3.3,
+          2.15
+        ],
+        "zebet": [
+          3.5,
+          3.3,
+          2.15
+        ],
+        "jacks": [
+          3.35,
+          3.05,
+          2.16
+        ],
+        "vbet": [
+          3.28,
+          3.17,
+          2.09
+        ],
+        "starcasino": [
+          3.5,
+          3.4,
+          2.12
+        ]
+      },
+      "id": {
+        "betcity": 1023168642,
+        "bingoal": 1023168642,
+        "unibet": 1023168642,
+        "toto": "9004398",
+        "zebet": "wxt93",
+        "jacks": 1023168642,
+        "vbet": "28024818",
+        "starcasino": 13910256
+      },
+      "date": "2025-10-09T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Estonia - Italy": {
+      "odds": {
+        "betcity": [
+          26.0,
+          9.5,
+          1.09
+        ],
+        "bingoal": [
+          26.0,
+          9.5,
+          1.1
+        ],
+        "unibet": [
+          26.0,
+          9.5,
+          1.09
+        ],
+        "toto": [
+          30.0,
+          10.5,
+          1.09
+        ],
+        "zebet": [
+          23.0,
+          8.0,
+          1.06
+        ],
+        "jacks": [
+          26.0,
+          9.5,
+          1.09
+        ],
+        "vbet": [
+          21.0,
+          8.1,
+          1.06
+        ],
+        "starcasino": [
+          31.0,
+          9.5,
+          1.08
+        ]
+      },
+      "id": {
+        "betcity": 1023224960,
+        "bingoal": 1023224960,
+        "unibet": 1023224960,
+        "toto": "9115944",
+        "zebet": "0uu93",
+        "jacks": 1023224960,
+        "vbet": "28024833",
+        "starcasino": 12965077
+      },
+      "date": "2025-10-11T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Slovenia - Switzerland": {
+      "odds": {
+        "toto": [
+          4.5,
+          3.7,
+          1.81
+        ],
+        "zebet": [
+          4.2,
+          3.55,
+          1.78
+        ],
+        "starcasino": [
+          4.25,
+          3.67,
+          1.78
+        ]
+      },
+      "id": {
+        "toto": "9102297",
+        "zebet": "bmy93",
+        "starcasino": 12983044
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Latvia - Andorra": {
+      "odds": {
+        "betcity": [
+          1.46,
+          3.8,
+          7.5
+        ],
+        "bingoal": [
+          1.46,
+          3.8,
+          7.5
+        ],
+        "unibet": [
+          1.46,
+          3.8,
+          7.5
+        ],
+        "toto": [
+          1.55,
+          3.7,
+          7.25
+        ],
+        "zebet": [
+          1.53,
+          3.55,
+          6.75
+        ],
+        "jacks": [
+          1.46,
+          3.8,
+          7.5
+        ],
+        "vbet": [
+          1.48,
+          3.35,
+          6.8
+        ],
+        "starcasino": [
+          1.56,
+          3.5,
+          7.5
+        ]
+      },
+      "id": {
+        "betcity": 1023168663,
+        "bingoal": 1023168663,
+        "unibet": 1023168663,
+        "toto": "9104210",
+        "zebet": "b0u93",
+        "jacks": 1023168663,
+        "vbet": "28101720",
+        "starcasino": 13932272
+      },
+      "date": "2025-10-11T13:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Italy - Israel": {
+      "odds": {
+        "toto": [
+          1.2,
+          7.0,
+          13.5
+        ],
+        "zebet": [
+          1.16,
+          6.2,
+          11.5
+        ],
+        "starcasino": [
+          1.2,
+          6.5,
+          12.0
+        ]
+      },
+      "id": {
+        "toto": "9112577",
+        "zebet": "dmy93",
+        "starcasino": 13002261
+      },
+      "date": "2025-10-14T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Scotland - Greece": {
+      "odds": {
+        "betcity": [
+          2.7,
+          3.1,
+          2.7
+        ],
+        "bingoal": [
+          2.75,
+          3.15,
+          2.75
+        ],
+        "unibet": [
+          2.7,
+          3.1,
+          2.7
+        ],
+        "toto": [
+          2.75,
+          3.1,
+          2.7
+        ],
+        "zebet": [
+          2.75,
+          3.05,
+          2.7
+        ],
+        "jacks": [
+          2.7,
+          3.1,
+          2.7
+        ],
+        "vbet": [
+          2.69,
+          2.94,
+          2.58
+        ],
+        "starcasino": [
+          2.83,
+          3.0,
+          2.75
+        ]
+      },
+      "id": {
+        "betcity": 1022335866,
+        "bingoal": 1022335866,
+        "unibet": 1022335866,
+        "toto": "8963507",
+        "zebet": "2yt93",
+        "jacks": 1022335866,
+        "vbet": "27980729",
+        "starcasino": 12945634
+      },
+      "date": "2025-10-09T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Portugal - Ireland": {
+      "odds": {
+        "betcity": [
+          1.14,
+          8.0,
+          18.0
+        ],
+        "bingoal": [
+          1.15,
+          8.0,
+          18.0
+        ],
+        "unibet": [
+          1.14,
+          8.0,
+          18.0
+        ],
+        "toto": [
+          1.16,
+          7.5,
+          19.0
+        ],
+        "zebet": [
+          1.12,
+          6.4,
+          16.0
+        ],
+        "jacks": [
+          1.14,
+          8.0,
+          18.0
+        ],
+        "vbet": [
+          1.13,
+          5.5,
+          19.0
+        ],
+        "starcasino": [
+          1.14,
+          7.5,
+          19.0
+        ]
+      },
+      "id": {
+        "betcity": 1023224916,
+        "bingoal": 1023224916,
+        "unibet": 1023224916,
+        "toto": "9115943",
+        "zebet": "cuu93",
+        "jacks": 1023224916,
+        "vbet": "28101718",
+        "starcasino": 12965075
+      },
+      "date": "2025-10-11T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Ireland - Armenia": {
+      "odds": {
+        "toto": [
+          1.33,
+          5.0,
+          10.0
+        ],
+        "zebet": [
+          1.3,
+          4.6,
+          8.75
+        ],
+        "starcasino": [
+          1.31,
+          5.0,
+          9.5
+        ]
+      },
+      "id": {
+        "toto": "9154976",
+        "zebet": "emy93",
+        "starcasino": 13002262
+      },
+      "date": "2025-10-14T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Portugal - Hungary": {
+      "odds": {
+        "toto": [
+          1.23,
+          6.25,
+          13.0
+        ],
+        "zebet": [
+          1.2,
+          5.4,
+          11.5
+        ],
+        "starcasino": [
+          1.23,
+          6.0,
+          11.0
+        ]
+      },
+      "id": {
+        "toto": "9154974",
+        "zebet": "imy93",
+        "starcasino": 13002263
+      },
+      "date": "2025-10-14T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Iceland - Ukraine": {
+      "odds": {
+        "betcity": [
+          3.05,
+          3.4,
+          2.25
+        ],
+        "bingoal": [
+          3.05,
+          3.4,
+          2.25
+        ],
+        "unibet": [
+          3.05,
+          3.4,
+          2.25
+        ],
+        "toto": [
+          3.1,
+          3.3,
+          2.37
+        ],
+        "zebet": [
+          3.0,
+          3.2,
+          2.35
+        ],
+        "jacks": [
+          3.05,
+          3.4,
+          2.25
+        ],
+        "vbet": [
+          2.8,
+          3.04,
+          2.31
+        ],
+        "starcasino": [
+          3.0,
+          3.33,
+          2.4
+        ]
+      },
+      "id": {
+        "betcity": 1022335867,
+        "bingoal": 1022335867,
+        "unibet": 1022335867,
+        "toto": "8963498",
+        "zebet": "rxt93",
+        "jacks": 1022335867,
+        "vbet": "28024828",
+        "starcasino": 12954754
+      },
+      "date": "2025-10-10T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Germany - Luxembourg": {
+      "odds": {
+        "betcity": [
+          1.03,
+          14.0,
+          46.0
+        ],
+        "bingoal": [
+          1.05,
+          14.0,
+          46.0
+        ],
+        "unibet": [
+          1.03,
+          14.0,
+          46.0
+        ],
+        "toto": [
+          1.05,
+          13.5,
+          45.0
+        ],
+        "zebet": [
+          1.03,
+          9.5,
+          32.0
+        ],
+        "jacks": [
+          1.03,
+          14.0,
+          46.0
+        ],
+        "vbet": [
+          1.025,
+          10.0,
+          23.0
+        ],
+        "starcasino": [
+          1.05,
+          13.0,
+          46.0
+        ]
+      },
+      "id": {
+        "betcity": 1023224854,
+        "bingoal": 1023224854,
+        "unibet": 1023224854,
+        "toto": "9093096",
+        "zebet": "1yt93",
+        "jacks": 1023224854,
+        "vbet": "28024829",
+        "starcasino": 12954756
+      },
+      "date": "2025-10-10T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Spain - Bulgaria": {
+      "odds": {
+        "toto": [
+          1.02,
+          20.0,
+          60.0
+        ],
+        "zebet": [
+          1.01,
+          11.5,
+          30.0
+        ],
+        "starcasino": [
+          1.02,
+          14.0,
+          51.0
+        ]
+      },
+      "id": {
+        "toto": "9107497",
+        "zebet": "nmy93",
+        "starcasino": 13002264
+      },
+      "date": "2025-10-14T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Lithuania - Poland": {
+      "odds": {
+        "betcity": [
+          7.5,
+          4.2,
+          1.42
+        ],
+        "bingoal": [
+          7.5,
+          4.2,
+          1.42
+        ],
+        "unibet": [
+          7.5,
+          4.2,
+          1.42
+        ],
+        "toto": [
+          7.75,
+          4.25,
+          1.46
+        ],
+        "zebet": [
+          7.0,
+          4.0,
+          1.45
+        ],
+        "jacks": [
+          7.5,
+          4.2,
+          1.42
+        ],
+        "starcasino": [
+          7.5,
+          4.2,
+          1.45
+        ]
+      },
+      "id": {
+        "betcity": 1022335962,
+        "bingoal": 1022335962,
+        "unibet": 1022335962,
+        "toto": "9093502",
+        "zebet": "uqx93",
+        "jacks": 1022335962,
+        "starcasino": 12972864
+      },
+      "date": "2025-10-12T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Malta - Netherlands": {
+      "odds": {
+        "betcity": [
+          56.0,
+          16.0,
+          1.02
+        ],
+        "bingoal": [
+          56.0,
+          17.0,
+          1.03
+        ],
+        "unibet": [
+          56.0,
+          16.0,
+          1.02
+        ],
+        "toto": [
+          50.0,
+          14.5,
+          1.04
+        ],
+        "zebet": [
+          37.0,
+          10.5,
+          1.03
+        ],
+        "jacks": [
+          56.0,
+          16.0,
+          1.02
+        ],
+        "vbet": [
+          29.0,
+          11.0,
+          1.025
+        ],
+        "starcasino": [
+          61.0,
+          14.0,
+          1.04
+        ]
+      },
+      "id": {
+        "betcity": 1023224947,
+        "bingoal": 1023224947,
+        "unibet": 1023224947,
+        "toto": "8963501",
+        "zebet": "uxt93",
+        "jacks": 1023224947,
+        "vbet": "28024817",
+        "starcasino": 12945632
+      },
+      "date": "2025-10-09T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Romania - Austria": {
+      "odds": {
+        "toto": [
+          3.4,
+          3.8,
+          2.03
+        ],
+        "zebet": [
+          3.3,
+          3.7,
+          2.0
+        ],
+        "starcasino": [
+          3.25,
+          3.67,
+          2.08
+        ]
+      },
+      "id": {
+        "toto": "9093503",
+        "zebet": "gmy93",
+        "starcasino": 12972865
+      },
+      "date": "2025-10-12T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Netherlands - Finland": {
+      "odds": {
+        "betcity": [
+          1.17,
+          6.75,
+          15.0
+        ],
+        "bingoal": [
+          1.17,
+          7.0,
+          17.0
+        ],
+        "unibet": [
+          1.17,
+          6.75,
+          15.0
+        ],
+        "toto": [
+          1.18,
+          7.25,
+          16.5
+        ],
+        "zebet": [
+          1.14,
+          6.2,
+          13.5
+        ],
+        "jacks": [
+          1.17,
+          6.75,
+          15.0
+        ],
+        "starcasino": [
+          1.18,
+          7.0,
+          15.0
+        ]
+      },
+      "id": {
+        "betcity": 1023224946,
+        "bingoal": 1023224946,
+        "unibet": 1023224946,
+        "toto": "9093045",
+        "zebet": "buu93",
+        "jacks": 1023224946,
+        "starcasino": 12972866
+      },
+      "date": "2025-10-12T16:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Wales - Belgium": {
+      "odds": {
+        "toto": [
+          4.5,
+          3.9,
+          1.77
+        ],
+        "zebet": [
+          4.2,
+          3.75,
+          1.75
+        ],
+        "starcasino": [
+          4.2,
+          4.0,
+          1.73
+        ]
+      },
+      "id": {
+        "toto": "9102324",
+        "zebet": "fmy93",
+        "starcasino": 13996403
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Turkey - Georgia": {
+      "odds": {
+        "toto": [
+          1.45,
+          4.75,
+          7.0
+        ],
+        "zebet": [
+          1.43,
+          4.4,
+          6.4
+        ],
+        "starcasino": [
+          1.42,
+          4.33,
+          7.5
+        ]
+      },
+      "id": {
+        "toto": "9112578",
+        "zebet": "9my93",
+        "starcasino": 13002266
+      },
+      "date": "2025-10-14T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "N.Ireland - Germany": {
+      "odds": {
+        "toto": [
+          10.0,
+          6.0,
+          1.27
+        ],
+        "zebet": [
+          9.0,
+          5.4,
+          1.24
+        ],
+        "starcasino": [
+          9.0,
+          5.75,
+          1.27
+        ]
+      },
+      "id": {
+        "toto": "9093954",
+        "zebet": "hmy93",
+        "starcasino": 12983040
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Finland - Lithuania": {
+      "odds": {
+        "betcity": [
+          1.44,
+          4.25,
+          7.5
+        ],
+        "bingoal": [
+          1.44,
+          4.3,
+          7.5
+        ],
+        "unibet": [
+          1.44,
+          4.25,
+          7.5
+        ],
+        "toto": [
+          1.51,
+          4.0,
+          7.0
+        ],
+        "zebet": [
+          1.52,
+          3.95,
+          6.75
+        ],
+        "jacks": [
+          1.44,
+          4.25,
+          7.5
+        ],
+        "vbet": [
+          1.45,
+          3.84,
+          6.6
+        ],
+        "starcasino": [
+          1.47,
+          4.2,
+          7.5
+        ]
+      },
+      "id": {
+        "betcity": 1022335968,
+        "bingoal": 1022335968,
+        "unibet": 1022335968,
+        "toto": "9094839",
+        "zebet": "txt93",
+        "jacks": 1022335968,
+        "vbet": "27980730",
+        "starcasino": 12945636
+      },
+      "date": "2025-10-09T16:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Slovakia - Luxembourg": {
+      "odds": {
+        "toto": [
+          1.35,
+          5.25,
+          8.5
+        ],
+        "zebet": [
+          1.33,
+          4.9,
+          7.75
+        ],
+        "vbet": [
+          1.35,
+          5.3,
+          8.0
+        ],
+        "starcasino": [
+          1.33,
+          4.75,
+          9.0
+        ]
+      },
+      "id": {
+        "toto": "9102296",
+        "zebet": "ljy93",
+        "vbet": "27980752",
+        "starcasino": 12983041
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Andorra - Serbia": {
+      "odds": {
+        "toto": [
+          40.0,
+          9.5,
+          1.09
+        ],
+        "zebet": [
+          30.0,
+          7.25,
+          1.06
+        ],
+        "starcasino": [
+          36.0,
+          9.5,
+          1.07
+        ]
+      },
+      "id": {
+        "toto": "9107520",
+        "zebet": "kmy93",
+        "starcasino": 13996404
+      },
+      "date": "2025-10-14T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Sweden - Kosovo": {
+      "odds": {
+        "toto": [
+          1.24,
+          6.0,
+          13.0
+        ],
+        "zebet": [
+          1.21,
+          5.4,
+          11.5
+        ],
+        "starcasino": [
+          1.23,
+          5.67,
+          12.0
+        ]
+      },
+      "id": {
+        "toto": "9105644",
+        "zebet": "lmy93",
+        "starcasino": 12983039
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Ukraine - Azerbaijan": {
+      "odds": {
+        "toto": [
+          1.23,
+          6.25,
+          13.5
+        ],
+        "zebet": [
+          1.2,
+          5.4,
+          11.5
+        ],
+        "starcasino": [
+          1.2,
+          6.33,
+          13.0
+        ]
+      },
+      "id": {
+        "toto": "8963496",
+        "zebet": "mmy93",
+        "starcasino": 12983043
+      },
+      "date": "2025-10-13T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Denmark - Greece": {
+      "odds": {
+        "betcity": [
+          1.68,
+          3.6,
+          5.0
+        ],
+        "bingoal": [
+          1.68,
+          3.6,
+          5.0
+        ],
+        "unibet": [
+          1.68,
+          3.6,
+          5.0
+        ],
+        "toto": [
+          1.72,
+          3.6,
+          5.25
+        ],
+        "zebet": [
+          1.71,
+          3.5,
+          4.9
+        ],
+        "jacks": [
+          1.68,
+          3.6,
+          5.0
+        ],
+        "vbet": [
+          1.63,
+          3.34,
+          4.8
+        ],
+        "starcasino": [
+          1.71,
+          3.6,
+          5.0
+        ]
+      },
+      "id": {
+        "betcity": 1023224875,
+        "bingoal": 1023224875,
+        "unibet": 1023224875,
+        "toto": "9093044",
+        "zebet": "oww93",
+        "jacks": 1023224875,
+        "vbet": "28108653",
+        "starcasino": 12972863
+      },
+      "date": "2025-10-12T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Cyprus - Bosnia-Herzegovina": {
+      "odds": {
+        "betcity": [
+          4.4,
+          3.6,
+          1.79
+        ],
+        "bingoal": [
+          4.4,
+          3.6,
+          1.79
+        ],
+        "unibet": [
+          4.4,
+          3.6,
+          1.79
+        ],
+        "toto": [
+          4.25,
+          3.65,
+          1.83
+        ],
+        "zebet": [
+          4.2,
+          3.55,
+          1.87
+        ],
+        "jacks": [
+          4.4,
+          3.6,
+          1.79
+        ],
+        "vbet": [
+          3.94,
+          3.36,
+          1.82
+        ],
+        "starcasino": [
+          4.5,
+          3.6,
+          1.82
+        ]
+      },
+      "id": {
+        "betcity": 1022335905,
+        "bingoal": 1022335905,
+        "unibet": 1022335905,
+        "toto": "8963504",
+        "zebet": "0yt93",
+        "jacks": 1022335905,
+        "vbet": "27980733",
+        "starcasino": 12945631
+      },
+      "date": "2025-10-09T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Faroe Islands - Czech Republic": {
+      "odds": {
+        "toto": [
+          8.5,
+          5.0,
+          1.37
+        ],
+        "zebet": [
+          7.75,
+          4.6,
+          1.35
+        ],
+        "vbet": [
+          8.0,
+          4.75,
+          1.35
+        ],
+        "starcasino": [
+          8.5,
+          4.75,
+          1.36
+        ]
+      },
+      "id": {
+        "toto": "9093043",
+        "zebet": "ijy93",
+        "vbet": "28108656",
+        "starcasino": 13946740
+      },
+      "date": "2025-10-12T16:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Kosovo - Slovenia": {
+      "odds": {
+        "betcity": [
+          2.25,
+          3.3,
+          3.15
+        ],
+        "bingoal": [
+          2.25,
+          3.3,
+          3.15
+        ],
+        "unibet": [
+          2.25,
+          3.3,
+          3.15
+        ],
+        "toto": [
+          2.33,
+          3.3,
+          3.15
+        ],
+        "zebet": [
+          2.32,
+          3.2,
+          3.05
+        ],
+        "jacks": [
+          2.25,
+          3.3,
+          3.15
+        ],
+        "vbet": [
+          2.19,
+          3.1,
+          2.94
+        ],
+        "starcasino": [
+          2.33,
+          3.33,
+          3.1
+        ]
+      },
+      "id": {
+        "betcity": 1022335769,
+        "bingoal": 1022335769,
+        "unibet": 1022335769,
+        "toto": "8963497",
+        "zebet": "sxt93",
+        "jacks": 1022335769,
+        "vbet": "28024827",
+        "starcasino": 12954755
+      },
+      "date": "2025-10-10T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Sweden - Switzerland": {
+      "odds": {
+        "betcity": [
+          2.4,
+          3.4,
+          2.8
+        ],
+        "bingoal": [
+          2.45,
+          3.45,
+          2.88
+        ],
+        "unibet": [
+          2.4,
+          3.4,
+          2.8
+        ],
+        "toto": [
+          2.41,
+          3.45,
+          2.9
+        ],
+        "zebet": [
+          2.37,
+          3.4,
+          2.85
+        ],
+        "jacks": [
+          2.4,
+          3.4,
+          2.8
+        ],
+        "vbet": [
+          2.26,
+          3.21,
+          2.74
+        ],
+        "starcasino": [
+          2.38,
+          3.4,
+          3.0
+        ]
+      },
+      "id": {
+        "betcity": 1022335764,
+        "bingoal": 1022335764,
+        "unibet": 1022335764,
+        "toto": "8963500",
+        "zebet": "b7t93",
+        "jacks": 1022335764,
+        "vbet": "27980748",
+        "starcasino": 12954753
+      },
+      "date": "2025-10-10T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Spain - Georgia": {
+      "odds": {
+        "betcity": [
+          1.1,
+          9.0,
+          21.0
+        ],
+        "bingoal": [
+          1.12,
+          9.0,
+          21.0
+        ],
+        "unibet": [
+          1.1,
+          9.0,
+          21.0
+        ],
+        "toto": [
+          1.13,
+          8.75,
+          21.0
+        ],
+        "zebet": [
+          1.1,
+          7.0,
+          17.0
+        ],
+        "jacks": [
+          1.1,
+          9.0,
+          21.0
+        ],
+        "vbet": [
+          1.1,
+          6.4,
+          19.0
+        ],
+        "starcasino": [
+          1.13,
+          8.0,
+          19.0
+        ]
+      },
+      "id": {
+        "betcity": 1023224911,
+        "bingoal": 1023224911,
+        "unibet": 1023224911,
+        "toto": "9115938",
+        "zebet": "utu93",
+        "jacks": 1023224911,
+        "vbet": "28024832",
+        "starcasino": 12965083
+      },
+      "date": "2025-10-11T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Scotland - Belarus": {
+      "odds": {
+        "betcity": [
+          1.22,
+          6.1,
+          12.0
+        ],
+        "bingoal": [
+          1.22,
+          6.4,
+          13.0
+        ],
+        "unibet": [
+          1.22,
+          6.1,
+          12.0
+        ],
+        "toto": [
+          1.23,
+          6.25,
+          13.0
+        ],
+        "zebet": [
+          1.2,
+          5.6,
+          11.5
+        ],
+        "jacks": [
+          1.22,
+          6.1,
+          12.0
+        ],
+        "starcasino": [
+          1.22,
+          6.0,
+          13.0
+        ]
+      },
+      "id": {
+        "betcity": 1025120734,
+        "bingoal": 1025120734,
+        "unibet": 1025120734,
+        "toto": "9093505",
+        "zebet": "pww93",
+        "jacks": 1025120734,
+        "starcasino": 12972113
+      },
+      "date": "2025-10-12T16:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Hungary - Armenia": {
+      "odds": {
+        "betcity": [
+          1.38,
+          4.6,
+          8.0
+        ],
+        "bingoal": [
+          1.38,
+          4.6,
+          8.0
+        ],
+        "unibet": [
+          1.38,
+          4.6,
+          8.0
+        ],
+        "toto": [
+          1.37,
+          5.0,
+          8.75
+        ],
+        "zebet": [
+          1.34,
+          4.6,
+          8.0
+        ],
+        "jacks": [
+          1.38,
+          4.6,
+          8.0
+        ],
+        "vbet": [
+          1.31,
+          4.3,
+          8.0
+        ],
+        "starcasino": [
+          1.35,
+          4.75,
+          9.0
+        ]
+      },
+      "id": {
+        "betcity": 1022335879,
+        "bingoal": 1022335879,
+        "unibet": 1022335879,
+        "toto": "9104204",
+        "zebet": "c0u93",
+        "jacks": 1022335879,
+        "vbet": "27980957",
+        "starcasino": 12964288
+      },
+      "date": "2025-10-11T16:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Estonia - Moldova": {
+      "odds": {
+        "toto": [
+          1.76,
+          3.65,
+          4.75
+        ],
+        "zebet": [
+          1.75,
+          3.55,
+          4.6
+        ],
+        "starcasino": [
+          1.75,
+          3.6,
+          4.5
+        ]
+      },
+      "id": {
+        "toto": "9148131",
+        "zebet": "cmy93",
+        "starcasino": 13002265
+      },
+      "date": "2025-10-14T16:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Belarus - Denmark": {
+      "odds": {
+        "betcity": [
+          29.0,
+          8.5,
+          1.1
+        ],
+        "bingoal": [
+          29.0,
+          8.5,
+          1.11
+        ],
+        "unibet": [
+          29.0,
+          8.5,
+          1.1
+        ],
+        "toto": [
+          26.0,
+          8.25,
+          1.12
+        ],
+        "zebet": [
+          23.0,
+          7.25,
+          1.1
+        ],
+        "jacks": [
+          29.0,
+          8.5,
+          1.1
+        ],
+        "vbet": [
+          21.0,
+          7.0,
+          1.1
+        ],
+        "starcasino": [
+          21.0,
+          8.0,
+          1.14
+        ]
+      },
+      "id": {
+        "betcity": 1025132241,
+        "bingoal": 1025132241,
+        "unibet": 1025132241,
+        "toto": "8963503",
+        "zebet": "vxt93",
+        "jacks": 1025132241,
+        "vbet": "28024815",
+        "starcasino": 12945635
+      },
+      "date": "2025-10-09T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "N.Ireland - Slovakia": {
+      "odds": {
+        "betcity": [
+          2.38,
+          3.1,
+          3.05
+        ],
+        "bingoal": [
+          2.38,
+          3.1,
+          3.05
+        ],
+        "unibet": [
+          2.38,
+          3.1,
+          3.05
+        ],
+        "toto": [
+          2.48,
+          3.0,
+          3.2
+        ],
+        "zebet": [
+          2.45,
+          2.95,
+          3.1
+        ],
+        "jacks": [
+          2.38,
+          3.1,
+          3.05
+        ],
+        "vbet": [
+          2.35,
+          2.75,
+          3.03
+        ],
+        "starcasino": [
+          2.55,
+          2.9,
+          3.2
+        ]
+      },
+      "id": {
+        "betcity": 1022335856,
+        "bingoal": 1022335856,
+        "unibet": 1022335856,
+        "toto": "9093276",
+        "zebet": "qxt93",
+        "jacks": 1022335856,
+        "vbet": "27980746",
+        "starcasino": 12954757
+      },
+      "date": "2025-10-10T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Norway - Israel": {
+      "odds": {
+        "betcity": [
+          1.22,
+          6.5,
+          11.5
+        ],
+        "bingoal": [
+          1.24,
+          6.5,
+          11.5
+        ],
+        "unibet": [
+          1.22,
+          6.5,
+          11.5
+        ],
+        "toto": [
+          1.23,
+          6.75,
+          11.5
+        ],
+        "zebet": [
+          1.2,
+          6.0,
+          10.0
+        ],
+        "jacks": [
+          1.22,
+          6.5,
+          11.5
+        ],
+        "vbet": [
+          1.19,
+          5.7,
+          9.8
+        ],
+        "starcasino": [
+          1.22,
+          6.67,
+          11.0
+        ]
+      },
+      "id": {
+        "betcity": 1022335923,
+        "bingoal": 1022335923,
+        "unibet": 1022335923,
+        "toto": "9141905",
+        "zebet": "yzw93",
+        "jacks": 1022335923,
+        "vbet": "28024831",
+        "starcasino": 12964287
+      },
+      "date": "2025-10-11T16:00:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    },
+    "Czech Republic - Croatia": {
+      "odds": {
+        "betcity": [
+          2.95,
+          3.25,
+          2.38
+        ],
+        "bingoal": [
+          3.0,
+          3.3,
+          2.43
+        ],
+        "unibet": [
+          2.95,
+          3.25,
+          2.38
+        ],
+        "toto": [
+          3.05,
+          3.25,
+          2.43
+        ],
+        "zebet": [
+          3.0,
+          3.15,
+          2.42
+        ],
+        "jacks": [
+          2.95,
+          3.25,
+          2.38
+        ],
+        "vbet": [
+          2.88,
+          3.12,
+          2.31
+        ],
+        "starcasino": [
+          3.0,
+          3.33,
+          2.4
+        ]
+      },
+      "id": {
+        "betcity": 1023224986,
+        "bingoal": 1023224986,
+        "unibet": 1023224986,
+        "toto": "9004380",
+        "zebet": "zxt93",
+        "jacks": 1023224986,
+        "vbet": "27980737",
+        "starcasino": 13910257
+      },
+      "date": "2025-10-09T18:45:00",
+      "competition": "FIFA World Cup Qaulifiers\r\n"
+    }
+  },
+  "basketball": {
+    "New York Knicks - Indiana Pacers": {
+      "odds": {
+        "betcity": [
+          1.45,
+          2.85
+        ],
+        "unibet": [
+          1.45,
+          2.85
+        ],
+        "toto": [
+          1.42,
+          2.9
+        ],
+        "zebet": [
+          1.43,
+          2.85
+        ],
+        "jacks": [
+          1.45,
+          2.85
+        ]
+      },
+      "id": {
+        "betcity": 1023736787,
+        "unibet": 1023736787,
+        "toto": "7765831",
+        "zebet": "",
+        "jacks": 1023736787
+      },
+      "date": "2025-05-24T00:00:00",
+      "competition": "Verenigde Staten - NBA"
+    },
+    "Oklahoma City Thunder - Minnesota Timberwolves": {
+      "odds": {
+        "betcity": [
+          1.35,
+          3.35
+        ],
+        "unibet": [
+          1.35,
+          3.35
+        ],
+        "toto": [
+          1.33,
+          3.4
+        ],
+        "zebet": [
+          1.34,
+          3.35
+        ],
+        "jacks": [
+          1.35,
+          3.35
+        ]
+      },
+      "id": {
+        "betcity": 1023754554,
+        "unibet": 1023754554,
+        "toto": "7803774",
+        "zebet": "",
+        "jacks": 1023754554
+      },
+      "date": "2025-05-23T00:30:00",
+      "competition": "Verenigde Staten - NBA"
+    }
+  }
+}

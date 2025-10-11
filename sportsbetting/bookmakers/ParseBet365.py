@@ -1,0 +1,133 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Dec  3 09:21:37 2023
+@author: Jorden
+
+"""
+from datetime import datetime
+
+import sys 
+sys.path.append(r'C:\Users\Jorden\Desktop\staging')
+
+import sportsbetting
+from sportsbetting.database_functions import get_competition_name_by_url
+
+string ='F|CL;ID=1;IT=#AC#B1#C1#D1002#E105912932#G40#;OR=0;EX=7,#AC#B1#C1#D1002#E105912932#G40#@8,AUDIO1@9,BETTINGNEWS1@15,<;ED=1,#AS#B1#Q1#,0@2,#AS#B1#,1;H1=1,#AS#B1#Q1#,0@2,#AS#B1#,1;NS=0;PV=matchmarketscontentapi_0;|EV;ID=E1;IT=CC-EV_#AC#B1#C1#D1002#E105912932#G40#;NA= ;TB=Voetbal,#AS#B1#¬Spanje - La Liga,#ABM#B1#C1#D1002#E105912932#G40#;EN=2;SO=1;LT=#LT#B1#C1#D1002#E105912932#F0;L3=Spanish Primera;|MG;SY=cm;TB=1;|MA;NA=Wedstrijden;PD=#AC#B1#C1#D1002#E105912932#G40#;IT=CC-MG-AF#AC#B1#C1#D1002#E105912932#G40#;LS=1;|MA;BP=1;BA=1~0;NA=Specials;PD=#AC#B1#C1#D1002#E105912932#G98#;IT=CC-MG-AF#AC#B1#C1#D1002#E105912932#G98#;|MA;BF=1;NA=Bet Builder + ;PD=#AC#B1#C1#D1002#E105912932#G99#;IT=CC-MG-AF#AC#B1#C1#D1002#E105912932#G99#;|MA;NA=Teams;PD=#AC#B1#C1#D1002#E105912932#G40#K^2#;IT=CC-MG-AF#AC#B1#C1#D1002#E105912932#G40#K^2#;|MA;NA=Outrights;PD=#AC#B1#C172#D1#E103458425#F2#;IT=CC-MG-AF#AC#B1#C172#D1#E103458425#F2#;|MA;NA=Stand;PD=#AC#B1#C1#D1002#E105912932#G40#K^4#;IT=CC-MG-AF#AC#B1#C1#D1002#E105912932#G40#K^4#;|MA;NA=Nieuws;PD=#AC#B1#C1#D1002#E105912932#G40#K^9#;IT=CC-MG-AF#AC#B1#C1#D1002#E105912932#G40#K^9#;|MG;SY=cms;NA=Alles;PC=#AZM#B1#C1#D1002#E105912932#G40#;IT=AZMB1C1D1002E105912932G40;|MA;NA=Eindresultaat;PD=#AC#B1#C1#D1002#E105912932#G40#;IT=MA-ACB1C1D1002E105912932G40;LS=1;|MA;NA=Doelpuntentotaal;PD=#AC#B1#C1#D1002#E105912932#G981#;IT=MA-ACB1C1D1002E105912932G981;|MA;NA=Beide teams scoren;PD=#AC#B1#C1#D1002#E105912932#G10150#;IT=MA-ACB1C1D1002E105912932G10150;|MA;NA=Uitslag/Beide teams scoren;PD=#AC#B1#C1#D1002#E105912932#G50404#;IT=MA-ACB1C1D1002E105912932G50404;|MA;NA=Dubbele kans;PD=#AC#B1#C1#D1002#E105912932#G10114#;IT=MA-ACB1C1D1002E105912932G10114;|MA;NA=Speler - Schoten op doel;PD=#AC#B1#C1#D1002#E105912932#G50538#;IT=MA-ACB1C1D1002E105912932G50538;|MA;NA=Doelpuntenmakers;PD=#AC#B1#C1#D1002#E105912932#G45#;IT=MA-ACB1C1D1002E105912932G45;|MA;NA=Juiste uitslag;PD=#AC#B1#C1#D1002#E105912932#G43#;IT=MA-ACB1C1D1002E105912932G43;|MA;NA=Rust/Volledige speeltijd;PD=#AC#B1#C1#D1002#E105912932#G42#;IT=MA-ACB1C1D1002E105912932G42;|MA;NA=Handicap (Asian) & Doelpuntentotaal;PD=#AC#B1#C1#D1002#E105912932#G938#;IT=MA-ACB1C1D1002E105912932G938;|MG;ID=40;SY=cmx;EN=4;IA=1;DO=1;OI=160919834;CL=1;|MA;MA=40;ID=M40;NA= ;FI=160919834;CN=1;SY=ed;PY=ew;PF=2;|PA;ID=PC1126575192;NA=Real Betis;N2=Leganes;FS=0;MP=0;FD=Real Betis v Leganes;FI=160919834;BC=20240913200000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852163~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919834#F3#I0#;IT=ACB1D8E160919834F3I0;MR=102;DS=;BA=6~0;KI=15;KC=#339063,#F0F0F0,#008000,#008000,#5C8FAE,#FFDF1B,#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0;K1=Real Betis Home 24-25.svg;TX=15;TC=#F0F0F0,#0046A8,#F0F0F0,#F0F0F0,#C40010,#0046A8,#F0F0F0,#0A0A0A,#0A0A0A,#0A0A0A,#0A0A0A;K2=Leganes Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126575463;NA=Mallorca;N2=Villarreal;FS=0;MP=0;FD=Mallorca v Villarreal;FI=160919839;BC=20240914130000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852167~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919839#F3#I0#;IT=ACB1D8E160919839F3I0;MR=102;DS=;BA=5~0;KI=14;KC=#F0F0F0,#F0F0F0,#D6003D,#D6003D,#C40010,#0046A8,#0A0A0A,#C40010,#0A0A0A,#C40010,#C40010;K1=Mallorca Home 24-25.svg;TX=13;TC=#FFDF1B,#FFDF1B,#FFDF1B,#FFDF1B,#D7B314,#D7B314,#FFDF1B,#002B87,#002B87,#002B87,#002B87;K2=Villarreal Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126576428;NA=Espanyol;N2=CD Alaves;FS=0;MP=0;FD=Espanyol v CD Alaves;FI=160919858;BC=20240914151500;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852179~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919858#F3#I0#;IT=ACB1D8E160919858F3I0;MR=102;DS=;BA=5~0;KI=18;KC=#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#5C8FAE,#FFDF1B,#0046A8,#2B72DE,#C40010,#2B72DE,#2B72DE;K1=Espanyol Home 24-25.svg;TX=12;TC=#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#C40010,#0046A8,#F0F0F0,#2B72DE,#2B72DE,#2B72DE,#2B72DE;K2=Deportivo Alaves Away 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126575828;NA=Sevilla;N2=Getafe;FS=0;MP=0;FD=Sevilla v Getafe;FI=160919846;BC=20240914173000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852173~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919846#F3#I0#;IT=ACB1D8E160919846F3I0;MR=102;DS=;BA=6~0;KI=15;KC=#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#EEEEEE,#EEEEEE,#F0F0F0,#C40010,#D6003D,#D6003D,#C40010;K1=Sevilla Home 24-25.svg;TX=16;TC=#0046A8,#0046A8,#2B72DE,#2B72DE,#2F49A8,#2F49A8,#0046A8,#0046A8,#0C7662,#0046A8,#0046A8;K2=Getafe Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126576149;NA=Real Sociedad;N2=Real Madrid;FS=0;MP=0;FD=Real Sociedad v Real Madrid;FI=160919851;BC=20240914200000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852177~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919851#F3#I0#;IT=ACB1D8E160919851F3I0;MR=102;DS=;BA=6~0;KI=15;KC=#2B72DE,#F0F0F0,#5B0623,#0A0A0A,#5C8FAE,#FFDF1B,#F0F0F0,#022857,#0A0A0A,#022857,#022857;K1=Real Sociedad Home 24-25.svg;TX=16;TC=#262626,#262626,#FF0080,#00C1BA,#C40010,#0046A8,#7C45CA,#FFDF1B,#FFDF1B,#FFDF1B,#FFDF1B;K2=Real Madrid Away 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126575241;NA=Celta de Vigo;N2=Valladolid;FS=0;MP=0;FD=Celta de Vigo v Valladolid;FI=160919836;BC=20240915130000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852165~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919836#F3#I0#;IT=ACB1D8E160919836F3I0;MR=102;DS=;BA=5~0;KI=16;KC=#C0D6FE,#C0D6FE,#93C9FF,#93C9FF,#54A6FC,#54A6FC,#F0F0F0,#79ADE2,#940014,#C0D6FE,#79ADE2;K1=Celta Vigo Home 24-25.svg;TX=15;TC=#F0F0F0,#34165F,#5B0623,#0A0A0A,#5C8FAE,#FFDF1B,#F0F0F0,#F0F0F0,#0A0A0A,#F0F0F0,#F0F0F0;K2=Valladolid Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126575789;NA=Girona;N2=Barcelona;FS=0;MP=0;FD=Girona v Barcelona;FI=160919844;BC=20240915151515;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852171~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919844#F3#I0#;IT=ACB1D8E160919844F3I0;MR=102;DS=;BA=6~0;KI=15;KC=#F0F0F0,#C40010,#F0F0F0,#F0F0F0,#C40010,#0046A8,#2B72DE,#2B72DE,#C40010,#2B72DE,#2B72DE;K1=Girona Home 24_25.svg;TX=16;TC=#F0F0F0,#F0F0F0,#0A0A0A,#FFDF1B,#C40010,#0046A8,#FFDF1B,#C40010,#FDBD0F,#CCCCCC,#C40010;K2=;FG=;FL=;IN=;|PA;ID=PC1126575548;NA=Las Palmas;N2=Athletic Bilbao;FS=0;MP=0;FD=Las Palmas v Athletic Bilbao;FI=160919841;BC=20240915183000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852169~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919841#F3#I0#;IT=ACB1D8E160919841F3I0;MR=102;DS=;BA=5~0;KI=12;KC=#FFDF1B,#FFDF1B,#FFDF1B,#00C1BA,#C40010,#0046A8,#2B72DE,#FFDF1B,#FFDF1B,#FFDF1B,#FFDF1B;K1=Las Palmas Home 24-25.svg;TX=15;TC=#C40010,#F0F0F0,#F0F0F0,#F0F0F0,#5C8FAE,#FFDF1B,#262626,#0A0A0A,#F0F0F0,#0A0A0A,#0A0A0A;K2=Athletico Bilbao Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126574927;NA=Atlético Madrid;N2=Valencia;FS=0;MP=0;FD=Atlético Madrid v Valencia;FI=160919831;BC=20240915200000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852161~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919831#F3#I0#;IT=ACB1D8E160919831F3I0;MR=102;DS=;BA=5~0;KI=15;KC=#F0F0F0,#C40010,#5B0623,#0A0A0A,#5C8FAE,#FFDF1B,#0046A8,#C40010,#C40010,#C40010,#C40010;K1=Atletico Madrid Home 24-25.svg;TX=14;TC=#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#5C8FAE,#FFDF1B,#0A0A0A,#F0F0F0,#0A0A0A,#F0F0F0,#F0F0F0;K2=Valencia Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1126575980;NA=Rayo Vallecano;N2=Osasuna;FS=0;MP=0;FD=Rayo Vallecano v Osasuna;FI=160919849;BC=20240916200000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852175~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E160919849#F3#I0#;IT=ACB1D8E160919849F3I0;MR=102;DS=;BA=6~0;KI=10;KC=#F0F0F0,#C40010,#F0F0F0,#0A0A0A,#5C8FAE,#FFDF1B,#F0F0F0,#0A0A0A,#F0F0F0,#0A0A0A,#0A0A0A;K1=Rayo Vallecano Home 24-25.svg;TX=13;TC=#940014,#940014,#940014,#940014,#C40010,#0046A8,#022857,#940014,#F0F0F0,#002B87,#940014;K2=Osasuna Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1173216584;NA=Mallorca;N2=Real Sociedad;FS=0;MP=0;FD=Mallorca v Real Sociedad;FI=161277388;BC=20240917180000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852205~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E161277388#F3#I0#;IT=ACB1D8E161277388F3I0;MR=87;DS=;BA=0~0;KI=14;KC=#F0F0F0,#F0F0F0,#D6003D,#D6003D,#C40010,#0046A8,#0A0A0A,#C40010,#0A0A0A,#C40010,#C40010;K1=Mallorca Home 24-25.svg;TX=15;TC=#2B72DE,#F0F0F0,#5B0623,#0A0A0A,#5C8FAE,#FFDF1B,#F0F0F0,#022857,#0A0A0A,#022857,#022857;K2=Real Sociedad Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1173216677;NA=Real Betis;N2=Getafe;FS=0;MP=0;FD=Real Betis v Getafe;FI=161277390;BC=20240918180000;LI=1502-1;VI=7;CB=AD#AE#BH#CA#DJ#DZ#EG#EH#ES#IL#IQ#IR#JO#KW#LB#LY#MA#MR#OM#ON#PS#QA#SA#SD#SO#SY#TD#TN#UM#US#VI#YE;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/53233387~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E161277390#F3#I0#;IT=ACB1D8E161277390F3I0;MR=87;DS=;BA=0~0;KI=15;KC=#339063,#F0F0F0,#008000,#008000,#5C8FAE,#FFDF1B,#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0;K1=Real Betis Home 24-25.svg;TX=16;TC=#0046A8,#0046A8,#2B72DE,#2B72DE,#2F49A8,#2F49A8,#0046A8,#0046A8,#0C7662,#0046A8,#0046A8;K2=Getafe Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1173216709;NA=Leganes;N2=Athletic Bilbao;FS=0;MP=0;FD=Leganes v Athletic Bilbao;FI=161277392;BC=20240919180000;LI=1502-1;CB=;AU=;EX=puw~https://s5.sir.sportradar.com/bet365/nl/match/50852211~Bet365Stats~Height=700,Width=1180,statusbar=yes,left=25,top=25,scrollbars=yes,resizable=1;LP=;CE=;PD=#AC#B1#C1#D8#E161277392#F3#I0#;IT=ACB1D8E161277392F3I0;MR=87;DS=;BA=0~0;KI=15;KC=#F0F0F0,#0046A8,#F0F0F0,#F0F0F0,#C40010,#0046A8,#F0F0F0,#0A0A0A,#0A0A0A,#0A0A0A,#0A0A0A;K1=Leganes Home 24-25.svg;TX=15;TC=#C40010,#F0F0F0,#F0F0F0,#F0F0F0,#5C8FAE,#FFDF1B,#262626,#0A0A0A,#F0F0F0,#0A0A0A,#0A0A0A;K2=Athletico Bilbao Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1173218911;NA=Valencia;N2=Girona;FS=0;MP=0;FD=Valencia v Girona;FI=161277432;BC=20240921173000;LI=1502-1;CB=;AU=;EX=;LP=;CE=;PD=#AC#B1#C1#D8#E161277432#F3#I0#;IT=ACB1D8E161277432F3I0;MR=1;DS=;BA=0~0;KI=14;KC=#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#5C8FAE,#FFDF1B,#0A0A0A,#F0F0F0,#0A0A0A,#F0F0F0,#F0F0F0;K1=Valencia Home 24-25.svg;TX=15;TC=#F0F0F0,#C40010,#F0F0F0,#F0F0F0,#C40010,#0046A8,#2B72DE,#2B72DE,#C40010,#2B72DE,#2B72DE;K2=Girona Home 24_25.svg;FG=;FL=;IN=;|PA;ID=PC1173216758;NA=Athletic Bilbao;N2=Celta de Vigo;FS=0;MP=0;FD=Athletic Bilbao v Celta de Vigo;FI=161277395;BC=20240922151500;LI=1502-1;CB=;AU=;EX=;LP=;CE=;PD=#AC#B1#C1#D8#E161277395#F3#I0#;IT=ACB1D8E161277395F3I0;MR=1;DS=;BA=0~0;KI=15;KC=#C40010,#F0F0F0,#F0F0F0,#F0F0F0,#5C8FAE,#FFDF1B,#262626,#0A0A0A,#F0F0F0,#0A0A0A,#0A0A0A;K1=Athletico Bilbao Home 24-25.svg;TX=16;TC=#C0D6FE,#C0D6FE,#93C9FF,#93C9FF,#54A6FC,#54A6FC,#F0F0F0,#79ADE2,#940014,#C0D6FE,#79ADE2;K2=Celta Vigo Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1173218757;NA=Villarreal;N2=Barcelona;FS=0;MP=0;FD=Villarreal v Barcelona;FI=161277429;BC=20240922173000;LI=1502-1;CB=;AU=;EX=;LP=;CE=;PD=#AC#B1#C1#D8#E161277429#F3#I0#;IT=ACB1D8E161277429F3I0;MR=1;DS=;BA=0~0;KI=13;KC=#FFDF1B,#FFDF1B,#FFDF1B,#FFDF1B,#D7B314,#D7B314,#FFDF1B,#002B87,#002B87,#002B87,#002B87;K1=Villarreal Home 24-25.svg;TX=15;TC=#022857,#940014,#C40010,#C40010,#2B72DE,#FFDF1B,#022857,#940014,#FDBD0F,#002B87,#940014;K2=Barcelona Home 24-25.svg;FG=;FL=;IN=;|PA;ID=PC1173218222;NA=Rayo Vallecano;N2=Atlético Madrid;FS=0;MP=0;FD=Rayo Vallecano v Atlético Madrid;FI=161277425;BC=20240922200000;LI=1502-1;CB=;AU=;EX=;LP=;CE=;PD=#AC#B1#C1#D8#E161277425#F3#I0#;IT=ACB1D8E161277425F3I0;MR=1;DS=;BA=0~0;KI=10;KC=#F0F0F0,#C40010,#F0F0F0,#0A0A0A,#5C8FAE,#FFDF1B,#F0F0F0,#0A0A0A,#F0F0F0,#0A0A0A,#0A0A0A;K1=Rayo Vallecano Home 24-25.svg;TX=15;TC=#F0F0F0,#C40010,#5B0623,#0A0A0A,#5C8FAE,#FFDF1B,#0046A8,#C40010,#C40010,#C40010,#C40010;K2=Atletico Madrid Home 24-25.svg;FG=;FL=;IN=;|MA;MA=40;ID=M40;NA=1;FI=160919834;CN=1;SY=eb;PY=eh;PF=2;|PA;ID=1126575192;FI=160919834;OD=8/13;SU=0;FG=;FS=0;|PA;ID=1126575463;FI=160919839;OD=29/20;SU=0;FG=;FS=0;|PA;ID=1126576428;FI=160919858;OD=13/8;SU=0;FG=;FS=0;|PA;ID=1126575828;FI=160919846;OD=6/5;SU=0;FG=;FS=0;|PA;ID=1126576149;FI=160919851;OD=15/4;SU=0;FG=;FS=0;|PA;ID=1126575241;FI=160919836;OD=4/6;SU=0;FG=;FS=0;|PA;ID=1126575789;FI=160919844;OD=16/5;SU=0;FG=;FS=0;|PA;ID=1126575548;FI=160919841;OD=14/5;SU=0;FG=;FS=0;|PA;ID=1126574927;FI=160919831;OD=1/3;SU=0;FG=;FS=0;|PA;ID=1126575980;FI=160919849;OD=21/20;SU=0;FG=;FS=0;|PA;ID=1173216584;FI=161277388;OD=7/4;SU=0;FG=;FS=0;|PA;ID=1173216677;FI=161277390;OD=19/20;SU=0;FG=;FS=0;|PA;ID=1173216709;FI=161277392;OD=16/5;SU=0;FG=;FS=0;|PA;ID=1173218911;FI=161277432;OD=1/2;SU=1;FG=;FS=0;|PA;ID=1173216758;FI=161277395;OD=1/2;SU=1;FG=;FS=0;|PA;ID=1173218757;FI=161277429;OD=1/2;SU=1;FG=;FS=0;|PA;ID=1173218222;FI=161277425;OD=1/2;SU=1;FG=;FS=0;|MA;MA=40;ID=M40;NA=X;FI=160919834;CN=1;SY=eb;PY=eh;PF=2;|PA;ID=1126575194;FI=160919834;OD=27/10;SU=0;FG=;FS=0;|PA;ID=1126575465;FI=160919839;OD=12/5;SU=0;FG=;FS=0;|PA;ID=1126576435;FI=160919858;OD=11/5;SU=0;FG=;FS=0;|PA;ID=1126575829;FI=160919846;OD=2/1;SU=0;FG=;FS=0;|PA;ID=1126576156;FI=160919851;OD=29/10;SU=0;FG=;FS=0;|PA;ID=1126575243;FI=160919836;OD=11/4;SU=0;FG=;FS=0;|PA;ID=1126575790;FI=160919844;OD=14/5;SU=0;FG=;FS=0;|PA;ID=1126575549;FI=160919841;OD=12/5;SU=0;FG=;FS=0;|PA;ID=1126574928;FI=160919831;OD=7/2;SU=0;FG=;FS=0;|PA;ID=1126575983;FI=160919849;OD=21/10;SU=0;FG=;FS=0;|PA;ID=1173216585;FI=161277388;OD=15/8;SU=0;FG=;FS=0;|PA;ID=1173216678;FI=161277390;OD=2/1;SU=0;FG=;FS=0;|PA;ID=1173216710;FI=161277392;OD=23/10;SU=0;FG=;FS=0;|PA;ID=1173218918;FI=161277432;OD=2/1;SU=1;FG=;FS=0;|PA;ID=1173216759;FI=161277395;OD=2/1;SU=1;FG=;FS=0;|PA;ID=1173218758;FI=161277429;OD=2/1;SU=1;FG=;FS=0;|PA;ID=1173218241;FI=161277425;OD=2/1;SU=1;FG=;FS=0;|MA;MA=40;ID=M40;NA=2;FI=160919834;CN=1;SY=eb;PY=eh;PF=2;|PA;ID=1126575195;FI=160919834;OD=21/4;SU=0;FG=;FS=0;|PA;ID=1126575466;FI=160919839;OD=15/8;SU=0;FG=;FS=0;|PA;ID=1126576437;FI=160919858;OD=9/5;SU=0;FG=;FS=0;|PA;ID=1126575830;FI=160919846;OD=27/10;SU=0;FG=;FS=0;|PA;ID=1126576158;FI=160919851;OD=4/6;SU=0;FG=;FS=0;|PA;ID=1126575245;FI=160919836;OD=9/2;SU=0;FG=;FS=0;|PA;ID=1126575791;FI=160919844;OD=4/5;SU=0;FG=;FS=0;|PA;ID=1126575550;FI=160919841;OD=1/1;SU=0;FG=;FS=0;|PA;ID=1126574929;FI=160919831;OD=10/1;SU=0;FG=;FS=0;|PA;ID=1126575984;FI=160919849;OD=3/1;SU=0;FG=;FS=0;|PA;ID=1173216587;FI=161277388;OD=9/5;SU=0;FG=;FS=0;|PA;ID=1173216679;FI=161277390;OD=7/2;SU=0;FG=;FS=0;|PA;ID=1173216711;FI=161277392;OD=9/10;SU=0;FG=;FS=0;|PA;ID=1173218919;FI=161277432;OD=1/2;SU=1;FG=;FS=0;|PA;ID=1173216760;FI=161277395;OD=1/2;SU=1;FG=;FS=0;|PA;ID=1173218759;FI=161277429;OD=1/2;SU=1;FG=;FS=0;|PA;ID=1173218244;FI=161277425;OD=1/2;SU=1;FG=;FS=0;|MA;ID=M40;NA= ;FI=160919834;CN=1;SY=em;PY=ef;PF=2;|PA;ID=PC1126575192;FI=160919834;NA=102;PD=#AC#B1#C1#D8#E160919834#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919834F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126575463;FI=160919839;NA=102;PD=#AC#B1#C1#D8#E160919839#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919839F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126576428;FI=160919858;NA=102;PD=#AC#B1#C1#D8#E160919858#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919858F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126575828;FI=160919846;NA=102;PD=#AC#B1#C1#D8#E160919846#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919846F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126576149;FI=160919851;NA=102;PD=#AC#B1#C1#D8#E160919851#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919851F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126575241;FI=160919836;NA=102;PD=#AC#B1#C1#D8#E160919836#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919836F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126575789;FI=160919844;NA=102;PD=#AC#B1#C1#D8#E160919844#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919844F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126575548;FI=160919841;NA=102;PD=#AC#B1#C1#D8#E160919841#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919841F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126574927;FI=160919831;NA=102;PD=#AC#B1#C1#D8#E160919831#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919831F3I0;MP=0;FG=;FS=0;|PA;ID=PC1126575980;FI=160919849;NA=102;PD=#AC#B1#C1#D8#E160919849#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E160919849F3I0;MP=0;FG=;FS=0;|PA;ID=PC1173216584;FI=161277388;NA=87;PD=#AC#B1#C1#D8#E161277388#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E161277388F3I0;MP=0;FG=;FS=0;|PA;ID=PC1173216677;FI=161277390;NA=87;PD=#AC#B1#C1#D8#E161277390#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E161277390F3I0;MP=0;FG=;FS=0;|PA;ID=PC1173216709;FI=161277392;NA=87;PD=#AC#B1#C1#D8#E161277392#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E161277392F3I0;MP=0;FG=;FS=0;|PA;ID=PC1173218911;FI=161277432;NA=1;PD=#AC#B1#C1#D8#E161277432#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E161277432F3I0;MP=0;FG=;FS=0;|PA;ID=PC1173216758;FI=161277395;NA=1;PD=#AC#B1#C1#D8#E161277395#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E161277395F3I0;MP=0;FG=;FS=0;|PA;ID=PC1173218757;FI=161277429;NA=1;PD=#AC#B1#C1#D8#E161277429#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E161277429F3I0;MP=0;FG=;FS=0;|PA;ID=PC1173218222;FI=161277425;NA=1;PD=#AC#B1#C1#D8#E161277425#F3#I0#;IT=#AC#B1#C1#D1002#E105912932#G40#RCC-PA-AJACB1C1D8E161277425F3I0;MP=0;FG=;FS=0;|MG;ID=LMAB;DO=1;SY=fc;CK=1;CC=Spanish Primera;ED=Spanje - La Liga;PD=#PU#B1#C1#D1002#E105912932#G40#;IT=#AC#B1#C1#D1002#E105912932#G40#CC-MG-AEPUB#B1#C1#D1002#E105912932#G40#;|MG;ID=RC   MG;IT=ACB1C1D1002E105912932F0RCC-MG-AG;NA=Gerelateerde markten;SY=fg;DO=0;FF=;|MA;ID=RCM;IT=ACB1C1D1002E105912932F0RCC-MA-AC;SY=_a;PY=fk;CX=1;CN=1;OM=1;|PA;ID=103458425;NA=Uiteindelijke winnaar;PD=#AC#B1#C172#D1#E103458425#F2#;IT=RCC-PA-AN-ACB1C172D1E103458425F2;FF=;|PA;ID=104719975;NA=Uiteindelijke winnaar zonder;PD=#AC#B1#C172#D1#E104719975#F2#;IT=RCC-PA-AN-ACB1C172D1E104719975F2;FF=;|PA;ID=107022798;NA=Topscorer;PD=#AC#B1#C172#D1#E107022798#F2#;IT=RCC-PA-AN-ACB1C172D1E107022798F2;FF=;|PA;ID=104720062;NA=Degradeert;PD=#AC#B1#C172#D1#E104720062#F2#;IT=RCC-PA-AN-ACB1C172D1E104720062F2;FF=;|PA;ID=104719039;NA=Eindigt in de top 4;PD=#AC#B1#C172#D1#E104719039#F2#;IT=RCC-PA-AN-ACB1C172D1E104719039F2;FF=;|PA;ID=104799140;NA=Speler - Totaal aantal doelpunten;PD=#AC#B1#C172#D1#E104799140#F2#;IT=RCC-PA-AN-ACB1C172D1E104799140F2;FF=;|PA;ID=107484014;NA=Meeste assists;PD=#AC#B1#C172#D1#E107484014#F2#;IT=RCC-PA-AN-ACB1C172D1E107484014F2;FF=;|PA;ID=104720489;NA=Team - Uiteindelijke winnaar;PD=#AC#B1#C172#D1#E104720489#F2#;IT=RCC-PA-AN-ACB1C172D1E104720489F2;FF=;|'
+
+class ParseBet365():
+    def __init__(self, data):
+        self.data = data
+
+    def _get_values_odds(self, value):
+        values = []
+        ids = []
+        for row in self.data.split('|'):
+            if row.startswith('PA'):
+                data_parts = row.split(';')
+                fi = None
+                for part in data_parts:
+                    if part.startswith("FI="):
+                        fi = part[3:]  # Get the Fixture ID (FI)
+                for i, data in enumerate(data_parts):
+                    if data.startswith(value):
+                        # Check if the next part has 'SU=0'
+                        if i + 1 < len(data_parts) and 'SU=0' in data_parts[i + 1] and fi:
+                            values.append(data[3:])
+                            ids.append(fi)
+        return values, ids
+    
+    def _get_values(self, value):
+         values = []
+         for row in self.data.split('|'):
+             if row.startswith('PA'):
+                 for data in row.split(';'):
+                     if data.startswith(value):
+                         values.append(data[3:])
+         return values
+
+    def _parse_events(self):
+        events = []
+        datetimes = self._parse_datetimes()
+        home_teams, away_teams, fixture_ids = self._parse_teams_and_ids()
+
+        for dt, home_team, away_team, fixture_id in zip(datetimes, home_teams, away_teams, fixture_ids):
+            if dt > datetime.utcnow():
+                events.append({'time': dt, 'home_team': home_team, 'away_team': away_team, 'fixture_id': fixture_id})
+
+        return events
+
+    def _parse_datetimes(self):
+        datetimes = []
+        values = self._get_values('BC')
+        for dt in values:
+            datetimes.append(datetime.strptime(dt, '%Y%m%d%H%M%S'))
+        return datetimes
+
+    def _parse_teams_and_ids(self):
+        home_teams, away_teams, fixture_ids = [], [], []
+        for row in self.data.split('|'):
+            if row.startswith('PA'):
+                fixture_id = None
+                teams = None
+                for part in row.split(';'):
+                    if part.startswith('FD='):
+                        teams = part[3:]  # Home team vs Away team
+                    if part.startswith('FI='):
+                        fixture_id = part[3:]  # Fixture ID
+                if teams and ' v ' in teams:
+                    home_team, away_team = teams.split(' v ')
+                    home_teams.append(home_team)
+                    away_teams.append(away_team)
+                    fixture_ids.append(fixture_id)
+        return home_teams, away_teams, fixture_ids
+
+    def _parse_odds(self):
+        odds = []
+        ids = []
+        values, ids = self._get_values_odds('OD')
+        if len(values) == 0:
+            print("no odds")
+        for odd in values:
+            n, d = odd.split('/')
+            odd = round((int(n) / int(d)) + 1, 2)  # rounding to 2 decimal places
+            odds.append(odd)
+        return odds, ids
+
+    def get_full_time_results(self, url):
+        events = self._parse_events()
+        full_time_result, odds_fixture_ids = self._parse_odds()
+        competition = competition = get_competition_name_by_url(url, "bet365")
+        
+        # Ensure that we only match events that have odds associated with them by FI
+        odds_data = {}
+        used_fixture_ids = set()  # Track used fixture_ids
+
+        for event in events:
+            match_name = f"{event['home_team']} - {event['away_team']}"
+            if event['fixture_id'] in odds_fixture_ids:
+                # Get the odds for that fixture_id
+                indices = [i for i, fi in enumerate(odds_fixture_ids) if fi == event['fixture_id']]
+                
+                if len(indices) >= 3:
+                    _1 = full_time_result[indices[0]]  # Home team win odds
+                    _X = full_time_result[indices[1]]  # Draw odds
+                    _2 = full_time_result[indices[2]]  # Away team win odds
+
+                    odds_data[match_name] = {
+                        'date': event['time'],
+                        'odds': {'bet365': [_1, _X, _2]},
+                        'id': {'bet365': event['fixture_id']},
+                        'competition': competition
+                    }
+                    used_fixture_ids.add(event['fixture_id'])
+                else:
+                    print(f"Incomplete odds data for match {match_name}")
+            else:
+                #print(f"No odds found for match {match_name}")
+                pass
+        return odds_data
+    
+if __name__ == "__main__":
+    # Usage
+    parser = ParseBet365()
+    full_time_results = parser.get_full_time_results('https://www.bet365.nl/#/AC/B1/C1/D1002/E105959196/G40/')
