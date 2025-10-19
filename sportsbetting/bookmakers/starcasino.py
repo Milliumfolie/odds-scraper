@@ -4,7 +4,6 @@ Created on Sat Sep 13 11:14:30 2025
 
 @author: Jorden
 """
-
 from __future__ import annotations
 
 import datetime
@@ -12,7 +11,6 @@ import json
 from typing import Any, Dict, List, Optional
 
 import requests
-
 
 def fetch_json(
     url: str,

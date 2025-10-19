@@ -76,83 +76,82 @@ def parse_competition(competition, sport, *sites):
         print(url)
         try:
             if url:
-                if site == "bet365":
-                    # Run the subprocess and capture the output
-                    command = ["python", "sportsbetting\\bookmakers\\Bet365.py", url]
-                    site = 'bet365'
-                    res_parsing = {}
+                # if site == "bet365":
+                #     # Run the subprocess and capture the output
+                #     command = ["python", "sportsbetting\\bookmakers\\Bet365.py", url]
+                #     site = 'bet365'
+                #     res_parsing = {}
                 
-                    # Capture output from the subprocess
-                    process_output = subprocess.run(command, capture_output=True, text=True).stdout
-                    print("Raw Output from subprocess:")
-                    print(process_output)
+                #     # Capture output from the subprocess
+                #     process_output = subprocess.run(command, capture_output=True, text=True).stdout
+                #     print("Raw Output from subprocess:")
+                #     print(process_output)
                 
-                    # Extracting the dictionary portion from the string
-                    start_index = process_output.find("{")
-                    end_index = process_output.rfind("}") + 1
-                    matches = process_output[start_index:end_index]
+                #     # Extracting the dictionary portion from the string
+                #     start_index = process_output.find("{")
+                #     end_index = process_output.rfind("}") + 1
+                #     matches = process_output[start_index:end_index]
 
-                    # Print the extracted string (for debugging purposes)
-                    print("Extracted Dictionary String:\n", matches)
+                #     # Print the extracted string (for debugging purposes)
+                #     print("Extracted Dictionary String:\n", matches)
                     
-                    if matches:
-                        # Assuming the first match is the relevant one (odds data)
-                        res_parsing[site] = matches
+                #     if matches:
+                #         # Assuming the first match is the relevant one (odds data)
+                #         res_parsing[site] = matches
                 
-                        # Ensure the dictionary is properly enclosed
-                        if res_parsing[site].count("{") == res_parsing[site].count("}"):
-                            # Replace datetime.datetime instances with a simpler format (only keep relevant components)
-                            pattern = r"datetime\.datetime\(([\d,\s]+)\)"
-                            res_parsing[site] = re.sub(pattern, r"'\1'", res_parsing[site])
+                #         # Ensure the dictionary is properly enclosed
+                #         if res_parsing[site].count("{") == res_parsing[site].count("}"):
+                #             # Replace datetime.datetime instances with a simpler format (only keep relevant components)
+                #             pattern = r"datetime\.datetime\(([\d,\s]+)\)"
+                #             res_parsing[site] = re.sub(pattern, r"'\1'", res_parsing[site])
                 
-                            print("Processed data:")
-                            print(res_parsing[site])
+                #             print("Processed data:")
+                #             print(res_parsing[site])
                 
-                            try:
-                                # Convert the string (JSON-like) to a Python dictionary
-                                res_parsing[site] = ast.literal_eval(res_parsing[site])
+                #             try:
+                #                 # Convert the string (JSON-like) to a Python dictionary
+                #                 res_parsing[site] = ast.literal_eval(res_parsing[site])
                 
-                                # Filter out matches that have more than 5 datetime components
-                                matches_to_remove = []
-                                for match_key, match in res_parsing[site].items():
-                                    # Split the 'date' field into components
-                                    date_components = match['date'].split(', ')
+                #                 # Filter out matches that have more than 5 datetime components
+                #                 matches_to_remove = []
+                #                 for match_key, match in res_parsing[site].items():
+                #                     # Split the 'date' field into components
+                #                     date_components = match['date'].split(', ')
                 
-                                    # Check if the datetime has more than 5 components (ignore microseconds, seconds)
-                                    if len(date_components) > 5:
-                                        matches_to_remove.append(match_key)
+                #                     # Check if the datetime has more than 5 components (ignore microseconds, seconds)
+                #                     if len(date_components) > 5:
+                #                         matches_to_remove.append(match_key)
                 
-                                # Remove matches with more than 5 datetime components
-                                for match_key in matches_to_remove:
-                                    del res_parsing[site][match_key]
+                #                 # Remove matches with more than 5 datetime components
+                #                 for match_key in matches_to_remove:
+                #                     del res_parsing[site][match_key]
                 
-                                # Convert the remaining datetime strings back to datetime objects and odds to floats
-                                for match in res_parsing[site].values():
-                                    # Rebuild the datetime string to match the format %Y, %m, %d, %H, %M
-                                    date_str = ', '.join(match['date'].split(', ')[:5])
-                                    match['date'] = datetime.datetime.strptime(date_str, '%Y, %m, %d, %H, %M')
+                #                 # Convert the remaining datetime strings back to datetime objects and odds to floats
+                #                 for match in res_parsing[site].values():
+                #                     # Rebuild the datetime string to match the format %Y, %m, %d, %H, %M
+                #                     date_str = ', '.join(match['date'].split(', ')[:5])
+                #                     match['date'] = datetime.datetime.strptime(date_str, '%Y, %m, %d, %H, %M')
                 
-                                    # Convert odds to floats if the 'bet365' odds are present
-                                    if 'odds' in match and 'bet365' in match['odds']:
-                                        match['odds']['bet365'] = [float(odds) for odds in match['odds']['bet365']]
+                #                     # Convert odds to floats if the 'bet365' odds are present
+                #                     if 'odds' in match and 'bet365' in match['odds']:
+                #                         match['odds']['bet365'] = [float(odds) for odds in match['odds']['bet365']]
                 
-                                print("Parsed odds dictionary:")
-                                print(res_parsing[site])
+                #                 print("Parsed odds dictionary:")
+                #                 print(res_parsing[site])
                 
-                            except (ValueError, SyntaxError) as e:
-                                print(f"Error parsing odds data: {e}")
-                                res_parsing[site] = {}
+                #             except (ValueError, SyntaxError) as e:
+                #                 print(f"Error parsing odds data: {e}")
+                #                 res_parsing[site] = {}
                 
-                        else:
-                            print("The extracted data does not have matching opening and closing braces.")
-                            res_parsing[site] = {}
+                #         else:
+                #             print("The extracted data does not have matching opening and closing braces.")
+                #             res_parsing[site] = {}
                 
-                    else:
-                        print("No valid odds data found in the subprocess output.")
-                        res_parsing[site] = {}
+                #     else:
+                #         print("No valid odds data found in the subprocess output.")
+                #         res_parsing[site] = {}
                         
-                else:
-                    res_parsing[site] = parse(site, url)
+                res_parsing[site] = parse(site, url)
             else:
                 print("No url for {} on {}".format(competition, site))
         except urllib.error.URLError:
@@ -263,13 +262,13 @@ def parse_competitions_site_GUI(competitions, sport, site):
 
 
 def parse_competitions(competitions, sport, *sites):
-    sites_order = ['betcity','bet365', 'bingoal', 'circus', 'unibet', 'livescorebet', 'toto', 'livescorebt', 'zebet', 'holland_casino', 'jacks', 'pinnacle', 'vbet', 'onecasino', 'starcasino']
+    sites_order = ['betcity', 'bet365', 'bingoal', 'circus', 'unibet', 'livescorebet', 'toto', 'livescorebt', 'zebet', 'holland_casino', 'jacks', 'pinnacle', 'vbet', 'onecasino', 'starcasino']
     if not sites:
         sites = sites_order
     sb.EXPECTED_TIME = 28 + len(competitions) * 12.5
     sites = [site for site in sites_order if site in sites]
     sb.PROGRESS = 0
-    selenium_sites = sb.SELENIUM_SITES.intersection(sites)
+    #selenium_sites = sb.SELENIUM_SITES.intersection(sites)
     #for site in selenium_sites:
     #    selenium_init.start_driver(site)
     #    sb.PROGRESS += 100/len(selenium_sites)
@@ -362,10 +361,6 @@ def best_match_under_conditions(site, minimum_odd, bet, competition, sport="foot
     (one_site=True), auquel cas, chacune des cotes du match doivent respecter le
     critère de cote minimale.
     """
-    
-    #print("here now")
-    #print(competition)
-    #print(sport)
     
     odds_function = get_best_odds(one_site)
     profit_function = get_profit(bet, one_site)

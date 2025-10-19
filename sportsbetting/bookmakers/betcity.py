@@ -353,3 +353,4 @@ if __name__ == '__main__':
     #sb.DB_MANAGEMENT = True
     test = parse_betcity_api('https://eu1.offering-api.kambicdn.com/offering/v2018/betcitynl/listView/football/netherlands/eredivisie.json?lang=nl_NL&market=NL')
     #test = get_sub_markets_football_betcity('1021150919')
+    print(test)

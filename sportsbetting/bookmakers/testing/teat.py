@@ -5,7 +5,6 @@ from __future__ import annotations
 from typing import Dict, Any, List, Optional
 from urllib.parse import urlparse
 import requests, json, re, time, base64
-from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
 from cryptography.hazmat.backends import default_backend
@@ -41,7 +40,7 @@ FEED_HEADERS = {
 }
 
 
-def get_bet365_odds(
+def get_listing_odds(
     listing_url: str,
     *,
     per_request_sleep: float = 0.25,
@@ -143,7 +142,7 @@ def get_bet365_odds(
                 name = f"{name} ({cnt})"
 
             results[name] = {
-                "date": _parse_start(ev["startDate"]),
+                "date": ev["startDate"],
                 "odds": {book_key: odds},
                 "id": {book_key: mid},
                 "competition": competition,
@@ -163,19 +162,6 @@ def get_bet365_odds(
 # =========================
 # Tiny helpers (private)
 # =========================
-def _parse_start(s: str) -> datetime:
-    """Parse ISO string (with or without timezone) into naive datetime like BetCity."""
-    if not s:
-        return None
-
-    s = s.replace("Z", "+00:00")  # normalize UTC Z format
-    dt = datetime.fromisoformat(s)
-
-    # If it's timezone-aware, convert to UTC first, then drop tzinfo
-    if dt.tzinfo is not None:
-        dt = dt.astimezone(timezone.utc).replace(tzinfo=None)
-    return dt
-
 
 def _get_text(session: requests.Session, url: str, *, headers: dict, timeout: int) -> str:
     # Simple retry: 3 tries, short backoff
@@ -270,6 +256,6 @@ def _extract_1x2_odds(event_json: Dict[str, Any], bookmaker_id: str) -> Optional
 # ---------------- Example CLI ----------------
 if __name__ == "__main__":
     url = "https://www.oddsportal.com/football/europe/europa-league/"
-    data = get_bet365_odds(url, max_events=20)  # limit for a quick peek
+    data = get_listing_odds(url, max_events=6)  # limit for a quick peek
     for k, v in data.items():
         print(k, "->", v)
