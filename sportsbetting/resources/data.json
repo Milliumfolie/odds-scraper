@@ -1,4616 +1,453 @@
 {
   "football": {
-    "Celta Vigo - Barcelona": {
-      "odds": {
-        "betcity": [
-          5.1,
-          4.6,
-          1.61
-        ],
-        "bingoal": [
-          5.1,
-          4.6,
-          1.6
-        ],
-        "unibet": [
-          5.1,
-          4.6,
-          1.61
-        ],
-        "toto": [
-          4.75,
-          4.25,
-          1.58
-        ],
-        "zebet": [
-          4.5,
-          4.0,
-          1.57
-        ],
-        "jacks": [
-          5.0,
-          4.5,
-          1.56
-        ],
-        "vbet": [
-          5.0,
-          4.4,
-          1.59
-        ],
-        "onecasino": [
-          5.0,
-          4.2,
-          1.59
-        ],
-        "starcasino": [
-          5.0,
-          4.2,
-          1.58
-        ]
-      },
-      "id": {
-        "betcity": 1024182696,
-        "bingoal": 1024182696,
-        "unibet": 1024182696,
-        "toto": "8653694",
-        "zebet": "hjea3",
-        "jacks": 1024182696,
-        "vbet": "28311096",
-        "onecasino": "10344541",
-        "starcasino": 13365570
-      },
-      "date": "2025-11-09T20:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Excelsior - SC Heracles Almelo": {
-      "odds": {
-        "betcity": [
-          2.07,
-          4.0,
-          3.3
-        ],
-        "bingoal": [
-          2.04,
-          4.0,
-          3.25
-        ],
-        "unibet": [
-          2.07,
-          4.0,
-          3.3
-        ],
-        "toto": [
-          2.04,
-          3.85,
-          3.35
-        ],
-        "zebet": [
-          2.0,
-          3.7,
-          3.15
-        ],
-        "jacks": [
-          2.07,
-          4.0,
-          3.3
-        ],
-        "vbet": [
-          2.02,
-          3.81,
-          3.3
-        ],
-        "onecasino": [
-          2.0,
-          3.7,
-          3.3
-        ],
-        "starcasino": [
-          1.96,
-          3.75,
-          3.2
-        ]
-      },
-      "id": {
-        "betcity": 1024051588,
-        "bingoal": 1024051588,
-        "unibet": 1024051588,
-        "toto": "9061162",
-        "zebet": "7gea3",
-        "jacks": 1024051588,
-        "vbet": "28304333",
-        "onecasino": "10345007",
-        "starcasino": 13262060
-      },
-      "date": "2025-11-08T15:30:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Werder Bremen - Wolfsburg": {
-      "odds": {
-        "betcity": [
-          2.3,
-          3.9,
-          3.0
-        ],
-        "bingoal": [
-          2.28,
-          3.85,
-          2.95
-        ],
-        "unibet": [
-          2.3,
-          3.9,
-          2.95
-        ],
-        "toto": [
-          2.23,
-          3.7,
-          3.0
-        ],
-        "zebet": [
-          2.17,
-          3.55,
-          2.87
-        ],
-        "jacks": [
-          2.3,
-          3.9,
-          3.0
-        ],
-        "vbet": [
-          2.17,
-          3.75,
-          3.01
-        ],
-        "onecasino": [
-          2.2,
-          3.7,
-          2.95
-        ],
-        "starcasino": [
-          2.17,
-          3.67,
-          3.0
-        ]
-      },
-      "id": {
-        "betcity": 1024136720,
-        "bingoal": 1024136720,
-        "unibet": 1024136720,
-        "toto": "9050420",
-        "zebet": "ilea3",
-        "jacks": 1024136720,
-        "vbet": "28296574",
-        "onecasino": "10347940",
-        "starcasino": 13260438
-      },
-      "date": "2025-11-07T19:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Hamburg - Dortmund": {
-      "odds": {
-        "betcity": [
-          4.4,
-          4.4,
-          1.75
-        ],
-        "bingoal": [
-          4.35,
-          4.3,
-          1.72
-        ],
-        "unibet": [
-          4.4,
-          4.35,
-          1.74
-        ],
-        "toto": [
-          4.0,
-          4.0,
-          1.72
-        ],
-        "zebet": [
-          3.85,
-          3.8,
-          1.7
-        ],
-        "jacks": [
-          4.4,
-          4.4,
-          1.75
-        ],
-        "vbet": [
-          4.1,
-          4.1,
-          1.76
-        ],
-        "onecasino": [
-          4.1,
-          4.0,
-          1.74
-        ],
-        "starcasino": [
-          4.2,
-          4.25,
-          1.68
-        ]
-      },
-      "id": {
-        "betcity": 1024136740,
-        "bingoal": 1024136740,
-        "unibet": 1024136740,
-        "toto": "9346411",
-        "zebet": "llea3",
-        "jacks": 1024136740,
-        "vbet": "28304119",
-        "onecasino": "10347961",
-        "starcasino": 13260401
-      },
-      "date": "2025-11-08T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Valencia - Betis": {
-      "odds": {
-        "betcity": [
-          3.05,
-          3.45,
-          2.43
-        ],
-        "bingoal": [
-          3.0,
-          3.4,
-          2.4
-        ],
-        "unibet": [
-          3.05,
-          3.45,
-          2.43
-        ],
-        "toto": [
-          2.9,
-          3.3,
-          2.33
-        ],
-        "zebet": [
-          2.77,
-          3.2,
-          2.3
-        ],
-        "jacks": [
-          2.95,
-          3.35,
-          2.35
-        ],
-        "vbet": [
-          2.93,
-          3.39,
-          2.36
-        ],
-        "onecasino": [
-          2.9,
-          3.3,
-          2.35
-        ],
-        "starcasino": [
-          2.9,
-          3.33,
-          2.36
-        ]
-      },
-      "id": {
-        "betcity": 1024182694,
-        "bingoal": 1024182694,
-        "unibet": 1024182694,
-        "toto": "8653692",
-        "zebet": "4jea3",
-        "jacks": 1024182694,
-        "vbet": "28311095",
-        "onecasino": "10344560",
-        "starcasino": 13365620
-      },
-      "date": "2025-11-09T17:30:00",
-      "competition": "Spanish La Liga"
-    },
-    "Burnley - Arsenal": {
-      "odds": {
-        "betcity": [
-          14.0,
-          6.4,
-          1.25
-        ],
-        "bingoal": [
-          14.0,
-          6.4,
-          1.23
-        ],
-        "unibet": [
-          14.0,
-          6.4,
-          1.24
-        ],
-        "toto": [
-          12.5,
-          6.0,
-          1.27
-        ],
-        "zebet": [
-          11.5,
-          5.8,
-          1.25
-        ],
-        "jacks": [
-          14.0,
-          6.4,
-          1.24
-        ],
-        "vbet": [
-          12.0,
-          5.8,
-          1.24
-        ],
-        "onecasino": [
-          12.5,
-          5.75,
-          1.25
-        ],
-        "starcasino": [
-          11.0,
-          5.5,
-          1.29
-        ]
-      },
-      "id": {
-        "betcity": 1024044178,
-        "bingoal": 1024044178,
-        "unibet": 1024044178,
-        "toto": "9266519",
-        "zebet": "z97a3",
-        "jacks": 1024044178,
-        "vbet": "28253288",
-        "onecasino": "10303670",
-        "starcasino": 13190228
-      },
-      "date": "2025-11-01T15:00:00",
-      "competition": "England Premier League"
-    },
-    "Lille - Angers": {
-      "odds": {
-        "betcity": [
-          1.3,
-          5.6,
-          11.0
-        ],
-        "bingoal": [
-          1.28,
-          5.6,
-          11.0
-        ],
-        "unibet": [
-          1.3,
-          5.6,
-          11.0
-        ],
-        "toto": [
-          1.28,
-          5.75,
-          10.5
-        ],
-        "zebet": [
-          1.26,
-          5.4,
-          10.0
-        ],
-        "jacks": [
-          1.29,
-          5.6,
-          11.0
-        ],
-        "vbet": [
-          1.26,
-          5.7,
-          11.0
-        ],
-        "onecasino": [
-          1.26,
-          5.5,
-          11.0
-        ],
-        "starcasino": [
-          1.27,
-          5.75,
-          11.0
-        ]
-      },
-      "id": {
-        "betcity": 1024143626,
-        "bingoal": 1024143626,
-        "unibet": 1024143626,
-        "toto": "9317591",
-        "zebet": "yiea3",
-        "jacks": 1024143626,
-        "vbet": "28260302",
-        "onecasino": "10345943",
-        "starcasino": 14164061
-      },
-      "date": "2025-11-02T16:15:00",
-      "competition": "French Ligue 1"
-    },
-    "Union Berlin - Freiburg": {
-      "odds": {
-        "betcity": [
-          2.6,
-          3.25,
-          2.8
-        ],
-        "bingoal": [
-          2.55,
-          3.2,
-          2.75
-        ],
-        "unibet": [
-          2.6,
-          3.2,
-          2.8
-        ],
-        "toto": [
-          2.55,
-          3.25,
-          2.8
-        ],
-        "zebet": [
-          2.55,
-          3.25,
-          2.77
-        ],
-        "jacks": [
-          2.6,
-          3.25,
-          2.8
-        ],
-        "vbet": [
-          2.6,
-          3.1,
-          2.83
-        ],
-        "onecasino": [
-          2.6,
-          3.15,
-          2.85
-        ],
-        "starcasino": [
-          2.67,
-          3.1,
-          2.83
-        ]
-      },
-      "id": {
-        "betcity": 1024136790,
-        "bingoal": 1024136790,
-        "unibet": 1024136790,
-        "toto": "8990271",
-        "zebet": "z58a3",
-        "jacks": 1024136790,
-        "vbet": "28253266",
-        "onecasino": "10307441",
-        "starcasino": 13189583
-      },
-      "date": "2025-11-01T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Juventus - Torino": {
-      "odds": {
-        "betcity": [
-          1.55,
-          4.1,
-          6.75
-        ],
-        "bingoal": [
-          1.54,
-          4.1,
-          6.75
-        ],
-        "unibet": [
-          1.55,
-          4.1,
-          6.75
-        ],
-        "toto": [
-          1.51,
-          3.95,
-          6.0
-        ],
-        "zebet": [
-          1.5,
-          3.75,
-          5.8
-        ],
-        "jacks": [
-          1.55,
-          4.1,
-          6.75
-        ],
-        "vbet": [
-          1.51,
-          3.98,
-          6.7
-        ],
-        "onecasino": [
-          1.51,
-          3.9,
-          6.75
-        ],
-        "starcasino": [
-          1.48,
-          4.0,
-          7.0
-        ]
-      },
-      "id": {
-        "betcity": 1023931981,
-        "bingoal": 1023931981,
-        "unibet": 1023931981,
-        "toto": "9379958",
-        "zebet": "ajha3",
-        "jacks": 1023931981,
-        "vbet": "28304140",
-        "onecasino": "10366604",
-        "starcasino": 13270102
-      },
-      "date": "2025-11-08T17:00:00",
-      "competition": "Italy Serie A"
-    },
-    "West Ham - Newcastle": {
-      "odds": {
-        "betcity": [
-          5.25,
-          4.4,
-          1.65
-        ],
-        "bingoal": [
-          5.2,
-          4.35,
-          1.63
-        ],
-        "unibet": [
-          5.3,
-          4.4,
-          1.64
-        ],
-        "toto": [
-          5.25,
-          4.25,
-          1.62
-        ],
-        "zebet": [
-          5.2,
-          4.2,
-          1.65
-        ],
-        "jacks": [
-          5.25,
-          4.35,
-          1.64
-        ],
-        "vbet": [
-          5.1,
-          4.33,
-          1.58
-        ],
-        "onecasino": [
-          5.0,
-          4.1,
-          1.6
-        ],
-        "starcasino": [
-          5.33,
-          4.2,
-          1.6
-        ]
-      },
-      "id": {
-        "betcity": 1024044168,
-        "bingoal": 1024044168,
-        "unibet": 1024044168,
-        "toto": "9266521",
-        "zebet": "4a7a3",
-        "jacks": 1024044168,
-        "vbet": "28257345",
-        "onecasino": "10303676",
-        "starcasino": 13190223
-      },
-      "date": "2025-11-02T14:00:00",
-      "competition": "England Premier League"
-    },
-    "Villarreal - Vallecano": {
-      "odds": {
-        "betcity": [
-          1.71,
-          3.9,
-          5.3
-        ],
-        "bingoal": [
-          1.7,
-          3.85,
-          5.25
-        ],
-        "unibet": [
-          1.7,
-          3.9,
-          5.3
-        ],
-        "toto": [
-          1.69,
-          3.95,
-          4.75
-        ],
-        "zebet": [
-          1.7,
-          3.85,
-          4.7
-        ],
-        "jacks": [
-          1.66,
-          3.8,
-          5.1
-        ],
-        "vbet": [
-          1.68,
-          3.84,
-          4.8
-        ],
-        "onecasino": [
-          1.69,
-          3.9,
-          4.8
-        ],
-        "starcasino": [
-          1.69,
-          3.8,
-          5.0
-        ]
-      },
-      "id": {
-        "betcity": 1024182671,
-        "bingoal": 1024182671,
-        "unibet": 1024182671,
-        "toto": "8586240",
-        "zebet": "y18a3",
-        "jacks": 1024182671,
-        "vbet": "28253252",
-        "onecasino": "10307184",
-        "starcasino": 13247309
-      },
-      "date": "2025-11-01T13:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "RasenBallsport Leipzig - Stuttgart": {
+    "FC Noah - Sigma Olomouc": {
       "odds": {
         "betcity": [
           1.98,
-          4.1,
-          3.55
+          3.65,
+          3.85
+        ],
+        "bet365": [
+          1.91,
+          3.6,
+          3.8
         ],
         "bingoal": [
           1.95,
-          4.1,
-          3.5
+          3.6,
+          3.8
         ],
         "unibet": [
-          1.97,
-          4.1,
-          3.55
-        ],
-        "toto": [
-          2.01,
-          4.0,
-          3.35
-        ],
-        "zebet": [
-          2.0,
-          3.9,
-          3.3
-        ],
-        "jacks": [
           1.98,
-          4.1,
-          3.55
-        ],
-        "vbet": [
-          2.0,
-          3.82,
-          3.37
-        ],
-        "onecasino": [
-          2.0,
-          3.9,
-          3.35
-        ],
-        "starcasino": [
-          2.0,
-          3.8,
-          3.5
-        ]
-      },
-      "id": {
-        "betcity": 1024136756,
-        "bingoal": 1024136756,
-        "unibet": 1024136756,
-        "toto": "8990312",
-        "zebet": "t58a3",
-        "jacks": 1024136756,
-        "vbet": "28253268",
-        "onecasino": "10307438",
-        "starcasino": 13189608
-      },
-      "date": "2025-11-01T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Paris FC - Rennes": {
-      "odds": {
-        "betcity": [
-          2.38,
           3.65,
-          2.9
+          3.85
         ],
-        "bingoal": [
-          2.35,
+        "toto": [
+          1.99,
           3.6,
-          2.88
-        ],
-        "unibet": [
-          2.38,
-          3.65,
-          2.9
-        ],
-        "toto": [
-          2.31,
-          3.6,
-          2.95
-        ],
-        "zebet": [
-          2.25,
-          3.45,
-          2.82
-        ],
-        "jacks": [
-          2.38,
-          3.6,
-          2.88
-        ],
-        "vbet": [
-          2.25,
-          3.67,
-          2.91
-        ],
-        "starcasino": [
-          2.25,
-          3.6,
-          2.86
-        ]
-      },
-      "id": {
-        "betcity": 1024143645,
-        "bingoal": 1024143645,
-        "unibet": 1024143645,
-        "toto": "9368764",
-        "zebet": "2jha3",
-        "jacks": 1024143645,
-        "vbet": "28296566",
-        "starcasino": 14096479
-      },
-      "date": "2025-11-07T19:45:00",
-      "competition": "French Ligue 1"
-    },
-    "Go Ahead Eagles - Feyenoord": {
-      "odds": {
-        "betcity": [
-          4.9,
-          4.6,
-          1.63
-        ],
-        "bingoal": [
-          4.9,
-          4.6,
-          1.61
-        ],
-        "unibet": [
-          4.9,
-          4.6,
-          1.63
-        ],
-        "toto": [
-          5.0,
-          4.5,
-          1.6
-        ],
-        "zebet": [
-          4.6,
-          4.3,
-          1.58
-        ],
-        "jacks": [
-          4.9,
-          4.6,
-          1.63
-        ],
-        "vbet": [
-          4.8,
-          4.5,
-          1.59
-        ],
-        "onecasino": [
-          4.8,
-          4.3,
-          1.6
-        ],
-        "starcasino": [
-          4.5,
-          4.33,
-          1.57
-        ]
-      },
-      "id": {
-        "betcity": 1024051572,
-        "bingoal": 1024051572,
-        "unibet": 1024051572,
-        "toto": "9071214",
-        "zebet": "9gea3",
-        "jacks": 1024051572,
-        "vbet": "28311228",
-        "onecasino": "10344999",
-        "starcasino": 13271637
-      },
-      "date": "2025-11-09T19:00:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Crystal Palace - Brighton": {
-      "odds": {
-        "betcity": [
-          2.28,
-          3.8,
-          3.1
-        ],
-        "bingoal": [
-          2.25,
-          3.75,
-          3.05
-        ],
-        "unibet": [
-          2.28,
-          3.8,
-          3.1
-        ],
-        "toto": [
-          2.17,
-          3.5,
-          3.0
-        ],
-        "zebet": [
-          2.15,
-          3.4,
-          2.95
-        ],
-        "jacks": [
-          2.25,
-          3.8,
-          3.1
-        ],
-        "vbet": [
-          2.15,
-          3.58,
-          3.16
-        ],
-        "onecasino": [
-          2.15,
-          3.5,
-          3.1
-        ],
-        "starcasino": [
-          2.17,
-          3.5,
-          3.1
-        ]
-      },
-      "id": {
-        "betcity": 1024044100,
-        "bingoal": 1024044100,
-        "unibet": 1024044100,
-        "toto": "9349937",
-        "zebet": "swea3",
-        "jacks": 1024044100,
-        "vbet": "28311112",
-        "onecasino": "10351050",
-        "starcasino": 13262021
-      },
-      "date": "2025-11-09T14:00:00",
-      "competition": "England Premier League"
-    },
-    "Parma Calcio 1913 - Milan": {
-      "odds": {
-        "betcity": [
-          5.5,
-          3.95,
-          1.67
-        ],
-        "bingoal": [
-          5.5,
-          3.9,
-          1.66
-        ],
-        "unibet": [
-          5.5,
-          3.95,
-          1.67
-        ],
-        "toto": [
-          5.0,
-          3.7,
-          1.64
-        ],
-        "zebet": [
-          4.8,
-          3.55,
-          1.62
-        ],
-        "jacks": [
-          5.5,
-          3.95,
-          1.67
-        ],
-        "vbet": [
-          5.3,
-          3.72,
-          1.66
-        ],
-        "onecasino": [
-          5.25,
-          3.6,
-          1.65
-        ],
-        "starcasino": [
-          5.33,
-          3.6,
-          1.65
-        ]
-      },
-      "id": {
-        "betcity": 1023931980,
-        "bingoal": 1023931980,
-        "unibet": 1023931980,
-        "toto": "9379981",
-        "zebet": "fjha3",
-        "jacks": 1023931980,
-        "vbet": "28304138",
-        "onecasino": "10366605",
-        "starcasino": 13270123
-      },
-      "date": "2025-11-08T19:45:00",
-      "competition": "Italy Serie A"
-    },
-    "West Ham - Burnley": {
-      "odds": {
-        "betcity": [
-          2.08,
-          3.7,
-          3.6
-        ],
-        "bingoal": [
-          2.06,
-          3.7,
-          3.55
-        ],
-        "unibet": [
-          2.08,
-          3.7,
-          3.6
-        ],
-        "toto": [
-          2.01,
-          3.4,
-          3.45
-        ],
-        "zebet": [
-          2.0,
-          3.35,
-          3.4
-        ],
-        "jacks": [
-          2.08,
-          3.7,
-          3.6
-        ],
-        "vbet": [
-          2.04,
-          3.37,
-          3.67
-        ],
-        "onecasino": [
-          2.05,
-          3.3,
-          3.6
-        ],
-        "starcasino": [
-          2.05,
-          3.25,
-          3.67
-        ]
-      },
-      "id": {
-        "betcity": 1024044125,
-        "bingoal": 1024044125,
-        "unibet": 1024044125,
-        "toto": "9349870",
-        "zebet": "mwea3",
-        "jacks": 1024044125,
-        "vbet": "28304133",
-        "onecasino": "10351042",
-        "starcasino": 13261995
-      },
-      "date": "2025-11-08T15:00:00",
-      "competition": "England Premier League"
-    },
-    "SC Heracles Almelo - PEC Zwolle": {
-      "odds": {
-        "betcity": [
-          2.45,
-          3.6,
-          2.9
-        ],
-        "bingoal": [
-          2.43,
-          3.55,
-          2.85
-        ],
-        "unibet": [
-          2.45,
-          3.6,
-          2.9
-        ],
-        "toto": [
-          2.47,
-          3.65,
-          2.85
-        ],
-        "zebet": [
-          2.45,
-          3.6,
-          2.82
-        ],
-        "jacks": [
-          2.45,
-          3.6,
-          2.9
-        ],
-        "vbet": [
-          2.43,
-          3.35,
-          2.86
-        ],
-        "onecasino": [
-          2.4,
-          3.35,
-          2.85
-        ],
-        "starcasino": [
-          2.55,
-          3.33,
-          2.8
-        ]
-      },
-      "id": {
-        "betcity": 1024051339,
-        "bingoal": 1024051339,
-        "unibet": 1024051339,
-        "toto": "9001082",
-        "zebet": "d28a3",
-        "jacks": 1024051339,
-        "vbet": "28260355",
-        "onecasino": "10306340",
-        "starcasino": 13197576
-      },
-      "date": "2025-11-02T11:15:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Toulouse - Le Havre": {
-      "odds": {
-        "betcity": [
-          1.73,
-          3.8,
-          5.2
-        ],
-        "bingoal": [
-          1.7,
-          3.75,
-          5.1
-        ],
-        "unibet": [
-          1.73,
-          3.8,
-          5.2
-        ],
-        "toto": [
-          1.77,
-          3.7,
-          4.5
-        ],
-        "zebet": [
-          1.75,
-          3.6,
-          4.4
-        ],
-        "jacks": [
-          1.71,
-          3.8,
-          5.1
-        ],
-        "vbet": [
-          1.79,
-          3.6,
-          4.5
-        ],
-        "onecasino": [
-          1.76,
-          3.6,
-          4.5
-        ],
-        "starcasino": [
-          1.82,
-          3.6,
-          4.5
-        ]
-      },
-      "id": {
-        "betcity": 1024143627,
-        "bingoal": 1024143627,
-        "unibet": 1024143627,
-        "toto": "9339899",
-        "zebet": "1jea3",
-        "jacks": 1024143627,
-        "vbet": "28260299",
-        "onecasino": "10345896",
-        "starcasino": 14176507
-      },
-      "date": "2025-11-02T16:15:00",
-      "competition": "French Ligue 1"
-    },
-    "Sparta - AZ Alkmaar": {
-      "odds": {
-        "betcity": [
-          4.1,
-          4.3,
-          1.81
-        ],
-        "bingoal": [
-          4.0,
-          4.2,
-          1.78
-        ],
-        "unibet": [
-          4.2,
-          4.35,
-          1.8
-        ],
-        "toto": [
-          4.25,
-          4.25,
-          1.81
-        ],
-        "zebet": [
-          4.1,
-          4.1,
-          1.81
-        ],
-        "jacks": [
-          4.1,
-          4.3,
-          1.81
-        ],
-        "vbet": [
-          4.0,
-          4.2,
-          1.75
-        ],
-        "onecasino": [
-          4.0,
-          4.1,
-          1.75
-        ],
-        "starcasino": [
-          4.2,
-          4.0,
-          1.78
-        ]
-      },
-      "id": {
-        "betcity": 1024051341,
-        "bingoal": 1024051341,
-        "unibet": 1024051341,
-        "toto": "9001083",
-        "zebet": "j28a3",
-        "jacks": 1024051341,
-        "vbet": "28260353",
-        "onecasino": "10306345",
-        "starcasino": 13198390
-      },
-      "date": "2025-11-02T13:30:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Como - Cagliari": {
-      "odds": {
-        "betcity": [
-          1.57,
-          4.2,
-          6.4
-        ],
-        "bingoal": [
-          1.56,
-          4.2,
-          6.25
-        ],
-        "unibet": [
-          1.57,
-          4.2,
-          6.4
-        ],
-        "toto": [
-          1.51,
-          4.0,
-          5.75
-        ],
-        "zebet": [
-          1.5,
-          3.85,
-          5.6
-        ],
-        "jacks": [
-          1.57,
-          4.2,
-          6.4
-        ],
-        "vbet": [
-          1.52,
-          4.2,
-          6.0
-        ],
-        "onecasino": [
-          1.52,
-          4.1,
-          6.0
-        ],
-        "starcasino": [
-          1.53,
-          4.0,
-          6.0
-        ]
-      },
-      "id": {
-        "betcity": 1023931973,
-        "bingoal": 1023931973,
-        "unibet": 1023931973,
-        "toto": "9379959",
-        "zebet": "bjha3",
-        "jacks": 1023931973,
-        "vbet": "28304141",
-        "onecasino": "10366602",
-        "starcasino": 13270097
-      },
-      "date": "2025-11-08T14:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Lorient - Toulouse": {
-      "odds": {
-        "betcity": [
-          2.9,
-          3.5,
-          2.48
-        ],
-        "bingoal": [
-          2.85,
-          3.45,
-          2.43
-        ],
-        "unibet": [
-          2.9,
-          3.5,
-          2.48
-        ],
-        "toto": [
-          3.0,
-          3.2,
-          2.3
-        ],
-        "zebet": [
-          2.95,
-          3.1,
-          2.27
-        ],
-        "jacks": [
-          2.88,
-          3.45,
-          2.45
-        ],
-        "vbet": [
-          3.11,
-          3.26,
-          2.32
-        ],
-        "onecasino": [
-          3.1,
-          3.2,
-          2.3
-        ],
-        "starcasino": [
-          3.0,
-          3.25,
-          2.33
-        ]
-      },
-      "id": {
-        "betcity": 1024143642,
-        "bingoal": 1024143642,
-        "unibet": 1024143642,
-        "toto": "9379932",
-        "zebet": "ejha3",
-        "jacks": 1024143642,
-        "vbet": "28311102",
-        "onecasino": "10364854",
-        "starcasino": 14039972
-      },
-      "date": "2025-11-09T14:00:00",
-      "competition": "French Ligue 1"
-    },
-    "Stuttgart - Augsburg": {
-      "odds": {
-        "betcity": [
-          1.57,
-          4.75,
-          5.6
-        ],
-        "bingoal": [
-          1.55,
-          4.7,
-          5.6
-        ],
-        "unibet": [
-          1.56,
-          4.7,
-          5.6
-        ],
-        "toto": [
-          1.48,
-          4.5,
-          5.5
-        ],
-        "zebet": [
-          1.47,
-          4.3,
-          5.2
-        ],
-        "jacks": [
-          1.57,
-          4.75,
-          5.6
-        ],
-        "vbet": [
-          1.49,
-          4.7,
-          5.8
-        ],
-        "onecasino": [
-          1.47,
-          4.5,
-          6.0
-        ],
-        "starcasino": [
-          1.48,
-          4.5,
-          5.75
-        ]
-      },
-      "id": {
-        "betcity": 1024136709,
-        "bingoal": 1024136709,
-        "unibet": 1024136709,
-        "toto": "9070117",
-        "zebet": "nlea3",
-        "jacks": 1024136709,
-        "vbet": "28311107",
-        "onecasino": "10347938",
-        "starcasino": 13260411
-      },
-      "date": "2025-11-09T16:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Real Oviedo - Osasuna": {
-      "odds": {
-        "betcity": [
-          3.15,
-          3.05,
-          2.6
-        ],
-        "bingoal": [
-          3.15,
-          3.0,
-          2.55
-        ],
-        "unibet": [
-          3.15,
-          3.05,
-          2.6
-        ],
-        "toto": [
-          3.0,
-          3.05,
-          2.55
-        ],
-        "zebet": [
-          2.95,
-          3.0,
-          2.5
-        ],
-        "jacks": [
-          3.05,
-          2.95,
-          2.5
-        ],
-        "vbet": [
-          2.99,
-          3.0,
-          2.55
-        ],
-        "onecasino": [
-          2.95,
-          3.05,
-          2.5
-        ],
-        "starcasino": [
-          3.0,
-          3.0,
-          2.6
-        ]
-      },
-      "id": {
-        "betcity": 1024182674,
-        "bingoal": 1024182674,
-        "unibet": 1024182674,
-        "toto": "8586236",
-        "zebet": "428a3",
-        "jacks": 1024182674,
-        "vbet": "28263008",
-        "onecasino": "10307186",
-        "starcasino": 13368376
-      },
-      "date": "2025-11-03T20:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "FC Koln - Hamburg": {
-      "odds": {
-        "betcity": [
-          2.14,
-          3.9,
-          3.35
-        ],
-        "bingoal": [
-          2.1,
-          3.8,
-          3.3
-        ],
-        "unibet": [
-          2.12,
-          3.85,
-          3.3
-        ],
-        "toto": [
-          2.15,
-          3.65,
-          3.2
-        ],
-        "zebet": [
-          2.12,
-          3.55,
-          3.15
-        ],
-        "jacks": [
-          2.14,
-          3.9,
-          3.35
-        ],
-        "vbet": [
-          2.15,
-          3.53,
-          3.23
-        ],
-        "onecasino": [
-          2.15,
-          3.6,
-          3.2
-        ],
-        "starcasino": [
-          2.12,
-          3.67,
-          3.25
-        ]
-      },
-      "id": {
-        "betcity": 1024136778,
-        "bingoal": 1024136778,
-        "unibet": 1024136778,
-        "toto": "9000113",
-        "zebet": "u58a3",
-        "jacks": 1024136778,
-        "vbet": "28260308",
-        "onecasino": "10307270",
-        "starcasino": 13189599
-      },
-      "date": "2025-11-02T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Betis - Mallorca": {
-      "odds": {
-        "betcity": [
-          1.58,
-          4.25,
-          6.1
-        ],
-        "bingoal": [
-          1.56,
-          4.2,
-          6.1
-        ],
-        "unibet": [
-          1.57,
-          4.3,
-          6.25
-        ],
-        "toto": [
-          1.59,
-          4.25,
-          5.5
-        ],
-        "zebet": [
-          1.58,
-          3.95,
-          5.4
-        ],
-        "jacks": [
-          1.53,
-          4.1,
-          6.0
-        ],
-        "vbet": [
-          1.56,
-          4.2,
-          5.6
-        ],
-        "onecasino": [
-          1.56,
-          4.1,
-          5.75
-        ],
-        "starcasino": [
-          1.58,
-          4.2,
-          5.5
-        ]
-      },
-      "id": {
-        "betcity": 1024182658,
-        "bingoal": 1024182658,
-        "unibet": 1024182658,
-        "toto": "8586234",
-        "zebet": "228a3",
-        "jacks": 1024182658,
-        "vbet": "28260295",
-        "onecasino": "10307188",
-        "starcasino": 13365619
-      },
-      "date": "2025-11-02T20:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Liverpool - Aston Villa": {
-      "odds": {
-        "betcity": [
-          1.68,
-          4.35,
-          5.0
-        ],
-        "bingoal": [
-          1.67,
-          4.3,
-          4.9
-        ],
-        "unibet": [
-          1.68,
-          4.4,
-          5.0
-        ],
-        "toto": [
-          1.69,
-          4.5,
-          4.75
-        ],
-        "zebet": [
-          1.68,
-          4.3,
-          4.6
-        ],
-        "jacks": [
-          1.68,
-          4.3,
-          5.0
-        ],
-        "vbet": [
-          1.66,
-          4.1,
-          4.75
-        ],
-        "onecasino": [
-          1.65,
-          4.0,
-          4.6
-        ],
-        "starcasino": [
-          1.65,
-          4.5,
-          4.5
-        ]
-      },
-      "id": {
-        "betcity": 1024044172,
-        "bingoal": 1024044172,
-        "unibet": 1024044172,
-        "toto": "9266529",
-        "zebet": "ha7a3",
-        "jacks": 1024044172,
-        "vbet": "28253285",
-        "onecasino": "10303679",
-        "starcasino": 13190243
-      },
-      "date": "2025-11-01T20:00:00",
-      "competition": "England Premier League"
-    },
-    "Sevilla - Osasuna": {
-      "odds": {
-        "betcity": [
-          2.28,
-          3.15,
-          3.65
-        ],
-        "bingoal": [
-          2.25,
-          3.1,
-          3.6
-        ],
-        "unibet": [
-          2.28,
-          3.15,
-          3.65
-        ],
-        "toto": [
-          2.11,
-          3.2,
-          3.4
-        ],
-        "zebet": [
-          2.07,
-          3.1,
-          3.3
-        ],
-        "jacks": [
-          2.2,
-          3.05,
-          3.5
-        ],
-        "vbet": [
-          2.13,
-          3.25,
-          3.55
-        ],
-        "onecasino": [
-          2.1,
-          3.2,
-          3.5
-        ],
-        "starcasino": [
-          2.12,
-          3.2,
-          3.5
-        ]
-      },
-      "id": {
-        "betcity": 1024182700,
-        "bingoal": 1024182700,
-        "unibet": 1024182700,
-        "toto": "8653674",
-        "zebet": "djea3",
-        "jacks": 1024182700,
-        "vbet": "28304103",
-        "onecasino": "10344550",
-        "starcasino": 13368377
-      },
-      "date": "2025-11-08T15:15:00",
-      "competition": "Spanish La Liga"
-    },
-    "Sunderland - Everton": {
-      "odds": {
-        "betcity": [
-          2.85,
-          3.25,
-          2.7
-        ],
-        "bingoal": [
-          2.8,
-          3.2,
-          2.65
-        ],
-        "unibet": [
-          2.85,
-          3.25,
-          2.7
-        ],
-        "toto": [
-          2.8,
-          3.15,
-          2.65
-        ],
-        "zebet": [
-          2.72,
-          3.1,
-          2.62
-        ],
-        "jacks": [
-          2.8,
-          3.2,
-          2.7
-        ],
-        "vbet": [
-          2.8,
-          3.09,
-          2.64
-        ],
-        "onecasino": [
-          2.8,
-          3.05,
-          2.65
-        ],
-        "starcasino": [
-          2.8,
-          3.14,
-          2.67
-        ]
-      },
-      "id": {
-        "betcity": 1025028380,
-        "bingoal": 1025028380,
-        "unibet": 1025028380,
-        "toto": "9266522",
-        "zebet": "7a7a3",
-        "jacks": 1025028380,
-        "vbet": "28257344",
-        "onecasino": "10303682",
-        "starcasino": 13190227
-      },
-      "date": "2025-11-03T20:00:00",
-      "competition": "England Premier League"
-    },
-    "Paris SG - Nice": {
-      "odds": {
-        "betcity": [
-          1.24,
-          7.0,
-          11.0
-        ],
-        "bingoal": [
-          1.22,
-          7.0,
-          11.0
-        ],
-        "unibet": [
-          1.24,
-          7.0,
-          11.0
-        ],
-        "toto": [
-          1.23,
-          7.5,
-          12.0
-        ],
-        "zebet": [
-          1.21,
-          6.5,
-          10.5
-        ],
-        "jacks": [
-          1.23,
-          7.0,
-          11.0
-        ],
-        "vbet": [
-          1.2,
-          7.1,
-          12.0
-        ],
-        "onecasino": [
-          1.21,
-          7.0,
-          11.5
-        ],
-        "starcasino": [
-          1.22,
-          6.67,
-          12.0
-        ]
-      },
-      "id": {
-        "betcity": 1024957259,
-        "bingoal": 1024957259,
-        "unibet": 1024957259,
-        "toto": "9307368",
-        "zebet": "uiea3",
-        "jacks": 1024957259,
-        "vbet": "28253256",
-        "onecasino": "10345900",
-        "starcasino": 14176504
-      },
-      "date": "2025-11-01T16:00:00",
-      "competition": "French Ligue 1"
-    },
-    "Pisa - Cremonese": {
-      "odds": {
-        "betcity": [
-          2.28,
-          3.3,
-          3.5
-        ],
-        "bingoal": [
-          2.25,
-          3.3,
-          3.45
-        ],
-        "unibet": [
-          2.28,
-          3.3,
-          3.5
-        ],
-        "toto": [
-          2.26,
-          3.15,
-          3.45
-        ],
-        "zebet": [
-          2.2,
-          3.05,
-          3.3
-        ],
-        "jacks": [
-          2.28,
-          3.3,
-          3.5
-        ],
-        "vbet": [
-          2.25,
-          3.15,
-          3.35
-        ],
-        "onecasino": [
-          2.25,
-          3.1,
-          3.35
-        ],
-        "starcasino": [
-          2.25,
-          3.1,
-          3.33
-        ]
-      },
-      "id": {
-        "betcity": 1023931961,
-        "bingoal": 1023931961,
-        "unibet": 1023931961,
-        "toto": "9323324",
-        "zebet": "ijha3",
-        "jacks": 1023931961,
-        "vbet": "28296576",
-        "onecasino": "10366589",
-        "starcasino": 13270124
-      },
-      "date": "2025-11-07T19:45:00",
-      "competition": "Italy Serie A"
-    },
-    "NEC Nijmegen - FC Groningen": {
-      "odds": {
-        "betcity": [
-          1.94,
-          4.0,
-          3.65
-        ],
-        "bingoal": [
-          1.92,
-          3.9,
-          3.55
-        ],
-        "unibet": [
-          1.94,
-          4.0,
-          3.65
-        ],
-        "toto": [
-          1.88,
-          4.0,
           3.7
         ],
         "zebet": [
-          1.85,
-          3.8,
-          3.55
+          1.95,
+          3.45,
+          3.5
         ],
         "jacks": [
-          1.94,
-          4.0,
-          3.65
+          1.98,
+          3.65,
+          3.85
         ],
         "vbet": [
-          1.87,
-          3.97,
-          3.66
+          1.84,
+          3.45,
+          3.47
         ],
         "onecasino": [
           1.9,
-          3.9,
+          3.5,
           3.6
         ],
         "starcasino": [
-          1.88,
-          4.0,
-          3.25
-        ]
-      },
-      "id": {
-        "betcity": 1024051570,
-        "bingoal": 1024051570,
-        "unibet": 1024051570,
-        "toto": "9071215",
-        "zebet": "bgea3",
-        "jacks": 1024051570,
-        "vbet": "28311229",
-        "onecasino": "10345000",
-        "starcasino": 13269620
-      },
-      "date": "2025-11-09T13:30:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Feyenoord - FC Volendam": {
-      "odds": {
-        "betcity": [
-          1.13,
-          10.5,
-          21.0
-        ],
-        "bingoal": [
-          1.11,
-          10.0,
-          21.0
-        ],
-        "unibet": [
-          1.12,
-          10.5,
-          23.0
-        ],
-        "toto": [
-          1.16,
-          9.25,
-          17.0
-        ],
-        "zebet": [
-          1.14,
-          8.5,
-          15.0
-        ],
-        "jacks": [
-          1.13,
-          10.5,
-          21.0
-        ],
-        "vbet": [
-          1.14,
-          8.8,
-          14.0
-        ],
-        "onecasino": [
-          1.15,
-          8.5,
-          15.0
-        ],
-        "starcasino": [
-          1.15,
-          8.5,
-          15.0
-        ]
-      },
-      "id": {
-        "betcity": 1024051372,
-        "bingoal": 1024051372,
-        "unibet": 1024051372,
-        "toto": "8991142",
-        "zebet": "c28a3",
-        "jacks": 1024051372,
-        "vbet": "28253521",
-        "onecasino": "10306348",
-        "starcasino": 13192384
-      },
-      "date": "2025-11-01T19:00:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "AZ Alkmaar - PSV Eindhoven": {
-      "odds": {
-        "betcity": [
-          2.8,
-          4.1,
-          2.3
-        ],
-        "bingoal": [
-          2.75,
-          4.1,
-          2.28
-        ],
-        "unibet": [
-          2.8,
-          4.1,
-          2.3
-        ],
-        "toto": [
-          2.8,
-          4.0,
-          2.25
-        ],
-        "zebet": [
-          2.7,
-          3.8,
-          2.17
-        ],
-        "jacks": [
-          2.8,
-          4.1,
-          2.3
-        ],
-        "vbet": [
-          2.79,
-          3.96,
-          2.23
-        ],
-        "onecasino": [
-          2.75,
-          3.8,
-          2.25
-        ],
-        "starcasino": [
-          2.67,
-          3.8,
-          2.2
-        ]
-      },
-      "id": {
-        "betcity": 1024051575,
-        "bingoal": 1024051575,
-        "unibet": 1024051575,
-        "toto": "9071217",
-        "zebet": "cgea3",
-        "jacks": 1024051575,
-        "vbet": "28311230",
-        "onecasino": "10345001",
-        "starcasino": 13269623
-      },
-      "date": "2025-11-09T15:45:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "FC Volendam - NAC Breda": {
-      "odds": {
-        "betcity": [
-          2.38,
-          3.95,
-          2.8
-        ],
-        "bingoal": [
-          2.35,
-          3.9,
-          2.75
-        ],
-        "unibet": [
-          2.38,
-          3.95,
-          2.8
-        ],
-        "toto": [
-          2.4,
-          3.85,
-          2.7
-        ],
-        "zebet": [
-          2.35,
-          3.7,
-          2.6
-        ],
-        "jacks": [
-          2.38,
-          3.95,
-          2.8
-        ],
-        "vbet": [
-          2.38,
-          3.8,
-          2.66
-        ],
-        "onecasino": [
-          2.4,
-          3.7,
-          2.7
-        ],
-        "starcasino": [
-          2.33,
+          1.91,
           3.67,
-          2.57
+          3.67
         ]
       },
       "id": {
-        "betcity": 1024051590,
-        "bingoal": 1024051590,
-        "unibet": 1024051590,
-        "toto": "9061165",
-        "zebet": "8gea3",
-        "jacks": 1024051590,
-        "vbet": "28304332",
-        "onecasino": "10345002",
-        "starcasino": 13263112
+        "betcity": 1024825404,
+        "bet365": "CjOOzZ7C",
+        "bingoal": 1024825404,
+        "unibet": 1024825404,
+        "toto": "9282709",
+        "zebet": "7wha3",
+        "jacks": 1024825404,
+        "vbet": "28288784",
+        "onecasino": "10328786",
+        "starcasino": 14237021
       },
-      "date": "2025-11-08T17:45:00",
-      "competition": "Netherlands Eredivisie"
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
     },
-    "Tottenham - Chelsea": {
+    "Vallecano - Lech Poznan": {
       "odds": {
         "betcity": [
-          2.8,
-          3.65,
-          2.55
-        ],
-        "bingoal": [
-          2.8,
-          3.6,
-          2.55
-        ],
-        "unibet": [
-          2.8,
-          3.65,
-          2.55
-        ],
-        "toto": [
-          2.8,
-          3.6,
-          2.54
-        ],
-        "zebet": [
-          2.77,
-          3.55,
-          2.52
-        ],
-        "jacks": [
-          2.8,
-          3.6,
-          2.55
-        ],
-        "vbet": [
-          2.75,
-          3.41,
-          2.48
-        ],
-        "onecasino": [
-          2.8,
-          3.45,
-          2.5
-        ],
-        "starcasino": [
-          2.8,
-          3.33,
-          2.55
-        ]
-      },
-      "id": {
-        "betcity": 1024044158,
-        "bingoal": 1024044158,
-        "unibet": 1024044158,
-        "toto": "9266523",
-        "zebet": "6a7a3",
-        "jacks": 1024044158,
-        "vbet": "28253283",
-        "onecasino": "10303683",
-        "starcasino": 13190226
-      },
-      "date": "2025-11-01T17:30:00",
-      "competition": "England Premier League"
-    },
-    "Le Havre - Nantes": {
-      "odds": {
-        "betcity": [
-          2.04,
-          3.55,
-          3.8
-        ],
-        "bingoal": [
-          2.0,
-          3.5,
-          3.75
-        ],
-        "unibet": [
-          2.04,
-          3.55,
-          3.8
-        ],
-        "toto": [
-          2.0,
-          3.2,
-          3.75
-        ],
-        "zebet": [
-          1.98,
-          3.1,
-          3.6
-        ],
-        "jacks": [
-          2.02,
-          3.5,
-          3.75
-        ],
-        "vbet": [
-          2.02,
-          3.25,
-          3.91
-        ],
-        "onecasino": [
-          2.0,
-          3.2,
-          3.9
-        ],
-        "starcasino": [
-          2.0,
-          3.25,
-          3.8
-        ]
-      },
-      "id": {
-        "betcity": 1024143652,
-        "bingoal": 1024143652,
-        "unibet": 1024143652,
-        "toto": "9378230",
-        "zebet": "4jha3",
-        "jacks": 1024143652,
-        "vbet": "28304109",
-        "onecasino": "10364848",
-        "starcasino": 14272184
-      },
-      "date": "2025-11-08T18:00:00",
-      "competition": "French Ligue 1"
-    },
-    "St Pauli - M\u00f6nchengladbach": {
-      "odds": {
-        "betcity": [
-          2.25,
-          3.55,
-          3.35
-        ],
-        "bingoal": [
-          2.23,
-          3.5,
-          3.3
-        ],
-        "unibet": [
-          2.25,
-          3.55,
-          3.35
-        ],
-        "toto": [
-          2.24,
-          3.45,
-          3.2
-        ],
-        "zebet": [
-          2.25,
-          3.4,
-          3.15
-        ],
-        "jacks": [
-          2.25,
-          3.55,
-          3.35
-        ],
-        "vbet": [
-          2.23,
-          3.35,
-          3.19
-        ],
-        "onecasino": [
-          2.25,
-          3.4,
-          3.2
-        ],
-        "starcasino": [
-          2.2,
-          3.4,
-          3.33
-        ]
-      },
-      "id": {
-        "betcity": 1024136784,
-        "bingoal": 1024136784,
-        "unibet": 1024136784,
-        "toto": "9040706",
-        "zebet": "r58a3",
-        "jacks": 1024136784,
-        "vbet": "28253267",
-        "onecasino": "10307439",
-        "starcasino": 13189578
-      },
-      "date": "2025-11-01T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Brest - Lyon": {
-      "odds": {
-        "betcity": [
-          3.05,
-          3.65,
-          2.28
-        ],
-        "bingoal": [
-          3.0,
-          3.6,
-          2.25
-        ],
-        "unibet": [
-          3.05,
-          3.65,
-          2.28
-        ],
-        "toto": [
-          3.05,
-          3.55,
-          2.27
-        ],
-        "zebet": [
-          3.05,
-          3.45,
-          2.25
-        ],
-        "jacks": [
-          3.05,
-          3.65,
-          2.25
-        ],
-        "vbet": [
-          3.1,
-          3.51,
-          2.21
-        ],
-        "onecasino": [
-          3.05,
-          3.5,
-          2.2
-        ],
-        "starcasino": [
-          3.2,
-          3.4,
-          2.25
-        ]
-      },
-      "id": {
-        "betcity": 1024143624,
-        "bingoal": 1024143624,
-        "unibet": 1024143624,
-        "toto": "9319275",
-        "zebet": "xiea3",
-        "jacks": 1024143624,
-        "vbet": "28260298",
-        "onecasino": "10345897",
-        "starcasino": 14039432
-      },
-      "date": "2025-11-02T19:45:00",
-      "competition": "French Ligue 1"
-    },
-    "Bayern M\u00fcnchen - Leverkusen": {
-      "odds": {
-        "betcity": [
-          1.24,
-          7.5,
-          11.5
-        ],
-        "bingoal": [
-          1.23,
-          7.5,
-          11.5
-        ],
-        "unibet": [
-          1.24,
-          7.5,
-          11.5
-        ],
-        "toto": [
-          1.24,
-          7.75,
-          11.0
-        ],
-        "zebet": [
-          1.21,
-          6.75,
-          9.75
-        ],
-        "jacks": [
-          1.24,
-          7.5,
-          11.5
-        ],
-        "vbet": [
-          1.2,
-          7.3,
-          11.0
-        ],
-        "onecasino": [
-          1.22,
-          7.25,
-          11.0
-        ],
-        "starcasino": [
-          1.23,
-          7.0,
-          11.0
-        ]
-      },
-      "id": {
-        "betcity": 1024136763,
-        "bingoal": 1024136763,
-        "unibet": 1024136763,
-        "toto": "8990269",
-        "zebet": "s58a3",
-        "jacks": 1024136763,
-        "vbet": "28253271",
-        "onecasino": "10307277",
-        "starcasino": 13189597
-      },
-      "date": "2025-11-01T17:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "FC Groningen - FC Twente": {
-      "odds": {
-        "betcity": [
-          2.88,
-          3.55,
-          2.48
-        ],
-        "bingoal": [
-          2.85,
-          3.5,
-          2.45
-        ],
-        "unibet": [
-          2.9,
-          3.55,
-          2.5
-        ],
-        "toto": [
-          2.9,
-          3.55,
-          2.46
-        ],
-        "zebet": [
-          2.87,
-          3.5,
-          2.45
-        ],
-        "jacks": [
-          2.88,
-          3.55,
-          2.48
-        ],
-        "vbet": [
-          2.88,
-          3.4,
-          2.39
-        ],
-        "onecasino": [
-          2.8,
-          3.35,
-          2.4
-        ],
-        "starcasino": [
-          2.86,
-          3.33,
-          2.5
-        ]
-      },
-      "id": {
-        "betcity": 1024051340,
-        "bingoal": 1024051340,
-        "unibet": 1024051340,
-        "toto": "9001084",
-        "zebet": "i28a3",
-        "jacks": 1024051340,
-        "vbet": "28260354",
-        "onecasino": "10306341",
-        "starcasino": 13198370
-      },
-      "date": "2025-11-02T13:30:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Real Madrid - Valencia": {
-      "odds": {
-        "betcity": [
-          1.18,
-          8.5,
-          16.0
-        ],
-        "bingoal": [
-          1.17,
-          8.0,
-          16.0
-        ],
-        "unibet": [
-          1.17,
-          8.5,
-          17.0
-        ],
-        "toto": [
-          1.18,
-          8.25,
-          16.0
-        ],
-        "zebet": [
-          1.15,
-          7.25,
-          13.5
-        ],
-        "jacks": [
-          1.14,
-          8.0,
-          15.0
-        ],
-        "vbet": [
-          1.15,
-          7.7,
-          15.0
-        ],
-        "onecasino": [
-          1.17,
-          7.75,
-          15.0
-        ],
-        "starcasino": [
-          1.18,
-          7.5,
-          14.0
-        ]
-      },
-      "id": {
-        "betcity": 1024182651,
-        "bingoal": 1024182651,
-        "unibet": 1024182651,
-        "toto": "8586232",
-        "zebet": "128a3",
-        "jacks": 1024182651,
-        "vbet": "28253254",
-        "onecasino": "10307180",
-        "starcasino": 13365482
-      },
-      "date": "2025-11-01T20:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Auxerre - Marseille": {
-      "odds": {
-        "betcity": [
-          4.9,
-          4.1,
-          1.7
-        ],
-        "bingoal": [
-          4.8,
-          4.0,
-          1.67
-        ],
-        "unibet": [
-          4.9,
-          4.1,
-          1.7
-        ],
-        "toto": [
-          4.75,
-          4.0,
-          1.69
-        ],
-        "zebet": [
-          4.7,
-          3.9,
-          1.68
-        ],
-        "jacks": [
-          4.8,
-          4.1,
-          1.68
-        ],
-        "vbet": [
-          4.8,
-          3.87,
-          1.68
-        ],
-        "onecasino": [
-          4.9,
-          3.9,
-          1.69
-        ],
-        "starcasino": [
-          4.75,
-          4.0,
-          1.7
-        ]
-      },
-      "id": {
-        "betcity": 1024143632,
-        "bingoal": 1024143632,
-        "unibet": 1024143632,
-        "toto": "9309129",
-        "zebet": "tiea3",
-        "jacks": 1024143632,
-        "vbet": "28253258",
-        "onecasino": "10345902",
-        "starcasino": 14084688
-      },
-      "date": "2025-11-01T20:05:00",
-      "competition": "French Ligue 1"
-    },
-    "FC Utrecht - Ajax": {
-      "odds": {
-        "betcity": [
-          3.05,
-          4.0,
-          2.2
-        ],
-        "bingoal": [
-          3.0,
-          3.9,
-          2.18
-        ],
-        "unibet": [
-          3.05,
-          4.0,
-          2.2
-        ],
-        "toto": [
-          3.05,
-          3.9,
-          2.14
-        ],
-        "zebet": [
-          2.95,
-          3.7,
-          2.07
-        ],
-        "jacks": [
-          3.05,
-          4.0,
-          2.2
-        ],
-        "vbet": [
-          3.04,
-          3.85,
-          2.12
-        ],
-        "onecasino": [
-          3.05,
-          3.8,
-          2.15
-        ],
-        "starcasino": [
-          2.9,
-          3.75,
-          2.08
-        ]
-      },
-      "id": {
-        "betcity": 1024051574,
-        "bingoal": 1024051574,
-        "unibet": 1024051574,
-        "toto": "9071216",
-        "zebet": "agea3",
-        "jacks": 1024051574,
-        "vbet": "28311231",
-        "onecasino": "10345005",
-        "starcasino": 13269149
-      },
-      "date": "2025-11-09T11:15:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Ath Bilbao - Real Oviedo": {
-      "odds": {
-        "betcity": [
-          1.52,
-          4.1,
-          7.5
-        ],
-        "bingoal": [
-          1.5,
-          4.0,
-          7.5
-        ],
-        "unibet": [
-          1.52,
-          4.1,
-          7.5
-        ],
-        "toto": [
-          1.46,
-          4.0,
+          1.48,
+          4.6,
           7.0
         ],
-        "zebet": [
+        "bet365": [
           1.45,
-          3.8,
-          6.4
-        ],
-        "jacks": [
-          1.47,
-          3.95,
-          7.5
-        ],
-        "vbet": [
-          1.48,
-          3.98,
-          7.6
-        ],
-        "onecasino": [
-          1.47,
-          3.9,
-          7.5
-        ],
-        "starcasino": [
-          1.47,
-          3.8,
-          8.0
-        ]
-      },
-      "id": {
-        "betcity": 1024182668,
-        "bingoal": 1024182668,
-        "unibet": 1024182668,
-        "toto": "8653672",
-        "zebet": "3jea3",
-        "jacks": 1024182668,
-        "vbet": "28311098",
-        "onecasino": "10344543",
-        "starcasino": 13365529
-      },
-      "date": "2025-11-09T13:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Angers - Auxerre": {
-      "odds": {
-        "betcity": [
-          2.85,
-          3.3,
-          2.63
-        ],
-        "bingoal": [
-          2.8,
-          3.25,
-          2.6
-        ],
-        "unibet": [
-          2.85,
-          3.3,
-          2.63
-        ],
-        "toto": [
-          2.65,
-          3.05,
-          2.7
-        ],
-        "zebet": [
-          2.57,
-          2.95,
-          2.62
-        ],
-        "jacks": [
-          2.85,
-          3.25,
-          2.6
-        ],
-        "vbet": [
-          2.65,
-          3.1,
-          2.78
-        ],
-        "onecasino": [
-          2.65,
-          3.05,
-          2.75
-        ],
-        "starcasino": [
-          2.6,
-          3.1,
-          2.75
-        ]
-      },
-      "id": {
-        "betcity": 1024143654,
-        "bingoal": 1024143654,
-        "unibet": 1024143654,
-        "toto": "9379934",
-        "zebet": "6jha3",
-        "jacks": 1024143654,
-        "vbet": "28311103",
-        "onecasino": "10364849",
-        "starcasino": 14118476
-      },
-      "date": "2025-11-09T16:15:00",
-      "competition": "French Ligue 1"
-    },
-    "Wolfsburg - Hoffenheim": {
-      "odds": {
-        "betcity": [
-          2.88,
-          3.9,
-          2.38
-        ],
-        "bingoal": [
-          2.85,
-          3.8,
-          2.35
-        ],
-        "unibet": [
-          2.85,
-          3.85,
-          2.38
-        ],
-        "toto": [
-          2.75,
-          3.8,
-          2.36
-        ],
-        "zebet": [
-          2.72,
-          3.7,
-          2.32
-        ],
-        "jacks": [
-          2.88,
-          3.9,
-          2.38
-        ],
-        "vbet": [
-          2.82,
-          3.69,
-          2.3
-        ],
-        "onecasino": [
-          2.8,
-          3.7,
-          2.3
-        ],
-        "starcasino": [
-          2.75,
-          3.8,
-          2.36
-        ]
-      },
-      "id": {
-        "betcity": 1024136759,
-        "bingoal": 1024136759,
-        "unibet": 1024136759,
-        "toto": "9000127",
-        "zebet": "d58a3",
-        "jacks": 1024136759,
-        "vbet": "28260307",
-        "onecasino": "10307278",
-        "starcasino": 13189603
-      },
-      "date": "2025-11-02T16:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Ein Frankfurt - Mainz": {
-      "odds": {
-        "betcity": [
-          1.86,
-          4.35,
-          3.85
-        ],
-        "bingoal": [
-          1.83,
-          4.3,
-          3.8
-        ],
-        "unibet": [
-          1.85,
-          4.35,
-          3.85
-        ],
-        "toto": [
-          1.83,
-          3.95,
-          3.6
-        ],
-        "zebet": [
-          1.8,
-          3.75,
-          3.45
-        ],
-        "jacks": [
-          1.86,
-          4.35,
-          3.85
-        ],
-        "vbet": [
-          1.83,
-          4.1,
-          3.71
-        ],
-        "onecasino": [
-          1.83,
-          3.9,
-          3.7
-        ],
-        "starcasino": [
-          1.8,
-          4.0,
-          3.75
-        ]
-      },
-      "id": {
-        "betcity": 1024136725,
-        "bingoal": 1024136725,
-        "unibet": 1024136725,
-        "toto": "9070118",
-        "zebet": "klea3",
-        "jacks": 1024136725,
-        "vbet": "28311109",
-        "onecasino": "10347942",
-        "starcasino": 13260423
-      },
-      "date": "2025-11-09T18:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Milan - Roma": {
-      "odds": {
-        "betcity": [
-          2.25,
-          3.1,
-          3.8
-        ],
-        "bingoal": [
-          2.23,
-          3.1,
-          3.75
-        ],
-        "unibet": [
-          2.25,
-          3.1,
-          3.8
-        ],
-        "toto": [
-          2.19,
-          3.1,
-          3.65
-        ],
-        "zebet": [
-          2.17,
-          3.05,
-          3.55
-        ],
-        "jacks": [
-          2.25,
-          3.1,
-          3.8
-        ],
-        "vbet": [
-          2.17,
-          3.09,
-          3.63
-        ],
-        "onecasino": [
-          2.15,
-          3.1,
-          3.6
-        ],
-        "starcasino": [
-          2.22,
-          3.0,
-          3.75
-        ]
-      },
-      "id": {
-        "betcity": 1023931865,
-        "bingoal": 1023931865,
-        "unibet": 1023931865,
-        "toto": "9247762",
-        "zebet": "rgea3",
-        "jacks": 1023931865,
-        "vbet": "28260313",
-        "onecasino": "10335286",
-        "starcasino": 13200034
-      },
-      "date": "2025-11-02T19:45:00",
-      "competition": "Italy Serie A"
-    },
-    "Atalanta - Sassuolo": {
-      "odds": {
-        "betcity": [
-          1.47,
-          4.75,
+          4.33,
           7.0
         ],
         "bingoal": [
           1.46,
-          4.75,
+          4.5,
           7.0
         ],
         "unibet": [
-          1.47,
-          4.75,
+          1.48,
+          4.6,
           7.0
         ],
         "toto": [
-          1.43,
-          4.5,
-          6.25
-        ],
-        "zebet": [
-          1.42,
-          4.2,
-          6.0
-        ],
-        "jacks": [
-          1.47,
-          4.75,
-          7.0
-        ],
-        "vbet": [
-          1.43,
-          4.75,
-          6.6
-        ],
-        "onecasino": [
-          1.43,
+          1.46,
           4.5,
           6.75
         ],
-        "starcasino": [
+        "zebet": [
           1.43,
-          4.75,
-          6.33
-        ]
-      },
-      "id": {
-        "betcity": 1023931972,
-        "bingoal": 1023931972,
-        "unibet": 1023931972,
-        "toto": "9379982",
-        "zebet": "gjha3",
-        "jacks": 1023931972,
-        "vbet": "28311118",
-        "onecasino": "10366601",
-        "starcasino": 13270129
-      },
-      "date": "2025-11-09T11:30:00",
-      "competition": "Italy Serie A"
-    },
-    "FC Twente - SC Telstar": {
-      "odds": {
-        "betcity": [
-          1.38,
-          5.5,
-          8.0
-        ],
-        "bingoal": [
-          1.36,
-          5.4,
-          8.0
-        ],
-        "unibet": [
-          1.38,
-          5.5,
-          8.0
-        ],
-        "toto": [
-          1.37,
-          5.25,
-          7.5
-        ],
-        "zebet": [
-          1.34,
-          4.9,
-          6.75
-        ],
-        "jacks": [
-          1.38,
-          5.5,
-          8.0
-        ],
-        "onecasino": [
-          1.35,
-          5.25,
-          7.75
-        ],
-        "starcasino": [
-          1.33,
-          5.0,
-          7.0
-        ]
-      },
-      "id": {
-        "betcity": 1024051592,
-        "bingoal": 1024051592,
-        "unibet": 1024051592,
-        "toto": "9051375",
-        "zebet": "4gea3",
-        "jacks": 1024051592,
-        "onecasino": "10345008",
-        "starcasino": 13254346
-      },
-      "date": "2025-11-07T19:00:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Brentford - Newcastle": {
-      "odds": {
-        "betcity": [
-          3.15,
-          3.8,
-          2.25
-        ],
-        "bingoal": [
-          3.1,
-          3.75,
-          2.23
-        ],
-        "unibet": [
-          3.15,
-          3.8,
-          2.25
-        ],
-        "toto": [
-          2.95,
-          3.45,
-          2.23
-        ],
-        "zebet": [
-          2.87,
-          3.35,
-          2.2
-        ],
-        "jacks": [
-          3.15,
-          3.8,
-          2.23
-        ],
-        "vbet": [
-          2.98,
-          3.47,
-          2.29
-        ],
-        "onecasino": [
-          3.0,
-          3.4,
-          2.3
-        ],
-        "starcasino": [
-          2.9,
-          3.67,
-          2.2
-        ]
-      },
-      "id": {
-        "betcity": 1024044269,
-        "bingoal": 1024044269,
-        "unibet": 1024044269,
-        "toto": "9349875",
-        "zebet": "rwea3",
-        "jacks": 1024044269,
-        "vbet": "28311113",
-        "onecasino": "10351048",
-        "starcasino": 13261996
-      },
-      "date": "2025-11-09T14:00:00",
-      "competition": "England Premier League"
-    },
-    "Union Berlin - Bayern M\u00fcnchen": {
-      "odds": {
-        "betcity": [
-          10.0,
-          6.5,
-          1.3
-        ],
-        "bingoal": [
-          9.5,
-          6.25,
-          1.29
-        ],
-        "unibet": [
-          9.5,
-          6.25,
-          1.3
-        ],
-        "toto": [
-          7.75,
-          5.5,
-          1.29
-        ],
-        "zebet": [
-          7.0,
-          5.2,
-          1.27
-        ],
-        "jacks": [
-          10.0,
-          6.5,
-          1.3
-        ],
-        "vbet": [
-          7.9,
-          5.9,
-          1.31
-        ],
-        "onecasino": [
-          8.25,
-          5.5,
-          1.3
-        ],
-        "starcasino": [
-          8.0,
-          5.67,
-          1.3
-        ]
-      },
-      "id": {
-        "betcity": 1024136747,
-        "bingoal": 1024136747,
-        "unibet": 1024136747,
-        "toto": "9060240",
-        "zebet": "jlea3",
-        "jacks": 1024136747,
-        "vbet": "28304117",
-        "onecasino": "10347959",
-        "starcasino": 13260428
-      },
-      "date": "2025-11-08T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Sassuolo - Genoa": {
-      "odds": {
-        "betcity": [
-          2.5,
-          3.15,
-          3.15
-        ],
-        "bingoal": [
-          2.48,
-          3.15,
-          3.15
-        ],
-        "unibet": [
-          2.5,
-          3.15,
-          3.15
-        ],
-        "toto": [
-          2.46,
-          3.05,
-          3.15
-        ],
-        "zebet": [
-          2.42,
-          3.0,
-          3.1
-        ],
-        "jacks": [
-          2.5,
-          3.15,
-          3.15
-        ],
-        "vbet": [
-          2.43,
-          3.01,
-          3.16
-        ],
-        "onecasino": [
-          2.4,
-          3.05,
-          3.15
-        ],
-        "starcasino": [
-          2.4,
-          3.1,
-          3.2
-        ]
-      },
-      "id": {
-        "betcity": 1023931858,
-        "bingoal": 1023931858,
-        "unibet": 1023931858,
-        "toto": "9247744",
-        "zebet": "pgea3",
-        "jacks": 1023931858,
-        "vbet": "28266502",
-        "onecasino": "10346997",
-        "starcasino": 13200035
-      },
-      "date": "2025-11-03T17:30:00",
-      "competition": "Italy Serie A"
-    },
-    "Fiorentina - Lecce": {
-      "odds": {
-        "betcity": [
-          1.62,
-          3.95,
-          6.25
-        ],
-        "bingoal": [
-          1.6,
-          3.9,
-          6.25
-        ],
-        "unibet": [
-          1.62,
-          3.95,
-          6.25
-        ],
-        "toto": [
-          1.63,
-          3.8,
-          5.75
-        ],
-        "zebet": [
-          1.63,
-          3.7,
-          5.6
-        ],
-        "jacks": [
-          1.62,
-          3.95,
-          6.25
-        ],
-        "vbet": [
-          1.62,
-          3.76,
-          5.6
-        ],
-        "onecasino": [
-          1.62,
-          3.7,
-          5.75
-        ],
-        "starcasino": [
-          1.62,
-          3.8,
-          5.75
-        ]
-      },
-      "id": {
-        "betcity": 1023931863,
-        "bingoal": 1023931863,
-        "unibet": 1023931863,
-        "toto": "9247748",
-        "zebet": "sgea3",
-        "jacks": 1023931863,
-        "vbet": "28260312",
-        "onecasino": "10335285",
-        "starcasino": 13200044
-      },
-      "date": "2025-11-02T14:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Elche - Sociedad": {
-      "odds": {
-        "betcity": [
-          2.8,
-          3.25,
-          2.75
-        ],
-        "bingoal": [
-          2.75,
-          3.2,
-          2.7
-        ],
-        "unibet": [
-          2.8,
-          3.25,
-          2.75
-        ],
-        "toto": [
-          2.7,
-          3.3,
-          2.7
-        ],
-        "zebet": [
-          2.62,
-          3.15,
-          2.57
-        ],
-        "jacks": [
-          2.7,
-          3.15,
-          2.65
-        ],
-        "vbet": [
-          2.69,
-          3.19,
-          2.67
-        ],
-        "onecasino": [
-          2.65,
-          3.1,
-          2.7
-        ],
-        "starcasino": [
-          2.67,
-          3.14,
-          2.67
-        ]
-      },
-      "id": {
-        "betcity": 1024182693,
-        "bingoal": 1024182693,
-        "unibet": 1024182693,
-        "toto": "8653673",
-        "zebet": "jjea3",
-        "jacks": 1024182693,
-        "vbet": "28296565",
-        "onecasino": "10344551",
-        "starcasino": 13368432
-      },
-      "date": "2025-11-07T20:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Fortuna Sittard - SC Heerenveen": {
-      "odds": {
-        "betcity": [
-          2.75,
-          3.9,
-          2.43
-        ],
-        "bingoal": [
-          2.7,
-          3.85,
-          2.38
-        ],
-        "unibet": [
-          2.75,
-          3.9,
-          2.43
-        ],
-        "toto": [
-          2.75,
-          3.7,
-          2.4
-        ],
-        "zebet": [
-          2.65,
-          3.55,
-          2.35
-        ],
-        "jacks": [
-          2.75,
-          3.9,
-          2.43
-        ],
-        "vbet": [
-          2.73,
-          3.65,
-          2.38
-        ],
-        "onecasino": [
-          2.7,
-          3.6,
-          2.4
-        ],
-        "starcasino": [
-          2.67,
-          3.5,
-          2.33
-        ]
-      },
-      "id": {
-        "betcity": 1024051598,
-        "bingoal": 1024051598,
-        "unibet": 1024051598,
-        "toto": "9061166",
-        "zebet": "6gea3",
-        "jacks": 1024051598,
-        "vbet": "28304331",
-        "onecasino": "10344998",
-        "starcasino": 13264428
-      },
-      "date": "2025-11-08T19:00:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "NAC Breda - Go Ahead Eagles": {
-      "odds": {
-        "betcity": [
-          2.3,
-          3.85,
-          2.9
-        ],
-        "bingoal": [
-          2.25,
-          3.8,
-          2.85
-        ],
-        "unibet": [
-          2.3,
-          3.9,
-          2.95
-        ],
-        "toto": [
-          2.22,
-          3.85,
-          3.25
-        ],
-        "zebet": [
-          2.2,
-          3.7,
-          3.2
-        ],
-        "jacks": [
-          2.3,
-          3.85,
-          2.9
-        ],
-        "vbet": [
-          2.18,
-          3.57,
-          3.12
-        ],
-        "onecasino": [
-          2.25,
-          3.6,
-          3.05
-        ],
-        "starcasino": [
-          2.22,
-          3.75,
-          3.0
-        ]
-      },
-      "id": {
-        "betcity": 1024051375,
-        "bingoal": 1024051375,
-        "unibet": 1024051375,
-        "toto": "8991144",
-        "zebet": "h28a3",
-        "jacks": 1024051375,
-        "vbet": "28253520",
-        "onecasino": "10306344",
-        "starcasino": 13192387
-      },
-      "date": "2025-11-01T17:45:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Levante - Celta Vigo": {
-      "odds": {
-        "betcity": [
-          2.9,
-          3.45,
-          2.5
-        ],
-        "bingoal": [
-          2.9,
-          3.45,
-          2.5
-        ],
-        "unibet": [
-          2.9,
-          3.5,
-          2.5
-        ],
-        "toto": [
-          2.85,
-          3.4,
-          2.47
-        ],
-        "zebet": [
-          2.77,
-          3.35,
-          2.45
-        ],
-        "jacks": [
-          2.85,
-          3.35,
-          2.45
-        ],
-        "vbet": [
-          2.84,
-          3.38,
-          2.43
-        ],
-        "onecasino": [
-          2.85,
-          3.4,
-          2.4
-        ],
-        "starcasino": [
-          2.83,
-          3.5,
-          2.43
-        ]
-      },
-      "id": {
-        "betcity": 1024182676,
-        "bingoal": 1024182676,
-        "unibet": 1024182676,
-        "toto": "8586238",
-        "zebet": "328a3",
-        "jacks": 1024182676,
-        "vbet": "28260294",
-        "onecasino": "10307190",
-        "starcasino": 13365569
-      },
-      "date": "2025-11-02T13:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Manchester City - Bournemouth": {
-      "odds": {
-        "betcity": [
-          1.53,
-          4.8,
-          6.0
-        ],
-        "bingoal": [
-          1.52,
-          4.8,
-          6.0
-        ],
-        "unibet": [
-          1.52,
-          4.9,
-          6.0
-        ],
-        "toto": [
-          1.51,
-          4.75,
-          5.75
-        ],
-        "zebet": [
-          1.53,
-          4.6,
-          5.8
-        ],
-        "jacks": [
-          1.53,
-          4.8,
-          6.0
-        ],
-        "vbet": [
-          1.5,
-          4.6,
-          5.7
-        ],
-        "onecasino": [
-          1.49,
-          4.6,
-          5.75
-        ],
-        "starcasino": [
-          1.5,
-          4.75,
-          5.75
-        ]
-      },
-      "id": {
-        "betcity": 1024044181,
-        "bingoal": 1024044181,
-        "unibet": 1024044181,
-        "toto": "9266524",
-        "zebet": "8a7a3",
-        "jacks": 1024044181,
-        "vbet": "28257284",
-        "onecasino": "10303678",
-        "starcasino": 13190262
-      },
-      "date": "2025-11-02T16:30:00",
-      "competition": "England Premier League"
-    },
-    "Ath Madrid - Sevilla": {
-      "odds": {
-        "betcity": [
-          1.33,
-          5.6,
-          9.5
-        ],
-        "bingoal": [
-          1.32,
-          5.5,
-          9.5
-        ],
-        "unibet": [
-          1.32,
-          5.6,
-          10.0
-        ],
-        "toto": [
-          1.36,
-          5.5,
-          9.0
-        ],
-        "zebet": [
-          1.33,
-          5.2,
-          8.0
-        ],
-        "jacks": [
-          1.3,
-          5.4,
-          9.5
-        ],
-        "vbet": [
-          1.32,
-          5.2,
-          8.8
-        ],
-        "onecasino": [
-          1.33,
-          5.25,
-          9.0
-        ],
-        "starcasino": [
-          1.33,
-          5.33,
-          9.0
-        ]
-      },
-      "id": {
-        "betcity": 1024182662,
-        "bingoal": 1024182662,
-        "unibet": 1024182662,
-        "toto": "8586235",
-        "zebet": "w18a3",
-        "jacks": 1024182662,
-        "vbet": "28253255",
-        "onecasino": "10307189",
-        "starcasino": 13365470
-      },
-      "date": "2025-11-01T15:15:00",
-      "competition": "Spanish La Liga"
-    },
-    "Lens - Lorient": {
-      "odds": {
-        "betcity": [
-          1.52,
-          4.6,
+          4.2,
           6.4
         ],
-        "bingoal": [
-          1.49,
-          4.5,
-          6.25
-        ],
-        "unibet": [
-          1.52,
-          4.6,
-          6.4
-        ],
-        "toto": [
-          1.49,
-          4.5,
-          6.25
-        ],
-        "zebet": [
+        "jacks": [
           1.48,
-          4.4,
-          6.0
-        ],
-        "jacks": [
-          1.5,
-          4.5,
-          6.25
-        ],
-        "vbet": [
-          1.47,
-          4.4,
-          6.6
-        ],
-        "onecasino": [
-          1.46,
-          4.4,
-          6.5
-        ],
-        "starcasino": [
-          1.46,
-          4.5,
-          7.0
-        ]
-      },
-      "id": {
-        "betcity": 1024143621,
-        "bingoal": 1024143621,
-        "unibet": 1024143621,
-        "toto": "9317590",
-        "zebet": "ziea3",
-        "jacks": 1024143621,
-        "vbet": "28260303",
-        "onecasino": "10345899",
-        "starcasino": 14073198
-      },
-      "date": "2025-11-02T16:15:00",
-      "competition": "French Ligue 1"
-    },
-    "Tottenham - Manchester United": {
-      "odds": {
-        "betcity": [
-          2.6,
-          3.95,
-          2.6
-        ],
-        "bingoal": [
-          2.55,
-          3.95,
-          2.55
-        ],
-        "unibet": [
-          2.6,
-          3.95,
-          2.6
-        ],
-        "toto": [
-          2.46,
-          3.65,
-          2.51
-        ],
-        "zebet": [
-          2.42,
-          3.55,
-          2.47
-        ],
-        "jacks": [
-          2.6,
-          3.95,
-          2.55
-        ],
-        "vbet": [
-          2.49,
-          3.71,
-          2.57
-        ],
-        "onecasino": [
-          2.5,
-          3.6,
-          2.55
-        ],
-        "starcasino": [
-          2.5,
-          3.8,
-          2.45
-        ]
-      },
-      "id": {
-        "betcity": 1024044117,
-        "bingoal": 1024044117,
-        "unibet": 1024044117,
-        "toto": "9349641",
-        "zebet": "yvea3",
-        "jacks": 1024044117,
-        "vbet": "28304134",
-        "onecasino": "10351049",
-        "starcasino": 13262023
-      },
-      "date": "2025-11-08T12:30:00",
-      "competition": "England Premier League"
-    },
-    "Mallorca - Getafe": {
-      "odds": {
-        "betcity": [
-          2.43,
-          3.05,
-          3.4
-        ],
-        "bingoal": [
-          2.4,
-          3.05,
-          3.4
-        ],
-        "unibet": [
-          2.43,
-          3.05,
-          3.4
-        ],
-        "toto": [
-          2.32,
-          2.95,
-          3.25
-        ],
-        "zebet": [
-          2.27,
-          2.82,
-          3.15
-        ],
-        "jacks": [
-          2.35,
-          2.95,
-          3.3
-        ],
-        "vbet": [
-          2.38,
-          2.99,
-          3.28
-        ],
-        "onecasino": [
-          2.35,
-          2.9,
-          3.25
-        ],
-        "starcasino": [
-          2.33,
-          3.0,
-          3.25
-        ]
-      },
-      "id": {
-        "betcity": 1024182702,
-        "bingoal": 1024182702,
-        "unibet": 1024182702,
-        "toto": "8653671",
-        "zebet": "ajea3",
-        "jacks": 1024182702,
-        "vbet": "28311094",
-        "onecasino": "10344547",
-        "starcasino": 13365514
-      },
-      "date": "2025-11-09T17:30:00",
-      "competition": "Spanish La Liga"
-    },
-    "FC Heidenheim - Ein Frankfurt": {
-      "odds": {
-        "betcity": [
-          3.65,
-          4.25,
-          1.92
-        ],
-        "bingoal": [
-          3.6,
-          4.2,
-          1.89
-        ],
-        "unibet": [
-          3.65,
-          4.25,
-          1.91
-        ],
-        "toto": [
-          3.6,
-          4.0,
-          1.9
-        ],
-        "zebet": [
-          3.55,
-          3.95,
-          1.91
-        ],
-        "jacks": [
-          3.65,
-          4.25,
-          1.92
-        ],
-        "vbet": [
-          3.62,
-          4.0,
-          1.87
-        ],
-        "onecasino": [
-          3.6,
-          4.0,
-          1.9
-        ],
-        "starcasino": [
-          3.6,
-          4.0,
-          1.92
-        ]
-      },
-      "id": {
-        "betcity": 1024136787,
-        "bingoal": 1024136787,
-        "unibet": 1024136787,
-        "toto": "8990294",
-        "zebet": "v58a3",
-        "jacks": 1024136787,
-        "vbet": "28253270",
-        "onecasino": "10307442",
-        "starcasino": 13189613
-      },
-      "date": "2025-11-01T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Genoa - Fiorentina": {
-      "odds": {
-        "betcity": [
-          3.1,
-          3.25,
-          2.5
-        ],
-        "bingoal": [
-          3.05,
-          3.2,
-          2.48
-        ],
-        "unibet": [
-          3.1,
-          3.25,
-          2.5
-        ],
-        "toto": [
-          2.95,
-          3.1,
-          2.37
-        ],
-        "zebet": [
-          2.87,
-          3.05,
-          2.35
-        ],
-        "jacks": [
-          3.1,
-          3.25,
-          2.5
-        ],
-        "vbet": [
-          3.03,
-          3.11,
-          2.45
-        ],
-        "onecasino": [
-          3.05,
-          3.05,
-          2.4
-        ],
-        "starcasino": [
-          3.0,
-          3.14,
-          2.4
-        ]
-      },
-      "id": {
-        "betcity": 1023931970,
-        "bingoal": 1023931970,
-        "unibet": 1023931970,
-        "toto": "9379954",
-        "zebet": "1jha3",
-        "jacks": 1023931970,
-        "vbet": "28311116",
-        "onecasino": "10366598",
-        "starcasino": 13270103
-      },
-      "date": "2025-11-09T14:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Monaco - Paris FC": {
-      "odds": {
-        "betcity": [
-          1.7,
-          4.5,
-          4.4
-        ],
-        "bingoal": [
-          1.68,
-          4.4,
-          4.35
-        ],
-        "unibet": [
-          1.7,
-          4.5,
-          4.4
-        ],
-        "toto": [
-          1.71,
-          4.25,
-          4.25
-        ],
-        "zebet": [
-          1.72,
-          4.1,
-          4.2
-        ],
-        "jacks": [
-          1.68,
-          4.5,
-          4.35
-        ],
-        "vbet": [
-          1.72,
-          4.1,
-          4.2
-        ],
-        "onecasino": [
-          1.73,
-          4.1,
-          4.3
-        ],
-        "starcasino": [
-          1.73,
-          4.2,
-          4.25
-        ]
-      },
-      "id": {
-        "betcity": 1024143638,
-        "bingoal": 1024143638,
-        "unibet": 1024143638,
-        "toto": "9308205",
-        "zebet": "viea3",
-        "jacks": 1024143638,
-        "vbet": "28253257",
-        "onecasino": "10345904",
-        "starcasino": 14029220
-      },
-      "date": "2025-11-01T18:00:00",
-      "competition": "French Ligue 1"
-    },
-    "Roma - Udinese": {
-      "odds": {
-        "betcity": [
-          1.5,
-          4.4,
-          7.0
-        ],
-        "bingoal": [
-          1.49,
-          4.4,
-          7.0
-        ],
-        "unibet": [
-          1.5,
-          4.4,
-          7.0
-        ],
-        "toto": [
-          1.49,
-          4.0,
-          6.0
-        ],
-        "zebet": [
-          1.48,
-          3.85,
-          5.8
-        ],
-        "jacks": [
-          1.5,
-          4.4,
-          7.0
-        ],
-        "vbet": [
-          1.5,
-          4.3,
-          6.3
-        ],
-        "onecasino": [
-          1.5,
-          4.1,
-          6.5
-        ],
-        "starcasino": [
-          1.5,
-          4.2,
-          6.0
-        ]
-      },
-      "id": {
-        "betcity": 1023931977,
-        "bingoal": 1023931977,
-        "unibet": 1023931977,
-        "toto": "9379984",
-        "zebet": "ljha3",
-        "jacks": 1023931977,
-        "vbet": "28311119",
-        "onecasino": "10366599",
-        "starcasino": 13270162
-      },
-      "date": "2025-11-09T17:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Torino - Pisa": {
-      "odds": {
-        "betcity": [
-          1.94,
-          3.5,
-          4.35
-        ],
-        "bingoal": [
-          1.92,
-          3.45,
-          4.3
-        ],
-        "unibet": [
-          1.94,
-          3.5,
-          4.35
-        ],
-        "toto": [
-          1.97,
-          3.3,
-          4.25
-        ],
-        "zebet": [
-          1.95,
-          3.25,
-          4.1
-        ],
-        "jacks": [
-          1.94,
-          3.5,
-          4.35
-        ],
-        "vbet": [
-          1.94,
-          3.26,
-          4.2
-        ],
-        "onecasino": [
-          1.95,
-          3.25,
-          4.1
-        ],
-        "starcasino": [
-          1.92,
-          3.4,
-          4.25
-        ]
-      },
-      "id": {
-        "betcity": 1023931859,
-        "bingoal": 1023931859,
-        "unibet": 1023931859,
-        "toto": "9293859",
-        "zebet": "mgea3",
-        "jacks": 1023931859,
-        "vbet": "28260310",
-        "onecasino": "10347010",
-        "starcasino": 13200041
-      },
-      "date": "2025-11-02T14:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Rennes - Strasbourg": {
-      "odds": {
-        "betcity": [
-          2.35,
-          3.7,
-          2.9
-        ],
-        "bingoal": [
-          2.33,
-          3.65,
-          2.85
-        ],
-        "unibet": [
-          2.35,
-          3.7,
-          2.9
-        ],
-        "toto": [
-          2.36,
-          3.6,
-          2.85
-        ],
-        "zebet": [
-          2.32,
-          3.55,
-          2.82
-        ],
-        "jacks": [
-          2.35,
-          3.7,
-          2.88
-        ],
-        "vbet": [
-          2.38,
-          3.51,
-          2.82
-        ],
-        "starcasino": [
-          2.36,
-          3.4,
-          3.0
-        ]
-      },
-      "id": {
-        "betcity": 1024143622,
-        "bingoal": 1024143622,
-        "unibet": 1024143622,
-        "toto": "9316536",
-        "zebet": "0jea3",
-        "jacks": 1024143622,
-        "vbet": "28260300",
-        "starcasino": 14039437
-      },
-      "date": "2025-11-02T14:00:00",
-      "competition": "French Ligue 1"
-    },
-    "Monaco - Lens": {
-      "odds": {
-        "betcity": [
-          1.98,
-          4.0,
-          3.55
-        ],
-        "bingoal": [
-          1.96,
-          3.95,
-          3.45
-        ],
-        "unibet": [
-          1.98,
-          4.0,
-          3.55
-        ],
-        "toto": [
-          1.96,
-          3.75,
-          3.3
-        ],
-        "zebet": [
-          1.93,
-          3.6,
-          3.2
-        ],
-        "jacks": [
-          1.97,
-          3.95,
-          3.5
-        ],
-        "vbet": [
-          1.99,
-          3.84,
-          3.36
-        ],
-        "onecasino": [
-          2.0,
-          3.8,
-          3.35
-        ],
-        "starcasino": [
-          1.96,
-          3.75,
-          3.4
-        ]
-      },
-      "id": {
-        "betcity": 1024143664,
-        "bingoal": 1024143664,
-        "unibet": 1024143664,
-        "toto": "9379933",
-        "zebet": "djha3",
-        "jacks": 1024143664,
-        "vbet": "28304107",
-        "onecasino": "10364847",
-        "starcasino": 14107734
-      },
-      "date": "2025-11-08T20:05:00",
-      "competition": "French Ligue 1"
-    },
-    "Leverkusen - FC Heidenheim": {
-      "odds": {
-        "betcity": [
-          1.4,
-          5.4,
-          7.5
-        ],
-        "bingoal": [
-          1.38,
-          5.4,
-          7.5
-        ],
-        "unibet": [
-          1.4,
-          5.4,
-          7.5
-        ],
-        "toto": [
-          1.38,
-          5.0,
-          6.5
-        ],
-        "zebet": [
-          1.37,
           4.6,
-          6.2
-        ],
-        "jacks": [
-          1.4,
-          5.4,
-          7.5
+          7.0
         ],
         "vbet": [
           1.39,
-          5.0,
-          7.1
-        ],
-        "onecasino": [
-          1.38,
-          4.8,
-          7.25
-        ],
-        "starcasino": [
-          1.38,
-          5.0,
-          6.67
-        ]
-      },
-      "id": {
-        "betcity": 1024136724,
-        "bingoal": 1024136724,
-        "unibet": 1024136724,
-        "toto": "9346409",
-        "zebet": "elea3",
-        "jacks": 1024136724,
-        "vbet": "28304121",
-        "onecasino": "10347936",
-        "starcasino": 13260417
-      },
-      "date": "2025-11-08T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Mainz - Werder Bremen": {
-      "odds": {
-        "betcity": [
-          1.95,
-          3.9,
-          3.85
-        ],
-        "bingoal": [
-          1.92,
-          3.85,
-          3.8
-        ],
-        "unibet": [
-          1.94,
-          3.9,
-          3.85
-        ],
-        "toto": [
-          1.84,
-          3.95,
-          3.95
-        ],
-        "zebet": [
-          1.83,
-          3.85,
-          3.85
-        ],
-        "jacks": [
-          1.95,
-          3.9,
-          3.85
-        ],
-        "vbet": [
-          1.77,
-          3.87,
-          4.2
-        ],
-        "onecasino": [
-          1.81,
-          3.9,
-          4.1
-        ],
-        "starcasino": [
-          1.79,
-          4.0,
-          4.2
-        ]
-      },
-      "id": {
-        "betcity": 1024136766,
-        "bingoal": 1024136766,
-        "unibet": 1024136766,
-        "toto": "8990270",
-        "zebet": "f58a3",
-        "jacks": 1024136766,
-        "vbet": "28253269",
-        "onecasino": "10307440",
-        "starcasino": 13189594
-      },
-      "date": "2025-11-01T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Sunderland - Arsenal": {
-      "odds": {
-        "betcity": [
-          8.0,
-          4.75,
-          1.45
-        ],
-        "bingoal": [
-          8.0,
-          4.7,
-          1.44
-        ],
-        "unibet": [
-          8.0,
-          4.75,
-          1.45
-        ],
-        "toto": [
-          7.0,
-          4.5,
-          1.41
-        ],
-        "zebet": [
-          6.5,
           4.2,
-          1.4
-        ],
-        "jacks": [
-          8.0,
-          4.7,
-          1.45
-        ],
-        "vbet": [
-          6.6,
-          4.6,
-          1.44
+          6.3
         ],
         "onecasino": [
-          7.0,
+          1.41,
           4.4,
-          1.43
+          6.75
         ],
         "starcasino": [
-          6.5,
+          1.42,
           4.5,
-          1.44
+          7.0
         ]
       },
       "id": {
-        "betcity": 1024044093,
-        "bingoal": 1024044093,
-        "unibet": 1024044093,
-        "toto": "9349871",
-        "zebet": "owea3",
-        "jacks": 1024044093,
-        "vbet": "28304135",
-        "onecasino": "10351045",
-        "starcasino": 13262037
+        "betcity": 1024825475,
+        "bet365": "AeX9B9LH",
+        "bingoal": 1024825475,
+        "unibet": 1024825475,
+        "toto": "9282712",
+        "zebet": "kwha3",
+        "jacks": 1024825475,
+        "vbet": "28288775",
+        "onecasino": "10328793",
+        "starcasino": 14237044
       },
-      "date": "2025-11-08T17:30:00",
-      "competition": "England Premier League"
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
     },
-    "Ath Madrid - Levante": {
+    "Hacken - Strasbourg": {
       "odds": {
         "betcity": [
-          1.23,
-          7.0,
-          13.0
+          3.05,
+          3.9,
+          2.2
+        ],
+        "bet365": [
+          3.1,
+          3.75,
+          2.1
         ],
         "bingoal": [
-          1.22,
+          3.0,
+          3.85,
+          2.16
+        ],
+        "unibet": [
+          3.05,
+          3.9,
+          2.2
+        ],
+        "toto": [
+          3.1,
+          3.75,
+          2.17
+        ],
+        "zebet": [
+          3.0,
+          3.6,
+          2.1
+        ],
+        "jacks": [
+          3.05,
+          3.9,
+          2.2
+        ],
+        "vbet": [
+          2.91,
+          3.56,
+          2.02
+        ],
+        "onecasino": [
+          3.0,
+          3.6,
+          2.1
+        ],
+        "starcasino": [
+          3.0,
+          3.75,
+          2.12
+        ]
+      },
+      "id": {
+        "betcity": 1024825386,
+        "bet365": "lxL7pkzo",
+        "bingoal": 1024825386,
+        "unibet": 1024825386,
+        "toto": "9282724",
+        "zebet": "jwha3",
+        "jacks": 1024825386,
+        "vbet": "28288778",
+        "onecasino": "10328800",
+        "starcasino": 14237032
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Shkendija 79 - Jagiellonia Bialystok": {
+      "odds": {
+        "betcity": [
+          3.9,
+          3.6,
+          1.98
+        ],
+        "bet365": [
+          3.9,
+          3.4,
+          1.95
+        ],
+        "bingoal": [
+          3.85,
+          3.55,
+          1.95
+        ],
+        "unibet": [
+          3.9,
+          3.6,
+          1.98
+        ],
+        "toto": [
+          3.8,
+          3.5,
+          1.99
+        ],
+        "zebet": [
+          3.6,
+          3.35,
+          1.95
+        ],
+        "jacks": [
+          3.9,
+          3.6,
+          1.98
+        ],
+        "vbet": [
+          3.57,
+          3.39,
+          1.83
+        ],
+        "onecasino": [
+          3.6,
+          3.45,
+          1.95
+        ],
+        "starcasino": [
+          3.8,
+          3.6,
+          1.89
+        ]
+      },
+      "id": {
+        "betcity": 1024825481,
+        "bet365": "WdfB4ARG",
+        "bingoal": 1024825481,
+        "unibet": 1024825481,
+        "toto": "9282728",
+        "zebet": "ewha3",
+        "jacks": 1024825481,
+        "vbet": "28288773",
+        "onecasino": "10328794",
+        "starcasino": 14237039
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Samsunspor - \u0126amrun Spartans": {
+      "odds": {
+        "betcity": [
+          1.21,
+          7.5,
+          13.0
+        ],
+        "bet365": [
+          1.17,
+          7.5,
+          15.0
+        ],
+        "bingoal": [
+          1.19,
           7.0,
           13.0
         ],
         "unibet": [
-          1.23,
-          7.0,
+          1.21,
+          7.5,
           13.0
         ],
         "toto": [
+          1.2,
+          7.25,
+          13.5
+        ],
+        "zebet": [
+          1.16,
+          6.2,
+          11.5
+        ],
+        "jacks": [
           1.21,
-          6.25,
+          7.5,
+          13.0
+        ],
+        "vbet": [
+          1.15,
+          6.2,
           11.0
         ],
+        "onecasino": [
+          1.16,
+          6.75,
+          13.0
+        ],
+        "starcasino": [
+          1.2,
+          6.5,
+          12.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825387,
+        "bet365": "8IHXYCxP",
+        "bingoal": 1024825387,
+        "unibet": 1024825387,
+        "toto": "9282720",
+        "zebet": "cwha3",
+        "jacks": 1024825387,
+        "vbet": "28288783",
+        "onecasino": "10328791",
+        "starcasino": 14237027
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Red Star - Lille": {
+      "odds": {
+        "betcity": [
+          3.2,
+          3.75,
+          2.25
+        ],
+        "bingoal": [
+          3.2,
+          3.7,
+          2.23
+        ],
+        "unibet": [
+          3.1,
+          3.65,
+          2.17
+        ],
+        "toto": [
+          3.05,
+          3.6,
+          2.27
+        ],
         "zebet": [
-          1.18,
-          5.6,
+          2.95,
+          3.45,
+          2.2
+        ],
+        "jacks": [
+          3.1,
+          3.65,
+          2.17
+        ],
+        "vbet": [
+          2.92,
+          3.6,
+          2.28
+        ],
+        "onecasino": [
+          2.85,
+          3.5,
+          2.25
+        ],
+        "starcasino": [
+          3.1,
+          3.5,
+          2.17
+        ]
+      },
+      "id": {
+        "betcity": 1024825641,
+        "bingoal": 1024825641,
+        "unibet": 1024825641,
+        "toto": "9282747",
+        "zebet": "jlca3",
+        "jacks": 1024825641,
+        "vbet": "28288805",
+        "onecasino": "10330282",
+        "starcasino": 14236999
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "Aston Villa - Maccabi Tel Aviv": {
+      "odds": {
+        "betcity": [
+          1.26,
+          6.5,
+          12.5
+        ],
+        "bet365": [
+          1.22,
+          6.5,
+          9.5
+        ],
+        "bingoal": [
+          1.25,
+          6.5,
+          12.0
+        ],
+        "unibet": [
+          1.23,
+          6.25,
+          12.0
+        ],
+        "toto": [
+          1.23,
+          6.5,
+          11.5
+        ],
+        "zebet": [
+          1.19,
+          5.8,
           10.0
         ],
         "jacks": [
-          1.2,
-          6.75,
-          12.5
+          1.23,
+          6.25,
+          12.0
         ],
         "vbet": [
-          1.21,
+          1.22,
           6.7,
           11.0
         ],
         "onecasino": [
           1.21,
-          6.5,
-          11.5
+          6.25,
+          10.5
         ],
         "starcasino": [
           1.22,
@@ -4619,2250 +456,3201 @@
         ]
       },
       "id": {
-        "betcity": 1024182679,
-        "bingoal": 1024182679,
-        "unibet": 1024182679,
-        "toto": "8653675",
-        "zebet": "ejea3",
-        "jacks": 1024182679,
-        "vbet": "28304106",
-        "onecasino": "10344540",
-        "starcasino": 13365595
+        "betcity": 1024825637,
+        "bet365": "WdfqWiAU",
+        "bingoal": 1024825637,
+        "unibet": 1024825637,
+        "toto": "9282741",
+        "zebet": "69ca3",
+        "jacks": 1024825637,
+        "vbet": "28288797",
+        "onecasino": "10330292",
+        "starcasino": 14237010
       },
-      "date": "2025-11-08T17:30:00",
-      "competition": "Spanish La Liga"
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
     },
-    "Nantes - Metz": {
+    "Paris SG - Bayern M\u00fcnchen": {
       "odds": {
         "betcity": [
-          1.94,
-          3.7,
-          4.0
-        ],
-        "bingoal": [
-          1.91,
-          3.65,
-          3.95
-        ],
-        "unibet": [
-          1.94,
-          3.7,
-          4.0
-        ],
-        "toto": [
-          2.0,
-          3.5,
-          3.75
-        ],
-        "zebet": [
-          1.99,
-          3.45,
-          3.65
-        ],
-        "jacks": [
-          1.92,
-          3.7,
-          3.95
-        ],
-        "vbet": [
-          1.98,
-          3.41,
-          3.81
-        ],
-        "onecasino": [
-          2.0,
-          3.4,
-          3.7
-        ],
-        "starcasino": [
-          2.05,
-          3.4,
-          3.75
-        ]
-      },
-      "id": {
-        "betcity": 1024143639,
-        "bingoal": 1024143639,
-        "unibet": 1024143639,
-        "toto": "9317589",
-        "zebet": "wiea3",
-        "jacks": 1024143639,
-        "vbet": "28260301",
-        "onecasino": "10345892",
-        "starcasino": 14039441
-      },
-      "date": "2025-11-02T16:15:00",
-      "competition": "French Ligue 1"
-    },
-    "Espanol - Villarreal": {
-      "odds": {
-        "betcity": [
-          2.8,
-          3.7,
-          2.48
-        ],
-        "bingoal": [
-          2.75,
-          3.7,
-          2.45
-        ],
-        "unibet": [
-          2.8,
-          3.7,
-          2.48
-        ],
-        "toto": [
-          2.75,
-          3.5,
-          2.32
-        ],
-        "zebet": [
-          2.67,
-          3.4,
-          2.27
-        ],
-        "jacks": [
-          2.7,
-          3.6,
-          2.4
-        ],
-        "vbet": [
-          2.77,
-          3.65,
-          2.35
-        ],
-        "onecasino": [
-          2.8,
-          3.5,
-          2.35
-        ],
-        "starcasino": [
-          2.75,
-          3.6,
-          2.33
-        ]
-      },
-      "id": {
-        "betcity": 1024182691,
-        "bingoal": 1024182691,
-        "unibet": 1024182691,
-        "toto": "8653676",
-        "zebet": "ijea3",
-        "jacks": 1024182691,
-        "vbet": "28304105",
-        "onecasino": "10344539",
-        "starcasino": 13365458
-      },
-      "date": "2025-11-08T20:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Freiburg - St Pauli": {
-      "odds": {
-        "betcity": [
-          1.85,
-          3.95,
-          4.35
-        ],
-        "bingoal": [
-          1.82,
-          3.85,
-          4.3
-        ],
-        "unibet": [
-          1.84,
-          3.9,
-          4.35
-        ],
-        "toto": [
-          1.82,
-          3.55,
-          4.0
-        ],
-        "zebet": [
-          1.8,
-          3.45,
-          3.85
-        ],
-        "jacks": [
-          1.85,
-          3.95,
-          4.35
-        ],
-        "vbet": [
-          1.83,
-          3.64,
-          4.2
-        ],
-        "onecasino": [
-          1.82,
-          3.6,
-          4.2
-        ],
-        "starcasino": [
-          1.8,
-          3.6,
-          4.2
-        ]
-      },
-      "id": {
-        "betcity": 1024136716,
-        "bingoal": 1024136716,
-        "unibet": 1024136716,
-        "toto": "9261604",
-        "zebet": "flea3",
-        "jacks": 1024136716,
-        "vbet": "28311108",
-        "onecasino": "10347939",
-        "starcasino": 13260414
-      },
-      "date": "2025-11-09T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Sociedad - Ath Bilbao": {
-      "odds": {
-        "betcity": [
-          2.75,
-          3.0,
-          3.0
-        ],
-        "bingoal": [
-          2.75,
-          2.95,
-          2.95
-        ],
-        "unibet": [
-          2.75,
-          3.0,
-          3.0
-        ],
-        "toto": [
-          2.7,
-          3.0,
-          2.85
-        ],
-        "zebet": [
-          2.72,
-          3.0,
-          2.82
-        ],
-        "jacks": [
-          2.7,
-          2.9,
-          2.9
-        ],
-        "vbet": [
-          2.72,
-          2.88,
-          2.9
-        ],
-        "onecasino": [
-          2.7,
-          2.95,
-          2.9
-        ],
-        "starcasino": [
-          2.62,
-          3.0,
-          3.0
-        ]
-      },
-      "id": {
-        "betcity": 1024182663,
-        "bingoal": 1024182663,
-        "unibet": 1024182663,
-        "toto": "8586239",
-        "zebet": "028a3",
-        "jacks": 1024182663,
-        "vbet": "28253253",
-        "onecasino": "10307181",
-        "starcasino": 13227923
-      },
-      "date": "2025-11-01T17:30:00",
-      "competition": "Spanish La Liga"
-    },
-    "Udinese - Atalanta": {
-      "odds": {
-        "betcity": [
-          4.9,
-          3.9,
-          1.75
-        ],
-        "bingoal": [
-          4.9,
-          3.85,
-          1.73
-        ],
-        "unibet": [
-          4.9,
-          3.9,
-          1.75
-        ],
-        "toto": [
-          4.5,
-          3.8,
-          1.75
-        ],
-        "zebet": [
-          4.5,
-          3.75,
-          1.75
-        ],
-        "jacks": [
-          4.9,
-          3.9,
-          1.75
-        ],
-        "vbet": [
-          4.75,
-          3.73,
-          1.72
-        ],
-        "onecasino": [
-          4.6,
-          3.7,
-          1.76
-        ],
-        "starcasino": [
-          4.5,
+          2.5,
           4.0,
-          1.73
-        ]
-      },
-      "id": {
-        "betcity": 1023931860,
-        "bingoal": 1023931860,
-        "unibet": 1023931860,
-        "toto": "9247707",
-        "zebet": "jgea3",
-        "jacks": 1023931860,
-        "vbet": "28253290",
-        "onecasino": "10347015",
-        "starcasino": 13200040
-      },
-      "date": "2025-11-01T14:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Nottingham Forest - Manchester United": {
-      "odds": {
-        "betcity": [
-          3.6,
-          3.75,
-          2.08
+          2.6
         ],
         "bingoal": [
-          3.55,
-          3.7,
-          2.06
+          2.5,
+          4.0,
+          2.6
         ],
         "unibet": [
-          3.6,
-          3.8,
-          2.08
+          2.55,
+          4.0,
+          2.63
         ],
         "toto": [
-          3.4,
-          3.75,
-          2.12
-        ],
-        "zebet": [
-          3.35,
-          3.7,
-          2.1
-        ],
-        "jacks": [
-          3.6,
-          3.75,
-          2.07
-        ],
-        "vbet": [
-          3.35,
-          3.58,
-          2.07
-        ],
-        "onecasino": [
-          3.45,
-          3.6,
-          2.05
-        ],
-        "starcasino": [
-          3.4,
-          3.75,
-          2.05
-        ]
-      },
-      "id": {
-        "betcity": 1024044111,
-        "bingoal": 1024044111,
-        "unibet": 1024044111,
-        "toto": "9266537",
-        "zebet": "3a7a3",
-        "jacks": 1024044111,
-        "vbet": "28253284",
-        "onecasino": "10303673",
-        "starcasino": 13190249
-      },
-      "date": "2025-11-01T15:00:00",
-      "competition": "England Premier League"
-    },
-    "Lecce - Verona": {
-      "odds": {
-        "betcity": [
-          2.7,
-          3.15,
-          2.95
-        ],
-        "bingoal": [
-          2.65,
-          3.1,
-          2.9
-        ],
-        "unibet": [
-          2.7,
-          3.15,
-          2.95
-        ],
-        "toto": [
-          2.65,
-          2.9,
-          2.85
-        ],
-        "zebet": [
-          2.57,
-          2.77,
-          2.77
-        ],
-        "jacks": [
-          2.7,
-          3.15,
-          2.95
-        ],
-        "vbet": [
-          2.72,
-          2.86,
-          2.93
-        ],
-        "onecasino": [
-          2.7,
-          2.85,
-          2.9
-        ],
-        "starcasino": [
-          2.6,
-          3.14,
-          2.71
-        ]
-      },
-      "id": {
-        "betcity": 1023931963,
-        "bingoal": 1023931963,
-        "unibet": 1023931963,
-        "toto": "9379983",
-        "zebet": "hjha3",
-        "jacks": 1023931963,
-        "vbet": "28304139",
-        "onecasino": "10366597",
-        "starcasino": 13270108
-      },
-      "date": "2025-11-08T14:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Alaves - Espanol": {
-      "odds": {
-        "betcity": [
-          2.4,
-          3.1,
-          3.4
-        ],
-        "bingoal": [
-          2.4,
-          3.05,
-          3.35
-        ],
-        "unibet": [
-          2.4,
-          3.1,
-          3.4
-        ],
-        "toto": [
-          2.4,
-          3.05,
-          3.3
+          2.46,
+          4.0,
+          2.7
         ],
         "zebet": [
           2.37,
-          3.0,
-          3.2
-        ],
-        "jacks": [
-          2.35,
-          3.0,
-          3.3
-        ],
-        "vbet": [
-          2.38,
-          2.98,
-          3.28
-        ],
-        "onecasino": [
-          2.35,
-          3.0,
-          3.3
-        ],
-        "starcasino": [
-          2.45,
-          3.0,
-          3.25
-        ]
-      },
-      "id": {
-        "betcity": 1024182632,
-        "bingoal": 1024182632,
-        "unibet": 1024182632,
-        "toto": "8586237",
-        "zebet": "z18a3",
-        "jacks": 1024182632,
-        "vbet": "28260297",
-        "onecasino": "10307187",
-        "starcasino": 13365549
-      },
-      "date": "2025-11-02T15:15:00",
-      "competition": "Spanish La Liga"
-    },
-    "Vallecano - Real Madrid": {
-      "odds": {
-        "betcity": [
-          5.75,
-          4.6,
-          1.57
-        ],
-        "bingoal": [
-          5.6,
-          4.5,
-          1.55
-        ],
-        "unibet": [
-          5.75,
-          4.6,
-          1.57
-        ],
-        "toto": [
-          5.25,
-          4.25,
-          1.52
-        ],
-        "zebet": [
-          5.0,
-          4.1,
-          1.51
-        ],
-        "jacks": [
-          5.5,
-          4.5,
-          1.52
-        ],
-        "vbet": [
-          5.6,
-          4.5,
-          1.52
-        ],
-        "onecasino": [
-          5.5,
-          4.3,
-          1.52
-        ],
-        "starcasino": [
-          5.5,
-          4.33,
-          1.52
-        ]
-      },
-      "id": {
-        "betcity": 1024182688,
-        "bingoal": 1024182688,
-        "unibet": 1024182688,
-        "toto": "8653691",
-        "zebet": "gjea3",
-        "jacks": 1024182688,
-        "vbet": "28311097",
-        "onecasino": "10344542",
-        "starcasino": 13227926
-      },
-      "date": "2025-11-09T15:15:00",
-      "competition": "Spanish La Liga"
-    },
-    "M\u00f6nchengladbach - FC Koln": {
-      "odds": {
-        "betcity": [
-          2.38,
-          3.85,
-          2.9
-        ],
-        "bingoal": [
-          2.35,
-          3.75,
-          2.85
-        ],
-        "unibet": [
-          2.38,
           3.8,
-          2.88
-        ],
-        "toto": [
-          2.27,
-          3.5,
-          2.8
-        ],
-        "zebet": [
-          2.25,
-          3.45,
-          2.75
+          2.57
         ],
         "jacks": [
-          2.38,
-          3.85,
-          2.9
+          2.55,
+          4.0,
+          2.63
         ],
         "vbet": [
-          2.3,
-          3.53,
-          2.92
+          2.38,
+          3.88,
+          2.62
         ],
         "onecasino": [
-          2.25,
-          3.5,
-          2.9
+          2.35,
+          3.9,
+          2.6
         ],
         "starcasino": [
-          2.3,
-          3.5,
-          2.86
+          2.43,
+          3.8,
+          2.67
         ]
       },
       "id": {
-        "betcity": 1024136751,
-        "bingoal": 1024136751,
-        "unibet": 1024136751,
-        "toto": "9060241",
-        "zebet": "olea3",
-        "jacks": 1024136751,
-        "vbet": "28304120",
-        "onecasino": "10347937",
-        "starcasino": 13260418
+        "betcity": 1024895309,
+        "bingoal": 1024895309,
+        "unibet": 1024895309,
+        "toto": "9282914",
+        "zebet": "jcba3",
+        "jacks": 1024895309,
+        "vbet": "28272912",
+        "onecasino": "10322643",
+        "starcasino": 14214355
       },
-      "date": "2025-11-08T17:30:00",
-      "competition": "Germany Bundesliga"
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
     },
-    "Inter Milan - Lazio": {
+    "Inter Milan - Kairat Almaty": {
       "odds": {
         "betcity": [
-          1.46,
-          4.8,
-          7.5
+          1.06,
+          16.0,
+          46.0
+        ],
+        "bet365": [
+          1.04,
+          15.0,
+          41.0
         ],
         "bingoal": [
+          1.05,
+          16.0,
+          46.0
+        ],
+        "unibet": [
+          1.07,
+          17.0,
+          51.0
+        ],
+        "toto": [
+          1.05,
+          17.0,
+          50.0
+        ],
+        "zebet": [
+          1.03,
+          10.0,
+          30.0
+        ],
+        "jacks": [
+          1.06,
+          16.0,
+          46.0
+        ],
+        "vbet": [
+          1.04,
+          15.0,
+          31.0
+        ],
+        "onecasino": [
+          1.03,
+          14.5,
+          37.0
+        ],
+        "starcasino": [
+          1.05,
+          13.0,
+          46.0
+        ]
+      },
+      "id": {
+        "betcity": 1024820121,
+        "bet365": "GOl4B7b6",
+        "bingoal": 1024820121,
+        "unibet": 1024820121,
+        "toto": "9282715",
+        "zebet": "efaa3",
+        "jacks": 1024820121,
+        "vbet": "28281086",
+        "onecasino": "10317483",
+        "starcasino": 14214402
+      },
+      "date": "2025-11-05T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Crystal Palace - AZ Alkmaar": {
+      "odds": {
+        "betcity": [
           1.44,
+          5.1,
+          7.0
+        ],
+        "bet365": [
+          1.42,
+          5.0,
+          6.0
+        ],
+        "bingoal": [
+          1.42,
+          5.0,
+          6.75
+        ],
+        "unibet": [
+          1.44,
+          5.1,
+          7.0
+        ],
+        "toto": [
+          1.43,
+          5.0,
+          6.75
+        ],
+        "zebet": [
+          1.41,
+          4.5,
+          6.2
+        ],
+        "jacks": [
+          1.44,
+          5.1,
+          7.0
+        ],
+        "vbet": [
+          1.38,
+          4.4,
+          6.0
+        ],
+        "onecasino": [
+          1.39,
+          4.6,
+          6.5
+        ],
+        "starcasino": [
+          1.42,
           4.75,
+          6.5
+        ]
+      },
+      "id": {
+        "betcity": 1024825382,
+        "bet365": "0rJMGqt0",
+        "bingoal": 1024825382,
+        "unibet": 1024825382,
+        "toto": "9282718",
+        "zebet": "mwha3",
+        "jacks": 1024825382,
+        "vbet": "28288780",
+        "onecasino": "10328801",
+        "starcasino": 14237034
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "AEK - Shamrock Rovers": {
+      "odds": {
+        "betcity": [
+          1.24,
+          6.5,
+          13.0
+        ],
+        "bet365": [
+          1.2,
+          6.25,
+          15.0
+        ],
+        "bingoal": [
+          1.22,
+          6.4,
+          13.0
+        ],
+        "unibet": [
+          1.24,
+          6.5,
+          13.0
+        ],
+        "toto": [
+          1.21,
+          6.5,
+          13.5
+        ],
+        "zebet": [
+          1.17,
+          5.8,
+          11.5
+        ],
+        "jacks": [
+          1.24,
+          6.5,
+          13.0
+        ],
+        "vbet": [
+          1.17,
+          5.7,
+          11.0
+        ],
+        "onecasino": [
+          1.18,
+          6.25,
+          12.5
+        ],
+        "starcasino": [
+          1.2,
+          6.0,
+          14.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825392,
+        "bet365": "rZAVno0E",
+        "bingoal": 1024825392,
+        "unibet": 1024825392,
+        "toto": "9282726",
+        "zebet": "3wha3",
+        "jacks": 1024825392,
+        "vbet": "28288789",
+        "onecasino": "10328768",
+        "starcasino": 14237023
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "AEK Larnaca - Aberdeen": {
+      "odds": {
+        "betcity": [
+          1.49,
+          4.4,
+          7.0
+        ],
+        "bet365": [
+          1.5,
+          4.1,
+          6.25
+        ],
+        "bingoal": [
+          1.47,
+          4.3,
           7.0
         ],
         "unibet": [
-          1.46,
-          4.8,
-          7.5
+          1.49,
+          4.4,
+          7.0
         ],
         "toto": [
-          1.42,
-          4.5,
+          1.5,
+          4.25,
           6.5
         ],
         "zebet": [
-          1.4,
-          4.3,
+          1.48,
+          4.1,
           6.0
         ],
         "jacks": [
-          1.46,
-          4.8,
-          7.5
-        ],
-        "vbet": [
-          1.42,
-          4.9,
-          6.6
-        ],
-        "onecasino": [
-          1.42,
-          4.7,
-          6.75
-        ],
-        "starcasino": [
-          1.43,
-          4.75,
-          6.33
-        ]
-      },
-      "id": {
-        "betcity": 1023931966,
-        "bingoal": 1023931966,
-        "unibet": 1023931966,
-        "toto": "9379957",
-        "zebet": "3jha3",
-        "jacks": 1023931966,
-        "vbet": "28311115",
-        "onecasino": "10366600",
-        "starcasino": 13270116
-      },
-      "date": "2025-11-09T19:45:00",
-      "competition": "Italy Serie A"
-    },
-    "Crystal Palace - Brentford": {
-      "odds": {
-        "betcity": [
-          2.02,
-          3.7,
-          3.85
-        ],
-        "bingoal": [
-          2.0,
-          3.65,
-          3.8
-        ],
-        "unibet": [
-          2.02,
-          3.75,
-          3.9
-        ],
-        "toto": [
-          1.99,
-          3.65,
-          3.7
-        ],
-        "zebet": [
-          2.02,
-          3.65,
-          3.7
-        ],
-        "jacks": [
-          2.0,
-          3.7,
-          3.85
-        ],
-        "vbet": [
-          1.97,
-          3.5,
-          3.74
-        ],
-        "onecasino": [
-          2.0,
-          3.6,
-          3.7
-        ],
-        "starcasino": [
-          1.91,
-          3.6,
-          4.0
-        ]
-      },
-      "id": {
-        "betcity": 1024044170,
-        "bingoal": 1024044170,
-        "unibet": 1024044170,
-        "toto": "9266518",
-        "zebet": "2a7a3",
-        "jacks": 1024044170,
-        "vbet": "28253287",
-        "onecasino": "10303674",
-        "starcasino": 13190246
-      },
-      "date": "2025-11-01T15:00:00",
-      "competition": "England Premier League"
-    },
-    "Parma Calcio 1913 - Bologna": {
-      "odds": {
-        "betcity": [
-          4.3,
-          3.25,
-          2.04
-        ],
-        "bingoal": [
-          4.25,
-          3.2,
-          2.02
-        ],
-        "unibet": [
-          4.3,
-          3.25,
-          2.04
-        ],
-        "toto": [
-          4.0,
-          3.1,
-          2.08
-        ],
-        "zebet": [
-          3.95,
-          3.05,
-          2.07
-        ],
-        "jacks": [
-          4.3,
-          3.25,
-          2.04
-        ],
-        "vbet": [
-          4.1,
-          2.98,
-          2.08
-        ],
-        "onecasino": [
-          3.9,
-          3.05,
-          2.1
-        ],
-        "starcasino": [
-          4.2,
-          3.0,
-          2.08
-        ]
-      },
-      "id": {
-        "betcity": 1023931857,
-        "bingoal": 1023931857,
-        "unibet": 1023931857,
-        "toto": "9247753",
-        "zebet": "lgea3",
-        "jacks": 1023931857,
-        "vbet": "28260311",
-        "onecasino": "10347009",
-        "starcasino": 13200036
-      },
-      "date": "2025-11-02T17:00:00",
-      "competition": "Italy Serie A"
-    },
-    "PEC Zwolle - Sparta": {
-      "odds": {
-        "betcity": [
-          2.75,
-          3.7,
-          2.5
-        ],
-        "bingoal": [
-          2.7,
-          3.65,
-          2.48
-        ],
-        "unibet": [
-          2.75,
-          3.7,
-          2.5
-        ],
-        "toto": [
-          2.65,
-          3.7,
-          2.49
-        ],
-        "zebet": [
-          2.57,
-          3.55,
-          2.42
-        ],
-        "jacks": [
-          2.75,
-          3.7,
-          2.5
-        ],
-        "vbet": [
-          2.63,
-          3.64,
-          2.47
-        ],
-        "onecasino": [
-          2.6,
-          3.6,
-          2.45
-        ],
-        "starcasino": [
-          2.55,
-          3.5,
-          2.43
-        ]
-      },
-      "id": {
-        "betcity": 1024051601,
-        "bingoal": 1024051601,
-        "unibet": 1024051601,
-        "toto": "9061163",
-        "zebet": "5gea3",
-        "jacks": 1024051601,
-        "vbet": "28304330",
-        "onecasino": "10345006",
-        "starcasino": 13264792
-      },
-      "date": "2025-11-08T20:00:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "FC Utrecht - NEC Nijmegen": {
-      "odds": {
-        "betcity": [
-          2.12,
-          3.65,
-          3.5
-        ],
-        "bingoal": [
-          2.1,
-          3.6,
-          3.45
-        ],
-        "unibet": [
-          2.12,
-          3.65,
-          3.55
-        ],
-        "toto": [
-          2.19,
-          3.7,
-          3.3
-        ],
-        "zebet": [
-          2.17,
-          3.65,
-          3.25
-        ],
-        "jacks": [
-          2.12,
-          3.65,
-          3.5
-        ],
-        "vbet": [
-          2.11,
-          3.41,
-          3.4
-        ],
-        "onecasino": [
-          2.1,
-          3.5,
-          3.25
-        ],
-        "starcasino": [
-          2.2,
-          3.33,
-          3.4
-        ]
-      },
-      "id": {
-        "betcity": 1024051549,
-        "bingoal": 1024051549,
-        "unibet": 1024051549,
-        "toto": "9001085",
-        "zebet": "e28a3",
-        "jacks": 1024051549,
-        "vbet": "28260352",
-        "onecasino": "10306342",
-        "starcasino": 13200663
-      },
-      "date": "2025-11-02T15:45:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Strasbourg - Lille": {
-      "odds": {
-        "betcity": [
-          2.9,
-          3.55,
-          2.43
-        ],
-        "bingoal": [
-          2.85,
-          3.5,
-          2.4
-        ],
-        "unibet": [
-          2.9,
-          3.55,
-          2.43
-        ],
-        "toto": [
-          2.8,
-          3.4,
-          2.34
-        ],
-        "zebet": [
-          2.72,
-          3.3,
-          2.3
-        ],
-        "jacks": [
-          2.88,
-          3.55,
-          2.4
-        ],
-        "vbet": [
-          2.91,
-          3.45,
-          2.35
-        ],
-        "onecasino": [
-          2.85,
-          3.35,
-          2.35
-        ],
-        "starcasino": [
-          2.83,
-          3.4,
-          2.36
-        ]
-      },
-      "id": {
-        "betcity": 1024143667,
-        "bingoal": 1024143667,
-        "unibet": 1024143667,
-        "toto": "9379936",
-        "zebet": "jjha3",
-        "jacks": 1024143667,
-        "vbet": "28311100",
-        "onecasino": "10364852",
-        "starcasino": 14118477
-      },
-      "date": "2025-11-09T16:15:00",
-      "competition": "French Ligue 1"
-    },
-    "Cremonese - Juventus": {
-      "odds": {
-        "betcity": [
-          7.0,
-          4.5,
-          1.49
-        ],
-        "bingoal": [
-          7.0,
+          1.49,
           4.4,
-          1.48
-        ],
-        "unibet": [
-          7.0,
-          4.5,
-          1.49
-        ],
-        "toto": [
-          6.5,
-          4.5,
-          1.54
-        ],
-        "zebet": [
-          6.0,
-          4.2,
-          1.52
-        ],
-        "jacks": [
-          7.0,
-          4.5,
-          1.49
+          7.0
         ],
         "vbet": [
-          6.4,
-          4.1,
-          1.51
-        ],
-        "onecasino": [
-          6.5,
+          1.46,
           4.2,
-          1.51
-        ],
-        "starcasino": [
-          6.5,
-          4.2,
-          1.52
-        ]
-      },
-      "id": {
-        "betcity": 1023931861,
-        "bingoal": 1023931861,
-        "unibet": 1023931861,
-        "toto": "9247719",
-        "zebet": "kgea3",
-        "jacks": 1023931861,
-        "vbet": "28253292",
-        "onecasino": "10335288",
-        "starcasino": 13200045
-      },
-      "date": "2025-11-01T19:45:00",
-      "competition": "Italy Serie A"
-    },
-    "Bologna - Napoli": {
-      "odds": {
-        "betcity": [
-          3.1,
-          3.25,
-          2.55
-        ],
-        "bingoal": [
-          3.05,
-          3.2,
-          2.5
-        ],
-        "unibet": [
-          3.1,
-          3.25,
-          2.55
-        ],
-        "toto": [
-          2.95,
-          3.0,
-          2.46
-        ],
-        "zebet": [
-          2.82,
-          2.95,
-          2.42
-        ],
-        "jacks": [
-          3.1,
-          3.25,
-          2.55
-        ],
-        "vbet": [
-          2.95,
-          3.1,
-          2.51
-        ],
-        "onecasino": [
-          2.95,
-          3.05,
-          2.5
-        ],
-        "starcasino": [
-          3.0,
-          3.1,
-          2.43
-        ]
-      },
-      "id": {
-        "betcity": 1023931968,
-        "bingoal": 1023931968,
-        "unibet": 1023931968,
-        "toto": "9379985",
-        "zebet": "mjha3",
-        "jacks": 1023931968,
-        "vbet": "28311117",
-        "onecasino": "10366603",
-        "starcasino": 13270117
-      },
-      "date": "2025-11-09T14:00:00",
-      "competition": "Italy Serie A"
-    },
-    "Ajax - SC Heerenveen": {
-      "odds": {
-        "betcity": [
-          1.58,
-          4.8,
-          5.1
-        ],
-        "bingoal": [
-          1.56,
-          4.75,
-          5.1
-        ],
-        "unibet": [
-          1.58,
-          4.9,
-          5.25
-        ],
-        "toto": [
-          1.58,
-          5.0,
-          5.5
-        ],
-        "zebet": [
-          1.58,
-          4.7,
           5.2
         ],
-        "jacks": [
-          1.58,
-          4.8,
-          5.1
+        "onecasino": [
+          1.47,
+          4.2,
+          6.0
         ],
-        "vbet": [
-          1.55,
-          4.7,
+        "starcasino": [
+          1.53,
+          4.2,
+          5.67
+        ]
+      },
+      "id": {
+        "betcity": 1024825396,
+        "bet365": "b5krOeO6",
+        "bingoal": 1024825396,
+        "unibet": 1024825396,
+        "toto": "9282721",
+        "zebet": "2wha3",
+        "jacks": 1024825396,
+        "vbet": "28288788",
+        "onecasino": "10328790",
+        "starcasino": 14237025
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Ferencvaros - Ludogorets Razgrad": {
+      "odds": {
+        "betcity": [
+          1.75,
+          3.9,
           5.0
         ],
-        "onecasino": [
-          1.52,
-          4.8,
-          5.25
-        ],
-        "starcasino": [
-          1.56,
-          4.5,
-          5.33
-        ]
-      },
-      "id": {
-        "betcity": 1024051346,
-        "bingoal": 1024051346,
-        "unibet": 1024051346,
-        "toto": "8991143",
-        "zebet": "f28a3",
-        "jacks": 1024051346,
-        "vbet": "28253519",
-        "onecasino": "10306343",
-        "starcasino": 13193533
-      },
-      "date": "2025-11-01T15:30:00",
-      "competition": "Netherlands Eredivisie"
-    },
-    "Brighton - Leeds": {
-      "odds": {
-        "betcity": [
-          1.95,
-          3.8,
-          4.1
-        ],
-        "bingoal": [
-          1.93,
-          3.75,
-          4.0
-        ],
-        "unibet": [
-          1.94,
-          3.8,
-          4.1
-        ],
-        "toto": [
-          1.97,
-          3.6,
-          3.75
-        ],
-        "zebet": [
-          2.0,
-          3.65,
-          3.75
-        ],
-        "jacks": [
-          1.94,
-          3.75,
-          4.0
-        ],
-        "vbet": [
-          1.98,
-          3.5,
-          3.72
-        ],
-        "onecasino": [
-          2.0,
-          3.5,
-          3.8
-        ],
-        "starcasino": [
-          2.0,
-          3.5,
-          3.8
-        ]
-      },
-      "id": {
-        "betcity": 1024044180,
-        "bingoal": 1024044180,
-        "unibet": 1024044180,
-        "toto": "9266520",
-        "zebet": "5a7a3",
-        "jacks": 1024044180,
-        "vbet": "28253289",
-        "onecasino": "10303671",
-        "starcasino": 13190258
-      },
-      "date": "2025-11-01T15:00:00",
-      "competition": "England Premier League"
-    },
-    "Manchester City - Liverpool": {
-      "odds": {
-        "betcity": [
-          1.92,
-          4.25,
-          3.75
-        ],
-        "bingoal": [
-          1.9,
-          4.2,
-          3.7
-        ],
-        "unibet": [
-          1.92,
-          4.25,
-          3.75
-        ],
-        "toto": [
-          1.84,
+        "bet365": [
+          1.7,
           3.9,
-          3.6
+          4.75
         ],
-        "zebet": [
-          1.83,
+        "bingoal": [
+          1.74,
+          3.85,
+          5.0
+        ],
+        "unibet": [
+          1.7,
           3.75,
-          3.5
-        ],
-        "jacks": [
-          1.91,
-          4.25,
-          3.7
-        ],
-        "vbet": [
-          1.82,
-          4.1,
-          3.76
-        ],
-        "onecasino": [
-          1.82,
-          4.0,
-          3.7
-        ],
-        "starcasino": [
-          1.8,
-          4.0,
-          3.8
-        ]
-      },
-      "id": {
-        "betcity": 1024044104,
-        "bingoal": 1024044104,
-        "unibet": 1024044104,
-        "toto": "9349999",
-        "zebet": "ywea3",
-        "jacks": 1024044104,
-        "vbet": "28311111",
-        "onecasino": "10351041",
-        "starcasino": 13261999
-      },
-      "date": "2025-11-09T16:30:00",
-      "competition": "England Premier League"
-    },
-    "Marseille - Brest": {
-      "odds": {
-        "betcity": [
-          1.4,
-          5.1,
-          8.0
-        ],
-        "bingoal": [
-          1.37,
-          5.0,
-          8.0
-        ],
-        "unibet": [
-          1.4,
-          5.1,
-          8.0
-        ],
-        "toto": [
-          1.37,
-          4.75,
-          7.0
-        ],
-        "zebet": [
-          1.35,
-          4.5,
-          6.4
-        ],
-        "jacks": [
-          1.38,
-          5.0,
-          8.0
-        ],
-        "vbet": [
-          1.4,
-          4.9,
-          7.0
-        ],
-        "onecasino": [
-          1.4,
-          4.7,
-          7.25
-        ],
-        "starcasino": [
-          1.38,
-          5.0,
-          6.67
-        ]
-      },
-      "id": {
-        "betcity": 1024143630,
-        "bingoal": 1024143630,
-        "unibet": 1024143630,
-        "toto": "9377440",
-        "zebet": "5jha3",
-        "jacks": 1024143630,
-        "vbet": "28304108",
-        "onecasino": "10364853",
-        "starcasino": 14107735
-      },
-      "date": "2025-11-08T16:00:00",
-      "competition": "French Ligue 1"
-    },
-    "Lazio - Cagliari": {
-      "odds": {
-        "betcity": [
-          1.58,
-          3.95,
-          6.75
-        ],
-        "bingoal": [
-          1.57,
-          3.95,
-          6.5
-        ],
-        "unibet": [
-          1.58,
-          3.95,
-          6.75
-        ],
-        "toto": [
-          1.59,
-          3.95,
-          6.0
-        ],
-        "zebet": [
-          1.58,
-          3.75,
-          5.6
-        ],
-        "jacks": [
-          1.58,
-          3.95,
-          6.75
-        ],
-        "vbet": [
-          1.58,
-          3.9,
-          5.8
-        ],
-        "onecasino": [
-          1.57,
-          3.9,
-          6.0
-        ],
-        "starcasino": [
-          1.6,
-          4.0,
-          5.75
-        ]
-      },
-      "id": {
-        "betcity": 1023931864,
-        "bingoal": 1023931864,
-        "unibet": 1023931864,
-        "toto": "9247767",
-        "zebet": "ogea3",
-        "jacks": 1023931864,
-        "vbet": "28266503",
-        "onecasino": "10347002",
-        "starcasino": 13200046
-      },
-      "date": "2025-11-03T19:45:00",
-      "competition": "Italy Serie A"
-    },
-    "Lyon - Paris SG": {
-      "odds": {
-        "betcity": [
-          4.5,
-          4.4,
-          1.7
-        ],
-        "bingoal": [
-          4.5,
-          4.35,
-          1.68
-        ],
-        "unibet": [
-          4.5,
-          4.4,
-          1.7
-        ],
-        "toto": [
-          4.25,
-          4.0,
-          1.66
-        ],
-        "zebet": [
-          4.1,
-          3.9,
-          1.65
-        ],
-        "jacks": [
-          4.5,
-          4.35,
-          1.68
-        ],
-        "vbet": [
-          4.5,
-          4.1,
-          1.68
-        ],
-        "onecasino": [
-          4.4,
-          4.1,
-          1.67
-        ],
-        "starcasino": [
-          4.33,
-          4.2,
-          1.67
-        ]
-      },
-      "id": {
-        "betcity": 1024143636,
-        "bingoal": 1024143636,
-        "unibet": 1024143636,
-        "toto": "9379937",
-        "zebet": "7jha3",
-        "jacks": 1024143636,
-        "vbet": "28311099",
-        "onecasino": "10364850",
-        "starcasino": 14118475
-      },
-      "date": "2025-11-09T19:45:00",
-      "competition": "French Ligue 1"
-    },
-    "Fulham - Wolves": {
-      "odds": {
-        "betcity": [
-          1.84,
-          3.6,
-          4.8
-        ],
-        "bingoal": [
-          1.82,
-          3.6,
-          4.8
-        ],
-        "unibet": [
-          1.84,
-          3.65,
           4.9
         ],
         "toto": [
-          1.83,
-          3.55,
-          4.5
-        ],
-        "zebet": [
-          1.85,
-          3.55,
-          4.5
-        ],
-        "jacks": [
-          1.83,
-          3.6,
-          4.8
-        ],
-        "vbet": [
-          1.8,
-          3.52,
-          4.5
-        ],
-        "onecasino": [
-          1.83,
-          3.5,
-          4.5
-        ],
-        "starcasino": [
-          1.8,
-          3.67,
-          4.5
-        ]
-      },
-      "id": {
-        "betcity": 1024044177,
-        "bingoal": 1024044177,
-        "unibet": 1024044177,
-        "toto": "9266517",
-        "zebet": "0a7a3",
-        "jacks": 1024044177,
-        "vbet": "28253286",
-        "onecasino": "10303675",
-        "starcasino": 13190247
-      },
-      "date": "2025-11-01T15:00:00",
-      "competition": "England Premier League"
-    },
-    "Aston Villa - Bournemouth": {
-      "odds": {
-        "betcity": [
-          2.18,
-          3.75,
-          3.35
-        ],
-        "bingoal": [
-          2.16,
-          3.7,
-          3.3
-        ],
-        "unibet": [
-          2.18,
-          3.75,
-          3.35
-        ],
-        "toto": [
-          2.12,
-          3.45,
-          3.15
-        ],
-        "zebet": [
-          2.1,
-          3.35,
-          3.1
-        ],
-        "jacks": [
-          2.17,
-          3.75,
-          3.35
-        ],
-        "vbet": [
-          2.16,
-          3.45,
-          3.27
-        ],
-        "onecasino": [
-          2.15,
-          3.4,
-          3.25
-        ],
-        "starcasino": [
-          2.17,
-          3.33,
-          3.25
-        ]
-      },
-      "id": {
-        "betcity": 1024044165,
-        "bingoal": 1024044165,
-        "unibet": 1024044165,
-        "toto": "9349874",
-        "zebet": "qwea3",
-        "jacks": 1024044165,
-        "vbet": "28311114",
-        "onecasino": "10351047",
-        "starcasino": 13262011
-      },
-      "date": "2025-11-09T14:00:00",
-      "competition": "England Premier League"
-    },
-    "Hoffenheim - RasenBallsport Leipzig": {
-      "odds": {
-        "betcity": [
-          2.75,
-          4.1,
-          2.4
-        ],
-        "bingoal": [
-          2.7,
-          4.0,
-          2.38
-        ],
-        "unibet": [
-          2.7,
-          4.1,
-          2.4
-        ],
-        "toto": [
-          2.6,
-          3.7,
-          2.34
-        ],
-        "zebet": [
-          2.55,
-          3.6,
-          2.3
-        ],
-        "jacks": [
-          2.75,
-          4.1,
-          2.4
-        ],
-        "vbet": [
-          2.72,
-          3.76,
-          2.35
-        ],
-        "onecasino": [
-          2.7,
-          3.6,
-          2.35
-        ],
-        "starcasino": [
-          2.67,
-          3.75,
-          2.33
-        ]
-      },
-      "id": {
-        "betcity": 1024136749,
-        "bingoal": 1024136749,
-        "unibet": 1024136749,
-        "toto": "9271354",
-        "zebet": "mlea3",
-        "jacks": 1024136749,
-        "vbet": "28304118",
-        "onecasino": "10347960",
-        "starcasino": 13260413
-      },
-      "date": "2025-11-08T14:30:00",
-      "competition": "Germany Bundesliga"
-    },
-    "Chelsea - Wolves": {
-      "odds": {
-        "betcity": [
-          1.37,
-          5.5,
-          9.0
-        ],
-        "bingoal": [
-          1.36,
-          5.4,
-          8.5
-        ],
-        "unibet": [
-          1.37,
-          5.5,
-          9.0
-        ],
-        "toto": [
-          1.35,
-          5.0,
-          7.25
-        ],
-        "zebet": [
-          1.33,
-          4.6,
-          7.0
-        ],
-        "jacks": [
-          1.37,
-          5.5,
-          8.5
-        ],
-        "vbet": [
-          1.36,
-          5.1,
-          7.9
-        ],
-        "onecasino": [
-          1.35,
-          4.9,
-          8.25
-        ],
-        "starcasino": [
-          1.33,
-          5.33,
-          7.5
-        ]
-      },
-      "id": {
-        "betcity": 1024044152,
-        "bingoal": 1024044152,
-        "unibet": 1024044152,
-        "toto": "9349872",
-        "zebet": "pwea3",
-        "jacks": 1024044152,
-        "vbet": "28304137",
-        "onecasino": "10351043",
-        "starcasino": 13261997
-      },
-      "date": "2025-11-08T20:00:00",
-      "competition": "England Premier League"
-    },
-    "Barcelona - Elche": {
-      "odds": {
-        "betcity": [
-          1.25,
-          6.4,
-          14.0
-        ],
-        "bingoal": [
-          1.23,
-          6.25,
-          14.0
-        ],
-        "unibet": [
-          1.23,
-          6.5,
-          15.0
-        ],
-        "toto": [
-          1.24,
-          6.75,
-          10.5
-        ],
-        "zebet": [
-          1.22,
-          6.2,
-          9.75
-        ],
-        "jacks": [
-          1.21,
-          6.1,
-          14.0
-        ],
-        "vbet": [
-          1.24,
-          5.8,
-          13.0
-        ],
-        "onecasino": [
-          1.22,
-          6.25,
-          12.0
-        ],
-        "starcasino": [
-          1.25,
-          6.67,
-          10.0
-        ]
-      },
-      "id": {
-        "betcity": 1024182660,
-        "bingoal": 1024182660,
-        "unibet": 1024182660,
-        "toto": "8586233",
-        "zebet": "x18a3",
-        "jacks": 1024182660,
-        "vbet": "28260296",
-        "onecasino": "10307185",
-        "starcasino": 13368431
-      },
-      "date": "2025-11-02T17:30:00",
-      "competition": "Spanish La Liga"
-    },
-    "Metz - Nice": {
-      "odds": {
-        "betcity": [
-          4.2,
+          1.72,
           3.85,
-          1.87
+          4.75
         ],
-        "bingoal": [
-          4.1,
-          3.8,
-          1.84
-        ],
-        "unibet": [
-          4.2,
-          3.85,
-          1.87
-        ],
-        "toto": [
+        "zebet": [
+          1.68,
           3.65,
-          3.65,
-          1.88
-        ],
-        "zebet": [
-          3.5,
-          3.5,
-          1.85
+          4.5
         ],
         "jacks": [
-          4.1,
+          1.7,
+          3.75,
+          4.9
+        ],
+        "vbet": [
+          1.7,
+          3.97,
+          4.5
+        ],
+        "onecasino": [
+          1.68,
+          3.7,
+          4.5
+        ],
+        "starcasino": [
+          1.68,
           3.8,
-          1.85
-        ],
-        "vbet": [
-          3.77,
-          3.69,
-          1.91
-        ],
-        "onecasino": [
-          3.8,
-          3.6,
-          1.89
-        ],
-        "starcasino": [
-          3.8,
-          3.67,
-          1.88
-        ]
-      },
-      "id": {
-        "betcity": 1024143651,
-        "bingoal": 1024143651,
-        "unibet": 1024143651,
-        "toto": "9379935",
-        "zebet": "9jha3",
-        "jacks": 1024143651,
-        "vbet": "28311101",
-        "onecasino": "10364851",
-        "starcasino": 14272186
-      },
-      "date": "2025-11-09T16:15:00",
-      "competition": "French Ligue 1"
-    },
-    "Verona - Inter Milan": {
-      "odds": {
-        "betcity": [
-          8.0,
-          5.0,
-          1.42
-        ],
-        "bingoal": [
-          8.0,
-          5.0,
-          1.4
-        ],
-        "unibet": [
-          8.0,
-          5.0,
-          1.42
-        ],
-        "toto": [
-          7.5,
-          4.75,
-          1.41
-        ],
-        "zebet": [
-          7.0,
-          4.5,
-          1.4
-        ],
-        "jacks": [
-          8.0,
-          5.0,
-          1.42
-        ],
-        "vbet": [
-          7.3,
-          4.9,
-          1.39
-        ],
-        "onecasino": [
-          7.5,
-          4.8,
-          1.39
-        ],
-        "starcasino": [
-          8.0,
-          4.75,
-          1.4
-        ]
-      },
-      "id": {
-        "betcity": 1023931862,
-        "bingoal": 1023931862,
-        "unibet": 1023931862,
-        "toto": "9247718",
-        "zebet": "ngea3",
-        "jacks": 1023931862,
-        "vbet": "28260309",
-        "onecasino": "10347008",
-        "starcasino": 13200031
-      },
-      "date": "2025-11-02T11:30:00",
-      "competition": "Italy Serie A"
-    },
-    "Girona - Alaves": {
-      "odds": {
-        "betcity": [
-          2.43,
-          3.2,
-          3.25
-        ],
-        "bingoal": [
-          2.4,
-          3.15,
-          3.2
-        ],
-        "unibet": [
-          2.43,
-          3.2,
-          3.25
-        ],
-        "toto": [
-          2.34,
-          3.1,
-          3.05
-        ],
-        "zebet": [
-          2.3,
-          3.05,
-          2.95
-        ],
-        "jacks": [
-          2.35,
-          3.1,
-          3.15
-        ],
-        "vbet": [
-          2.42,
-          3.19,
-          3.0
-        ],
-        "onecasino": [
-          2.4,
-          3.1,
-          3.0
-        ],
-        "starcasino": [
-          2.43,
-          3.2,
-          2.9
-        ]
-      },
-      "id": {
-        "betcity": 1024182684,
-        "bingoal": 1024182684,
-        "unibet": 1024182684,
-        "toto": "8653693",
-        "zebet": "bjea3",
-        "jacks": 1024182684,
-        "vbet": "28304104",
-        "onecasino": "10344556",
-        "starcasino": 13368404
-      },
-      "date": "2025-11-08T13:00:00",
-      "competition": "Spanish La Liga"
-    },
-    "Nottingham Forest - Leeds": {
-      "odds": {
-        "betcity": [
-          2.33,
-          3.45,
-          3.2
-        ],
-        "bingoal": [
-          2.3,
-          3.45,
-          3.2
-        ],
-        "unibet": [
-          2.33,
-          3.45,
-          3.2
-        ],
-        "toto": [
-          2.2,
-          3.2,
-          3.15
-        ],
-        "zebet": [
-          2.17,
-          3.15,
-          3.1
-        ],
-        "jacks": [
-          2.33,
-          3.45,
-          3.2
-        ],
-        "vbet": [
-          2.19,
-          3.32,
-          3.3
-        ],
-        "onecasino": [
-          2.2,
-          3.25,
-          3.25
-        ],
-        "starcasino": [
-          2.2,
-          3.25,
-          3.25
-        ]
-      },
-      "id": {
-        "betcity": 1024044102,
-        "bingoal": 1024044102,
-        "unibet": 1024044102,
-        "toto": "9349998",
-        "zebet": "twea3",
-        "jacks": 1024044102,
-        "vbet": "28311110",
-        "onecasino": "10351044",
-        "starcasino": 13262006
-      },
-      "date": "2025-11-09T14:00:00",
-      "competition": "England Premier League"
-    },
-    "Napoli - Como": {
-      "odds": {
-        "betcity": [
-          1.96,
-          3.3,
-          4.5
-        ],
-        "bingoal": [
-          1.94,
-          3.3,
-          4.5
-        ],
-        "unibet": [
-          1.96,
-          3.3,
-          4.5
-        ],
-        "toto": [
-          1.99,
-          3.35,
-          4.25
-        ],
-        "zebet": [
-          1.97,
-          3.25,
-          4.1
-        ],
-        "jacks": [
-          1.96,
-          3.3,
-          4.5
-        ],
-        "vbet": [
-          1.96,
-          3.12,
-          4.4
-        ],
-        "onecasino": [
-          2.0,
-          3.2,
-          4.3
-        ],
-        "starcasino": [
-          1.94,
-          3.1,
           4.75
         ]
       },
       "id": {
-        "betcity": 1023931856,
-        "bingoal": 1023931856,
-        "unibet": 1023931856,
-        "toto": "9247742",
-        "zebet": "igea3",
-        "jacks": 1023931856,
-        "vbet": "28253291",
-        "onecasino": "10335287",
-        "starcasino": 13200033
+        "betcity": 1024825642,
+        "bet365": "QBsXqZj3",
+        "bingoal": 1024825642,
+        "unibet": 1024825642,
+        "toto": "9282738",
+        "zebet": "qaca3",
+        "jacks": 1024825642,
+        "vbet": "27908510",
+        "onecasino": "10330288",
+        "starcasino": 14237012
       },
-      "date": "2025-11-01T17:00:00",
-      "competition": "Italy Serie A"
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
     },
-    "SC Telstar - Excelsior": {
+    "RB Salzburg - Green Eagles": {
       "odds": {
-        "betcity": [
-          2.2,
-          3.8,
-          3.15
-        ],
-        "bingoal": [
-          2.18,
+        "bet365": [
+          1.8,
           3.75,
-          3.1
-        ],
-        "unibet": [
-          2.23,
-          3.85,
-          3.2
-        ],
-        "toto": [
-          2.21,
-          3.7,
-          3.25
-        ],
-        "zebet": [
-          2.2,
-          3.65,
-          3.2
-        ],
-        "jacks": [
-          2.2,
-          3.8,
-          3.15
-        ],
-        "vbet": [
-          2.12,
-          3.62,
-          3.23
-        ],
-        "onecasino": [
-          2.15,
-          3.6,
-          3.25
-        ],
-        "starcasino": [
-          2.12,
-          3.75,
-          3.2
+          4.1
         ]
       },
       "id": {
-        "betcity": 1024051367,
-        "bingoal": 1024051367,
-        "unibet": 1024051367,
-        "toto": "8991145",
-        "zebet": "g28a3",
-        "jacks": 1024051367,
-        "vbet": "28253518",
-        "onecasino": "10306351",
-        "starcasino": 13193534
+        "bet365": "S4cSZZA5"
       },
-      "date": "2025-11-01T20:00:00",
-      "competition": "Netherlands Eredivisie"
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
     },
-    "Everton - Fulham": {
+    "Qarabag FK - Chelsea": {
       "odds": {
         "betcity": [
-          2.2,
-          3.4,
-          3.6
+          9.0,
+          5.5,
+          1.36
+        ],
+        "bet365": [
+          8.5,
+          5.0,
+          1.36
         ],
         "bingoal": [
-          2.17,
-          3.4,
-          3.6
+          9.0,
+          5.4,
+          1.35
         ],
         "unibet": [
-          2.2,
-          3.4,
-          3.6
+          9.0,
+          5.5,
+          1.37
         ],
         "toto": [
-          2.1,
+          8.25,
+          5.5,
+          1.38
+        ],
+        "zebet": [
+          7.5,
+          4.9,
+          1.34
+        ],
+        "jacks": [
+          9.0,
+          5.5,
+          1.37
+        ],
+        "vbet": [
+          7.6,
+          5.3,
+          1.35
+        ],
+        "onecasino": [
+          7.5,
+          5.25,
+          1.35
+        ],
+        "starcasino": [
+          7.5,
+          5.5,
+          1.36
+        ]
+      },
+      "id": {
+        "betcity": 1024820125,
+        "bet365": "MZlbTuKi",
+        "bingoal": 1024820125,
+        "unibet": 1024820125,
+        "toto": "9282736",
+        "zebet": "ncba3",
+        "jacks": 1024820125,
+        "vbet": "28281090",
+        "onecasino": "10322641",
+        "starcasino": 14214359
+      },
+      "date": "2025-11-05T17:45:00",
+      "competition": "UEFA Champions League"
+    },
+    "Malmo FF - Panathinaikos": {
+      "odds": {
+        "betcity": [
+          2.85,
+          3.5,
+          2.55
+        ],
+        "bet365": [
+          2.63,
+          3.3,
+          2.63
+        ],
+        "bingoal": [
+          2.85,
+          3.5,
+          2.55
+        ],
+        "unibet": [
+          2.75,
+          3.4,
+          2.48
+        ],
+        "toto": [
+          2.7,
+          3.4,
+          2.6
+        ],
+        "zebet": [
+          2.62,
+          3.25,
+          2.52
+        ],
+        "jacks": [
+          2.75,
+          3.4,
+          2.48
+        ],
+        "vbet": [
+          2.65,
+          3.39,
+          2.58
+        ],
+        "onecasino": [
+          2.6,
+          3.25,
+          2.5
+        ],
+        "starcasino": [
+          2.67,
+          3.5,
+          2.45
+        ]
+      },
+      "id": {
+        "betcity": 1024825625,
+        "bet365": "bgPsaKEc",
+        "bingoal": 1024825625,
+        "unibet": 1024825625,
+        "toto": "9282727",
+        "zebet": "q7ca3",
+        "jacks": 1024825625,
+        "vbet": "28288803",
+        "onecasino": "10330260",
+        "starcasino": 14237001
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "FC Lausanne-Sport - Omonia Nicosia": {
+      "odds": {
+        "betcity": [
+          2.25,
+          3.9,
+          3.0
+        ],
+        "bet365": [
+          2.15,
+          3.5,
+          3.1
+        ],
+        "bingoal": [
+          2.2,
+          3.85,
+          2.95
+        ],
+        "unibet": [
+          2.25,
+          3.9,
+          3.0
+        ],
+        "toto": [
+          2.24,
+          3.65,
+          3.05
+        ],
+        "zebet": [
+          2.17,
+          3.5,
+          2.95
+        ],
+        "jacks": [
+          2.25,
+          3.9,
+          3.0
+        ],
+        "vbet": [
+          2.07,
+          3.37,
+          2.93
+        ],
+        "onecasino": [
+          2.15,
+          3.5,
+          3.0
+        ],
+        "starcasino": [
+          2.14,
+          3.5,
+          3.14
+        ]
+      },
+      "id": {
+        "betcity": 1024825484,
+        "bet365": "WMw2wYSH",
+        "bingoal": 1024825484,
+        "unibet": 1024825484,
+        "toto": "9282722",
+        "zebet": "iwha3",
+        "jacks": 1024825484,
+        "vbet": "28288777",
+        "onecasino": "10328796",
+        "starcasino": 14237033
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Rangers FC - Roma": {
+      "odds": {
+        "betcity": [
+          4.6,
+          3.85,
+          1.83
+        ],
+        "bet365": [
+          4.33,
+          3.8,
+          1.75
+        ],
+        "bingoal": [
+          4.5,
+          3.8,
+          1.81
+        ],
+        "unibet": [
+          4.4,
+          3.75,
+          1.77
+        ],
+        "toto": [
+          4.5,
+          3.75,
+          1.8
+        ],
+        "zebet": [
+          4.1,
+          3.55,
+          1.75
+        ],
+        "jacks": [
+          4.4,
+          3.75,
+          1.77
+        ],
+        "vbet": [
+          4.5,
+          3.88,
+          1.73
+        ],
+        "onecasino": [
+          4.5,
+          3.7,
+          1.7
+        ],
+        "starcasino": [
+          4.33,
+          4.0,
+          1.7
+        ]
+      },
+      "id": {
+        "betcity": 1024825620,
+        "bet365": "fsCYCco2",
+        "bingoal": 1024825620,
+        "unibet": 1024825620,
+        "toto": "9282737",
+        "zebet": "49ca3",
+        "jacks": 1024825620,
+        "vbet": "28288791",
+        "onecasino": "10330291",
+        "starcasino": 14237017
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
+    },
+    "Bodoe/Glimt - Monaco": {
+      "odds": {
+        "betcity": [
+          2.43,
+          3.8,
+          2.85
+        ],
+        "bet365": [
+          2.35,
+          3.7,
+          2.8
+        ],
+        "bingoal": [
+          2.4,
+          3.8,
+          2.85
+        ],
+        "unibet": [
+          2.45,
+          3.85,
+          2.88
+        ],
+        "toto": [
+          2.43,
+          3.8,
+          2.8
+        ],
+        "zebet": [
+          2.35,
+          3.65,
+          2.72
+        ],
+        "jacks": [
+          2.43,
+          3.85,
+          2.88
+        ],
+        "vbet": [
+          2.32,
+          3.73,
+          2.77
+        ],
+        "onecasino": [
+          2.3,
+          3.8,
+          2.75
+        ],
+        "starcasino": [
+          2.36,
+          3.67,
+          2.83
+        ]
+      },
+      "id": {
+        "betcity": 1025356384,
+        "bet365": "xbkwtSMt",
+        "bingoal": 1025356384,
+        "unibet": 1025356384,
+        "toto": "8863496",
+        "zebet": "ecba3",
+        "jacks": 1025356384,
+        "vbet": "28272916",
+        "onecasino": "10322639",
+        "starcasino": 13890074
+      },
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "FC Basel - Steaua Bucarest": {
+      "odds": {
+        "betcity": [
+          1.6,
+          4.4,
+          5.75
+        ],
+        "bet365": [
+          1.53,
+          4.33,
+          5.5
+        ],
+        "bingoal": [
+          1.58,
+          4.35,
+          5.6
+        ],
+        "unibet": [
+          1.55,
+          4.3,
+          5.5
+        ],
+        "toto": [
+          1.57,
+          4.25,
+          5.5
+        ],
+        "zebet": [
+          1.53,
+          4.1,
+          5.2
+        ],
+        "jacks": [
+          1.55,
+          4.3,
+          5.5
+        ],
+        "vbet": [
+          1.54,
+          4.2,
+          5.7
+        ],
+        "onecasino": [
+          1.49,
+          4.1,
+          5.75
+        ],
+        "starcasino": [
+          1.52,
+          4.2,
+          5.75
+        ]
+      },
+      "id": {
+        "betcity": 1024825634,
+        "bet365": "6R06U896",
+        "bingoal": 1024825634,
+        "unibet": 1024825634,
+        "toto": "9282751",
+        "zebet": "2dca3",
+        "jacks": 1024825634,
+        "vbet": "28288806",
+        "onecasino": "10330283",
+        "starcasino": 14236994
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "Mainz - Fiorentina": {
+      "odds": {
+        "betcity": [
+          2.3,
+          3.4,
+          3.25
+        ],
+        "bet365": [
+          2.2,
+          3.25,
+          3.25
+        ],
+        "bingoal": [
+          2.25,
+          3.35,
+          3.2
+        ],
+        "unibet": [
+          2.3,
+          3.4,
+          3.25
+        ],
+        "toto": [
+          2.24,
           3.35,
           3.3
         ],
         "zebet": [
-          2.1,
-          3.25,
-          3.2
+          2.17,
+          3.2,
+          3.15
         ],
         "jacks": [
-          2.18,
+          2.3,
           3.4,
-          3.6
+          3.25
         ],
         "vbet": [
-          2.12,
-          3.47,
-          3.34
+          2.07,
+          3.14,
+          3.14
         ],
         "onecasino": [
-          2.1,
-          3.35,
-          3.35
+          2.15,
+          3.2,
+          3.2
         ],
         "starcasino": [
-          2.1,
-          3.4,
+          2.17,
+          3.25,
           3.33
         ]
       },
       "id": {
-        "betcity": 1024044097,
-        "bingoal": 1024044097,
-        "unibet": 1024044097,
-        "toto": "9349869",
-        "zebet": "jwea3",
-        "jacks": 1024044097,
-        "vbet": "28304136",
-        "onecasino": "10351046",
-        "starcasino": 13262041
+        "betcity": 1024825403,
+        "bet365": "fNFEMECL",
+        "bingoal": 1024825403,
+        "unibet": 1024825403,
+        "toto": "9282706",
+        "zebet": "8wha3",
+        "jacks": 1024825403,
+        "vbet": "28288785",
+        "onecasino": "10328789",
+        "starcasino": 14237024
       },
-      "date": "2025-11-08T15:00:00",
-      "competition": "England Premier League"
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Shakhtar Donetsk - Breidablik": {
+      "odds": {
+        "betcity": [
+          1.17,
+          8.5,
+          15.0
+        ],
+        "bet365": [
+          1.17,
+          7.5,
+          13.0
+        ],
+        "bingoal": [
+          1.16,
+          8.5,
+          14.0
+        ],
+        "unibet": [
+          1.17,
+          8.5,
+          15.0
+        ],
+        "toto": [
+          1.17,
+          8.0,
+          14.0
+        ],
+        "zebet": [
+          1.13,
+          6.75,
+          11.5
+        ],
+        "jacks": [
+          1.17,
+          8.5,
+          15.0
+        ],
+        "vbet": [
+          1.14,
+          6.8,
+          10.0
+        ],
+        "onecasino": [
+          1.15,
+          7.5,
+          12.0
+        ],
+        "starcasino": [
+          1.18,
+          7.0,
+          12.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825384,
+        "bet365": "6NQI9mjU",
+        "bingoal": 1024825384,
+        "unibet": 1024825384,
+        "toto": "9282714",
+        "zebet": "bwha3",
+        "jacks": 1024825384,
+        "vbet": "28288782",
+        "onecasino": "10328797",
+        "starcasino": 14237026
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Nice - Freiburg": {
+      "odds": {
+        "betcity": [
+          2.7,
+          3.45,
+          2.7
+        ],
+        "bet365": [
+          2.63,
+          3.4,
+          2.55
+        ],
+        "bingoal": [
+          2.65,
+          3.45,
+          2.7
+        ],
+        "unibet": [
+          2.63,
+          3.35,
+          2.63
+        ],
+        "toto": [
+          2.65,
+          3.45,
+          2.65
+        ],
+        "zebet": [
+          2.55,
+          3.3,
+          2.55
+        ],
+        "jacks": [
+          2.63,
+          3.35,
+          2.63
+        ],
+        "vbet": [
+          2.67,
+          3.3,
+          2.61
+        ],
+        "onecasino": [
+          2.55,
+          3.25,
+          2.55
+        ],
+        "starcasino": [
+          2.71,
+          3.25,
+          2.55
+        ]
+      },
+      "id": {
+        "betcity": 1024825621,
+        "bet365": "WSzuq8Oa",
+        "bingoal": 1024825621,
+        "unibet": 1024825621,
+        "toto": "9282740",
+        "zebet": "j8ca3",
+        "jacks": 1024825621,
+        "vbet": "28288801",
+        "onecasino": "10330275",
+        "starcasino": 14237003
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "Liverpool - Real Madrid": {
+      "odds": {
+        "betcity": [
+          2.55,
+          4.0,
+          2.55
+        ],
+        "bet365": [
+          2.5,
+          3.75,
+          2.6
+        ],
+        "bingoal": [
+          2.55,
+          3.95,
+          2.55
+        ],
+        "unibet": [
+          2.6,
+          4.0,
+          2.6
+        ],
+        "toto": [
+          2.55,
+          3.95,
+          2.6
+        ],
+        "zebet": [
+          2.47,
+          3.75,
+          2.5
+        ],
+        "jacks": [
+          2.55,
+          4.0,
+          2.6
+        ],
+        "vbet": [
+          2.45,
+          3.82,
+          2.57
+        ],
+        "onecasino": [
+          2.45,
+          3.9,
+          2.55
+        ],
+        "starcasino": [
+          2.5,
+          4.0,
+          2.5
+        ]
+      },
+      "id": {
+        "betcity": 1025157312,
+        "bet365": "U7OwPBAF",
+        "bingoal": 1025157312,
+        "unibet": 1025157312,
+        "toto": "9282915",
+        "zebet": "icba3",
+        "jacks": 1025157312,
+        "vbet": "28272914",
+        "onecasino": "10322638",
+        "starcasino": 14214349
+      },
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Stuttgart - Feyenoord": {
+      "odds": {
+        "betcity": [
+          1.88,
+          3.95,
+          4.2
+        ],
+        "bet365": [
+          1.85,
+          3.7,
+          3.9
+        ],
+        "bingoal": [
+          1.86,
+          3.9,
+          4.1
+        ],
+        "unibet": [
+          1.82,
+          3.85,
+          4.1
+        ],
+        "toto": [
+          1.91,
+          3.8,
+          3.8
+        ],
+        "zebet": [
+          1.87,
+          3.6,
+          3.65
+        ],
+        "jacks": [
+          1.82,
+          3.85,
+          4.1
+        ],
+        "vbet": [
+          1.84,
+          3.84,
+          3.91
+        ],
+        "onecasino": [
+          1.77,
+          3.6,
+          4.0
+        ],
+        "starcasino": [
+          1.8,
+          3.8,
+          4.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825618,
+        "bet365": "2LfFPzV7",
+        "bingoal": 1024825618,
+        "unibet": 1024825618,
+        "toto": "9282742",
+        "zebet": "59ca3",
+        "jacks": 1024825618,
+        "vbet": "28288790",
+        "onecasino": "10330289",
+        "starcasino": 14237016
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
+    },
+    "Paris SG - Bayern Munich": {
+      "odds": {
+        "bet365": [
+          2.5,
+          3.6,
+          2.63
+        ]
+      },
+      "id": {
+        "bet365": "jH34ACeM"
+      },
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Olympiakos - PSV Eindhoven": {
+      "odds": {
+        "betcity": [
+          2.63,
+          3.6,
+          2.7
+        ],
+        "bet365": [
+          2.55,
+          3.5,
+          2.7
+        ],
+        "bingoal": [
+          2.6,
+          3.55,
+          2.7
+        ],
+        "unibet": [
+          2.65,
+          3.65,
+          2.7
+        ],
+        "toto": [
+          2.6,
+          3.65,
+          2.7
+        ],
+        "zebet": [
+          2.5,
+          3.5,
+          2.62
+        ],
+        "jacks": [
+          2.65,
+          3.6,
+          2.7
+        ],
+        "vbet": [
+          2.54,
+          3.47,
+          2.64
+        ],
+        "onecasino": [
+          2.5,
+          3.45,
+          2.65
+        ],
+        "starcasino": [
+          2.62,
+          3.4,
+          2.67
+        ]
+      },
+      "id": {
+        "betcity": 1024820128,
+        "bet365": "hENu6LuA",
+        "bingoal": 1024820128,
+        "unibet": 1024820128,
+        "toto": "9282911",
+        "zebet": "8yaa3",
+        "jacks": 1024820128,
+        "vbet": "28272913",
+        "onecasino": "10317456",
+        "starcasino": 14214356
+      },
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Betis - Lyon": {
+      "odds": {
+        "betcity": [
+          1.9,
+          3.9,
+          4.1
+        ],
+        "bet365": [
+          1.9,
+          3.5,
+          3.9
+        ],
+        "bingoal": [
+          1.88,
+          3.9,
+          4.0
+        ],
+        "unibet": [
+          1.85,
+          3.8,
+          3.95
+        ],
+        "toto": [
+          1.9,
+          3.8,
+          3.85
+        ],
+        "zebet": [
+          1.85,
+          3.6,
+          3.65
+        ],
+        "jacks": [
+          1.85,
+          3.8,
+          3.95
+        ],
+        "vbet": [
+          1.89,
+          3.88,
+          3.66
+        ],
+        "onecasino": [
+          1.87,
+          3.7,
+          3.6
+        ],
+        "starcasino": [
+          1.92,
+          3.8,
+          3.5
+        ]
+      },
+      "id": {
+        "betcity": 1024825632,
+        "bet365": "rHX1mvNE",
+        "bingoal": 1024825632,
+        "unibet": 1024825632,
+        "toto": "9282752",
+        "zebet": "zcca3",
+        "jacks": 1024825632,
+        "vbet": "28288796",
+        "onecasino": "10330293",
+        "starcasino": 14237009
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
+    },
+    "RB Salzburg - Go Ahead Eagles": {
+      "odds": {
+        "betcity": [
+          1.88,
+          3.95,
+          4.1
+        ],
+        "bingoal": [
+          1.86,
+          3.9,
+          4.1
+        ],
+        "unibet": [
+          1.82,
+          3.8,
+          3.95
+        ],
+        "toto": [
+          1.83,
+          3.9,
+          4.0
+        ],
+        "zebet": [
+          1.8,
+          3.7,
+          3.8
+        ],
+        "jacks": [
+          1.82,
+          3.8,
+          3.95
+        ],
+        "vbet": [
+          1.76,
+          4.0,
+          4.1
+        ],
+        "onecasino": [
+          1.71,
+          3.8,
+          4.2
+        ],
+        "starcasino": [
+          1.75,
+          4.0,
+          4.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825629,
+        "bingoal": 1024825629,
+        "unibet": 1024825629,
+        "toto": "9282734",
+        "zebet": "hlca3",
+        "jacks": 1024825629,
+        "vbet": "28288800",
+        "onecasino": "10330269",
+        "starcasino": 14237006
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "Pafos FC - Villarreal": {
+      "odds": {
+        "betcity": [
+          6.75,
+          4.7,
+          1.49
+        ],
+        "bet365": [
+          6.5,
+          4.75,
+          1.45
+        ],
+        "bingoal": [
+          6.75,
+          4.6,
+          1.48
+        ],
+        "unibet": [
+          6.75,
+          4.75,
+          1.5
+        ],
+        "toto": [
+          6.75,
+          4.75,
+          1.48
+        ],
+        "zebet": [
+          6.2,
+          4.4,
+          1.45
+        ],
+        "jacks": [
+          6.75,
+          4.75,
+          1.5
+        ],
+        "vbet": [
+          6.5,
+          4.7,
+          1.44
+        ],
+        "onecasino": [
+          6.5,
+          4.7,
+          1.43
+        ],
+        "starcasino": [
+          6.67,
+          5.0,
+          1.43
+        ]
+      },
+      "id": {
+        "betcity": 1024820123,
+        "bet365": "byhzYzUQ",
+        "bingoal": 1024820123,
+        "unibet": 1024820123,
+        "toto": "9282704",
+        "zebet": "liaa3",
+        "jacks": 1024820123,
+        "vbet": "28281091",
+        "onecasino": "10317457",
+        "starcasino": 14214361
+      },
+      "date": "2025-11-05T17:45:00",
+      "competition": "UEFA Champions League"
+    },
+    "KuPS Kuopio - Slovan Bratislava": {
+      "odds": {
+        "betcity": [
+          3.5,
+          3.55,
+          2.14
+        ],
+        "bet365": [
+          3.3,
+          3.7,
+          2.05
+        ],
+        "bingoal": [
+          3.45,
+          3.5,
+          2.1
+        ],
+        "unibet": [
+          3.5,
+          3.55,
+          2.14
+        ],
+        "toto": [
+          3.4,
+          3.55,
+          2.11
+        ],
+        "zebet": [
+          3.3,
+          3.4,
+          2.07
+        ],
+        "jacks": [
+          3.5,
+          3.55,
+          2.14
+        ],
+        "vbet": [
+          3.18,
+          3.37,
+          1.96
+        ],
+        "onecasino": [
+          3.25,
+          3.5,
+          2.0
+        ],
+        "starcasino": [
+          3.4,
+          3.6,
+          2.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825408,
+        "bet365": "OYDhioZ9",
+        "bingoal": 1024825408,
+        "unibet": 1024825408,
+        "toto": "9282699",
+        "zebet": "9wha3",
+        "jacks": 1024825408,
+        "vbet": "28288786",
+        "onecasino": "10328792",
+        "starcasino": 14237020
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Sparta Prague - Rakow Czestochowa": {
+      "odds": {
+        "betcity": [
+          1.7,
+          4.0,
+          5.1
+        ],
+        "bet365": [
+          1.67,
+          3.75,
+          5.0
+        ],
+        "bingoal": [
+          1.67,
+          3.95,
+          5.0
+        ],
+        "unibet": [
+          1.7,
+          4.0,
+          5.1
+        ],
+        "toto": [
+          1.69,
+          3.85,
+          5.0
+        ],
+        "zebet": [
+          1.65,
+          3.65,
+          4.7
+        ],
+        "jacks": [
+          1.7,
+          4.0,
+          5.1
+        ],
+        "vbet": [
+          1.63,
+          3.47,
+          4.6
+        ],
+        "onecasino": [
+          1.66,
+          3.6,
+          4.8
+        ],
+        "starcasino": [
+          1.69,
+          3.75,
+          4.75
+        ]
+      },
+      "id": {
+        "betcity": 1024825385,
+        "bet365": "W0UbPVpg",
+        "bingoal": 1024825385,
+        "unibet": 1024825385,
+        "toto": "9282700",
+        "zebet": "nwha3",
+        "jacks": 1024825385,
+        "vbet": "28288781",
+        "onecasino": "10328795",
+        "starcasino": 14237029
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Braga - Genk": {
+      "odds": {
+        "betcity": [
+          1.71,
+          4.2,
+          4.9
+        ],
+        "bet365": [
+          1.65,
+          4.0,
+          4.75
+        ],
+        "bingoal": [
+          1.7,
+          4.2,
+          4.9
+        ],
+        "unibet": [
+          1.65,
+          4.1,
+          4.8
+        ],
+        "toto": [
+          1.68,
+          4.0,
+          4.75
+        ],
+        "zebet": [
+          1.65,
+          3.85,
+          4.4
+        ],
+        "jacks": [
+          1.65,
+          4.1,
+          4.8
+        ],
+        "vbet": [
+          1.68,
+          4.0,
+          4.6
+        ],
+        "onecasino": [
+          1.65,
+          3.9,
+          4.5
+        ],
+        "starcasino": [
+          1.67,
+          4.0,
+          4.5
+        ]
+      },
+      "id": {
+        "betcity": 1024825640,
+        "bet365": "As6546Xg",
+        "bingoal": 1024825640,
+        "unibet": 1024825640,
+        "toto": "9282710",
+        "zebet": "waca3",
+        "jacks": 1024825640,
+        "vbet": "28288794",
+        "onecasino": "10330287",
+        "starcasino": 14237011
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
+    },
+    "Bologna - Brann": {
+      "odds": {
+        "betcity": [
+          1.44,
+          4.9,
+          8.0
+        ],
+        "bet365": [
+          1.36,
+          4.75,
+          8.0
+        ],
+        "bingoal": [
+          1.43,
+          4.9,
+          7.5
+        ],
+        "unibet": [
+          1.4,
+          4.8,
+          7.5
+        ],
+        "toto": [
+          1.39,
+          5.0,
+          7.5
+        ],
+        "zebet": [
+          1.37,
+          4.6,
+          6.75
+        ],
+        "jacks": [
+          1.4,
+          4.8,
+          7.5
+        ],
+        "vbet": [
+          1.39,
+          4.9,
+          7.4
+        ],
+        "onecasino": [
+          1.35,
+          4.8,
+          7.25
+        ],
+        "starcasino": [
+          1.38,
+          5.0,
+          7.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825645,
+        "bet365": "Qmq7nsVi",
+        "bingoal": 1024825645,
+        "unibet": 1024825645,
+        "toto": "9282707",
+        "zebet": "39ca3",
+        "jacks": 1024825645,
+        "vbet": "28288795",
+        "onecasino": "10330294",
+        "starcasino": 14237014
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
+    },
+    "Napoli - Ein Frankfurt": {
+      "odds": {
+        "betcity": [
+          1.6,
+          4.5,
+          5.5
+        ],
+        "bet365": [
+          1.6,
+          4.2,
+          5.25
+        ],
+        "bingoal": [
+          1.6,
+          4.4,
+          5.5
+        ],
+        "unibet": [
+          1.62,
+          4.5,
+          5.6
+        ],
+        "toto": [
+          1.62,
+          4.5,
+          5.25
+        ],
+        "zebet": [
+          1.6,
+          4.2,
+          4.8
+        ],
+        "jacks": [
+          1.61,
+          4.5,
+          5.5
+        ],
+        "vbet": [
+          1.6,
+          4.33,
+          4.9
+        ],
+        "onecasino": [
+          1.59,
+          4.3,
+          5.0
+        ],
+        "starcasino": [
+          1.58,
+          4.33,
+          5.33
+        ]
+      },
+      "id": {
+        "betcity": 1024881593,
+        "bet365": "jmCmuhyf",
+        "bingoal": 1024881593,
+        "unibet": 1024881593,
+        "toto": "9284027",
+        "zebet": "kcba3",
+        "jacks": 1024881593,
+        "vbet": "28272919",
+        "onecasino": "10322637",
+        "starcasino": 14214307
+      },
+      "date": "2025-11-04T17:45:00",
+      "competition": "UEFA Champions League"
+    },
+    "Benfica - Leverkusen": {
+      "odds": {
+        "betcity": [
+          2.12,
+          3.8,
+          3.4
+        ],
+        "bet365": [
+          2.05,
+          3.5,
+          3.5
+        ],
+        "bingoal": [
+          2.1,
+          3.75,
+          3.4
+        ],
+        "unibet": [
+          2.14,
+          3.8,
+          3.45
+        ],
+        "toto": [
+          2.13,
+          3.7,
+          3.45
+        ],
+        "zebet": [
+          2.07,
+          3.5,
+          3.3
+        ],
+        "jacks": [
+          2.12,
+          3.8,
+          3.4
+        ],
+        "vbet": [
+          2.04,
+          3.57,
+          3.45
+        ],
+        "onecasino": [
+          2.05,
+          3.6,
+          3.4
+        ],
+        "starcasino": [
+          2.0,
+          3.67,
+          3.6
+        ]
+      },
+      "id": {
+        "betcity": 1024820120,
+        "bet365": "40DIsWv2",
+        "bingoal": 1024820120,
+        "unibet": 1024820120,
+        "toto": "9282717",
+        "zebet": "viaa3",
+        "jacks": 1024820120,
+        "vbet": "28281088",
+        "onecasino": "10317482",
+        "starcasino": 14214363
+      },
+      "date": "2025-11-05T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Viktoria Plzen - Fenerbahce": {
+      "odds": {
+        "betcity": [
+          2.95,
+          3.65,
+          2.45
+        ],
+        "bet365": [
+          3.0,
+          3.4,
+          2.35
+        ],
+        "bingoal": [
+          2.95,
+          3.6,
+          2.43
+        ],
+        "unibet": [
+          2.88,
+          3.5,
+          2.38
+        ],
+        "toto": [
+          2.9,
+          3.45,
+          2.41
+        ],
+        "zebet": [
+          2.77,
+          3.3,
+          2.35
+        ],
+        "jacks": [
+          2.88,
+          3.5,
+          2.38
+        ],
+        "vbet": [
+          2.87,
+          3.57,
+          2.32
+        ],
+        "onecasino": [
+          2.8,
+          3.4,
+          2.3
+        ],
+        "starcasino": [
+          2.8,
+          3.6,
+          2.3
+        ]
+      },
+      "id": {
+        "betcity": 1024825603,
+        "bet365": "O8ht7EBr",
+        "bingoal": 1024825603,
+        "unibet": 1024825603,
+        "toto": "9282739",
+        "zebet": "ilca3",
+        "jacks": 1024825603,
+        "vbet": "28288792",
+        "onecasino": "10330290",
+        "starcasino": 14237015
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
+    },
+    "Manchester City - Dortmund": {
+      "odds": {
+        "betcity": [
+          1.4,
+          5.6,
+          7.5
+        ],
+        "bet365": [
+          1.4,
+          5.0,
+          7.0
+        ],
+        "bingoal": [
+          1.38,
+          5.6,
+          7.5
+        ],
+        "unibet": [
+          1.41,
+          5.75,
+          7.5
+        ],
+        "toto": [
+          1.45,
+          5.25,
+          6.75
+        ],
+        "zebet": [
+          1.41,
+          4.8,
+          6.0
+        ],
+        "jacks": [
+          1.4,
+          5.6,
+          7.5
+        ],
+        "vbet": [
+          1.41,
+          5.2,
+          6.4
+        ],
+        "onecasino": [
+          1.4,
+          5.0,
+          6.5
+        ],
+        "starcasino": [
+          1.42,
+          5.33,
+          6.33
+        ]
+      },
+      "id": {
+        "betcity": 1024820122,
+        "bet365": "4tHpL29s",
+        "bingoal": 1024820122,
+        "unibet": 1024820122,
+        "toto": "9282713",
+        "zebet": "wiaa3",
+        "jacks": 1024820122,
+        "vbet": "28281085",
+        "onecasino": "10317484",
+        "starcasino": 14214400
+      },
+      "date": "2025-11-05T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Lincoln Red Imps - Rijeka": {
+      "odds": {
+        "betcity": [
+          6.5,
+          4.5,
+          1.52
+        ],
+        "bet365": [
+          7.5,
+          4.1,
+          1.44
+        ],
+        "bingoal": [
+          6.5,
+          4.4,
+          1.49
+        ],
+        "unibet": [
+          6.5,
+          4.5,
+          1.52
+        ],
+        "toto": [
+          6.75,
+          4.5,
+          1.48
+        ],
+        "zebet": [
+          6.2,
+          4.1,
+          1.45
+        ],
+        "jacks": [
+          6.5,
+          4.5,
+          1.52
+        ],
+        "vbet": [
+          6.2,
+          3.94,
+          1.42
+        ],
+        "onecasino": [
+          6.5,
+          4.2,
+          1.44
+        ],
+        "starcasino": [
+          6.67,
+          4.2,
+          1.47
+        ]
+      },
+      "id": {
+        "betcity": 1024825471,
+        "bet365": "QJFpJ9tA",
+        "bingoal": 1024825471,
+        "unibet": 1024825471,
+        "toto": "9282753",
+        "zebet": "gwha3",
+        "jacks": 1024825471,
+        "vbet": "28288776",
+        "onecasino": "10328799",
+        "starcasino": 14237035
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Slavia Prague - Arsenal": {
+      "odds": {
+        "betcity": [
+          13.0,
+          6.25,
+          1.26
+        ],
+        "bet365": [
+          11.0,
+          6.0,
+          1.27
+        ],
+        "bingoal": [
+          13.0,
+          6.25,
+          1.25
+        ],
+        "unibet": [
+          13.0,
+          6.4,
+          1.27
+        ],
+        "toto": [
+          11.5,
+          6.0,
+          1.29
+        ],
+        "zebet": [
+          10.0,
+          5.4,
+          1.25
+        ],
+        "jacks": [
+          13.0,
+          6.4,
+          1.26
+        ],
+        "vbet": [
+          11.0,
+          5.7,
+          1.26
+        ],
+        "onecasino": [
+          11.5,
+          5.75,
+          1.25
+        ],
+        "starcasino": [
+          11.0,
+          5.75,
+          1.27
+        ]
+      },
+      "id": {
+        "betcity": 1024820130,
+        "bet365": "nH8yf0UO",
+        "bingoal": 1024820130,
+        "unibet": 1024820130,
+        "toto": "9284028",
+        "zebet": "78ba3",
+        "jacks": 1024820130,
+        "vbet": "28272918",
+        "onecasino": "10322441",
+        "starcasino": 14214311
+      },
+      "date": "2025-11-04T17:45:00",
+      "competition": "UEFA Champions League"
+    },
+    "Juventus - Sporting CP": {
+      "odds": {
+        "betcity": [
+          1.94,
+          3.7,
+          4.0
+        ],
+        "bet365": [
+          1.91,
+          3.5,
+          4.0
+        ],
+        "bingoal": [
+          1.93,
+          3.7,
+          4.0
+        ],
+        "unibet": [
+          1.96,
+          3.75,
+          4.1
+        ],
+        "toto": [
+          1.96,
+          3.75,
+          4.0
+        ],
+        "zebet": [
+          1.92,
+          3.55,
+          3.75
+        ],
+        "jacks": [
+          1.95,
+          3.7,
+          4.1
+        ],
+        "vbet": [
+          1.9,
+          3.66,
+          3.85
+        ],
+        "onecasino": [
+          1.88,
+          3.7,
+          3.9
+        ],
+        "starcasino": [
+          1.9,
+          3.67,
+          4.0
+        ]
+      },
+      "id": {
+        "betcity": 1024881595,
+        "bet365": "f7w6SEil",
+        "bingoal": 1024881595,
+        "unibet": 1024881595,
+        "toto": "9284029",
+        "zebet": "pcba3",
+        "jacks": 1024881595,
+        "vbet": "28272915",
+        "onecasino": "10322645",
+        "starcasino": 14214346
+      },
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "PAOK - Young Boys": {
+      "odds": {
+        "betcity": [
+          1.77,
+          4.1,
+          4.6
+        ],
+        "bet365": [
+          1.67,
+          3.9,
+          4.75
+        ],
+        "bingoal": [
+          1.75,
+          4.0,
+          4.6
+        ],
+        "unibet": [
+          1.71,
+          3.95,
+          4.5
+        ],
+        "toto": [
+          1.72,
+          4.0,
+          4.5
+        ],
+        "zebet": [
+          1.68,
+          3.75,
+          4.3
+        ],
+        "jacks": [
+          1.71,
+          3.95,
+          4.5
+        ],
+        "vbet": [
+          1.7,
+          4.2,
+          4.3
+        ],
+        "onecasino": [
+          1.66,
+          4.0,
+          4.3
+        ],
+        "starcasino": [
+          1.71,
+          4.2,
+          4.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825624,
+        "bet365": "6oZVGzNG",
+        "bingoal": 1024825624,
+        "unibet": 1024825624,
+        "toto": "9282756",
+        "zebet": "3dca3",
+        "jacks": 1024825624,
+        "vbet": "28288793",
+        "onecasino": "10330257",
+        "starcasino": 14237013
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa League"
+    },
+    "Dynamo Kiev - Zrinjski": {
+      "odds": {
+        "betcity": [
+          1.58,
+          4.1,
+          6.25
+        ],
+        "bingoal": [
+          1.56,
+          4.1,
+          6.1
+        ],
+        "unibet": [
+          1.58,
+          4.1,
+          6.25
+        ],
+        "toto": [
+          1.62,
+          4.0,
+          5.5
+        ],
+        "zebet": [
+          1.6,
+          3.8,
+          5.0
+        ],
+        "jacks": [
+          1.58,
+          4.1,
+          6.25
+        ],
+        "vbet": [
+          1.54,
+          3.77,
+          4.9
+        ],
+        "onecasino": [
+          1.59,
+          3.9,
+          5.0
+        ],
+        "starcasino": [
+          1.62,
+          3.8,
+          5.33
+        ]
+      },
+      "id": {
+        "betcity": 1024825383,
+        "bingoal": 1024825383,
+        "unibet": 1024825383,
+        "toto": "9282757",
+        "zebet": "hwha3",
+        "jacks": 1024825383,
+        "vbet": "28288779",
+        "onecasino": "10328802",
+        "starcasino": 14237030
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Newcastle - Ath Bilbao": {
+      "odds": {
+        "betcity": [
+          1.54,
+          4.3,
+          6.5
+        ],
+        "bet365": [
+          1.5,
+          4.2,
+          6.5
+        ],
+        "bingoal": [
+          1.53,
+          4.3,
+          6.5
+        ],
+        "unibet": [
+          1.56,
+          4.35,
+          6.75
+        ],
+        "toto": [
+          1.55,
+          4.5,
+          6.25
+        ],
+        "zebet": [
+          1.51,
+          4.1,
+          5.8
+        ],
+        "jacks": [
+          1.55,
+          4.35,
+          6.75
+        ],
+        "vbet": [
+          1.5,
+          4.2,
+          6.3
+        ],
+        "onecasino": [
+          1.49,
+          4.2,
+          6.25
+        ],
+        "starcasino": [
+          1.55,
+          4.2,
+          6.0
+        ]
+      },
+      "id": {
+        "betcity": 1024820124,
+        "bet365": "8tp1mVo4",
+        "bingoal": 1024820124,
+        "unibet": 1024820124,
+        "toto": "9282711",
+        "zebet": "fcba3",
+        "jacks": 1024820124,
+        "vbet": "28281083",
+        "onecasino": "10322642",
+        "starcasino": 14214405
+      },
+      "date": "2025-11-05T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Marseille - Atalanta": {
+      "odds": {
+        "betcity": [
+          2.1,
+          3.95,
+          3.35
+        ],
+        "bet365": [
+          2.1,
+          3.8,
+          3.25
+        ],
+        "bingoal": [
+          2.08,
+          3.9,
+          3.3
+        ],
+        "unibet": [
+          2.1,
+          4.0,
+          3.35
+        ],
+        "toto": [
+          2.1,
+          3.85,
+          3.4
+        ],
+        "zebet": [
+          2.02,
+          3.65,
+          3.2
+        ],
+        "jacks": [
+          2.1,
+          3.95,
+          3.35
+        ],
+        "vbet": [
+          2.07,
+          3.64,
+          3.3
+        ],
+        "onecasino": [
+          2.05,
+          3.6,
+          3.3
+        ],
+        "starcasino": [
+          2.1,
+          3.75,
+          3.25
+        ]
+      },
+      "id": {
+        "betcity": 1024820126,
+        "bet365": "zZvpNJF8",
+        "bingoal": 1024820126,
+        "unibet": 1024820126,
+        "toto": "9282702",
+        "zebet": "hcba3",
+        "jacks": 1024820126,
+        "vbet": "28281084",
+        "onecasino": "10322644",
+        "starcasino": 14214408
+      },
+      "date": "2025-11-05T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Tottenham - FC Copenhagen": {
+      "odds": {
+        "betcity": [
+          1.33,
+          5.5,
+          10.5
+        ],
+        "bet365": [
+          1.33,
+          5.0,
+          10.0
+        ],
+        "bingoal": [
+          1.32,
+          5.5,
+          10.0
+        ],
+        "unibet": [
+          1.35,
+          5.6,
+          10.5
+        ],
+        "toto": [
+          1.35,
+          5.25,
+          10.0
+        ],
+        "zebet": [
+          1.32,
+          5.0,
+          8.25
+        ],
+        "jacks": [
+          1.34,
+          5.5,
+          10.5
+        ],
+        "vbet": [
+          1.32,
+          5.3,
+          8.9
+        ],
+        "onecasino": [
+          1.32,
+          5.25,
+          9.0
+        ],
+        "starcasino": [
+          1.32,
+          5.33,
+          9.5
+        ]
+      },
+      "id": {
+        "betcity": 1024893267,
+        "bet365": "vVoNIbPF",
+        "bingoal": 1024893267,
+        "unibet": 1024893267,
+        "toto": "9282913",
+        "zebet": "gcba3",
+        "jacks": 1024893267,
+        "vbet": "28272911",
+        "onecasino": "10322646",
+        "starcasino": 14214351
+      },
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Ajax - Galatasaray": {
+      "odds": {
+        "betcity": [
+          3.3,
+          4.0,
+          2.1
+        ],
+        "bet365": [
+          3.2,
+          3.9,
+          2.05
+        ],
+        "bingoal": [
+          3.3,
+          3.95,
+          2.08
+        ],
+        "unibet": [
+          3.35,
+          4.0,
+          2.1
+        ],
+        "toto": [
+          3.2,
+          4.0,
+          2.13
+        ],
+        "zebet": [
+          3.05,
+          3.8,
+          2.07
+        ],
+        "jacks": [
+          3.35,
+          4.0,
+          2.1
+        ],
+        "vbet": [
+          3.14,
+          3.91,
+          2.06
+        ],
+        "onecasino": [
+          3.15,
+          3.9,
+          2.05
+        ],
+        "starcasino": [
+          3.2,
+          4.0,
+          2.05
+        ]
+      },
+      "id": {
+        "betcity": 1024820127,
+        "bet365": "IyZlXcv9",
+        "bingoal": 1024820127,
+        "unibet": 1024820127,
+        "toto": "9282731",
+        "zebet": "mcba3",
+        "jacks": 1024820127,
+        "vbet": "28281089",
+        "onecasino": "10322640",
+        "starcasino": 14214364
+      },
+      "date": "2025-11-05T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Shelbourne FC - KF Drita Gjilan": {
+      "odds": {
+        "betcity": [
+          1.88,
+          3.6,
+          4.4
+        ],
+        "bet365": [
+          1.8,
+          3.6,
+          4.2
+        ],
+        "bingoal": [
+          1.85,
+          3.55,
+          4.35
+        ],
+        "unibet": [
+          1.88,
+          3.6,
+          4.4
+        ],
+        "toto": [
+          1.84,
+          3.65,
+          4.25
+        ],
+        "zebet": [
+          1.8,
+          3.45,
+          4.1
+        ],
+        "jacks": [
+          1.88,
+          3.6,
+          4.4
+        ],
+        "vbet": [
+          1.74,
+          3.45,
+          3.92
+        ],
+        "onecasino": [
+          1.79,
+          3.5,
+          4.1
+        ],
+        "starcasino": [
+          1.8,
+          3.75,
+          4.0
+        ]
+      },
+      "id": {
+        "betcity": 1024825468,
+        "bet365": "nRVxpwoQ",
+        "bingoal": 1024825468,
+        "unibet": 1024825468,
+        "toto": "9282755",
+        "zebet": "lwha3",
+        "jacks": 1024825468,
+        "vbet": "28288774",
+        "onecasino": "10328798",
+        "starcasino": 14237040
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Club Brugge - Barcelona": {
+      "odds": {
+        "betcity": [
+          6.25,
+          5.4,
+          1.47
+        ],
+        "bet365": [
+          5.5,
+          5.0,
+          1.48
+        ],
+        "bingoal": [
+          6.1,
+          5.3,
+          1.46
+        ],
+        "unibet": [
+          6.25,
+          5.4,
+          1.48
+        ],
+        "toto": [
+          5.75,
+          5.25,
+          1.51
+        ],
+        "zebet": [
+          5.2,
+          4.8,
+          1.48
+        ],
+        "jacks": [
+          6.25,
+          5.4,
+          1.47
+        ],
+        "vbet": [
+          5.3,
+          5.0,
+          1.49
+        ],
+        "onecasino": [
+          5.25,
+          5.0,
+          1.47
+        ],
+        "starcasino": [
+          5.33,
+          5.33,
+          1.48
+        ]
+      },
+      "id": {
+        "betcity": 1024820129,
+        "bet365": "dGoTWEQq",
+        "bingoal": 1024820129,
+        "unibet": 1024820129,
+        "toto": "9282703",
+        "zebet": "ocba3",
+        "jacks": 1024820129,
+        "vbet": "28281087",
+        "onecasino": "10322636",
+        "starcasino": 14214404
+      },
+      "date": "2025-11-05T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Sturm Graz - Nottingham Forest": {
+      "odds": {
+        "betcity": [
+          5.0,
+          4.1,
+          1.72
+        ],
+        "bet365": [
+          4.75,
+          3.8,
+          1.7
+        ],
+        "bingoal": [
+          4.9,
+          4.0,
+          1.71
+        ],
+        "unibet": [
+          4.8,
+          3.95,
+          1.67
+        ],
+        "toto": [
+          4.75,
+          4.0,
+          1.7
+        ],
+        "zebet": [
+          4.4,
+          3.75,
+          1.68
+        ],
+        "jacks": [
+          4.8,
+          3.95,
+          1.67
+        ],
+        "vbet": [
+          4.4,
+          4.1,
+          1.7
+        ],
+        "onecasino": [
+          4.5,
+          3.9,
+          1.65
+        ],
+        "starcasino": [
+          4.33,
+          4.0,
+          1.69
+        ]
+      },
+      "id": {
+        "betcity": 1024825630,
+        "bet365": "vgvmsngC",
+        "bingoal": 1024825630,
+        "unibet": 1024825630,
+        "toto": "9282748",
+        "zebet": "0dca3",
+        "jacks": 1024825630,
+        "vbet": "28288799",
+        "onecasino": "10330265",
+        "starcasino": 14237005
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "Celje - Legia Warsaw": {
+      "odds": {
+        "betcity": [
+          2.38,
+          3.65,
+          2.9
+        ],
+        "bet365": [
+          2.3,
+          3.6,
+          2.8
+        ],
+        "bingoal": [
+          2.35,
+          3.6,
+          2.88
+        ],
+        "unibet": [
+          2.38,
+          3.65,
+          2.9
+        ],
+        "toto": [
+          2.37,
+          3.6,
+          2.85
+        ],
+        "zebet": [
+          2.32,
+          3.45,
+          2.77
+        ],
+        "jacks": [
+          2.38,
+          3.65,
+          2.9
+        ],
+        "vbet": [
+          2.17,
+          3.5,
+          2.69
+        ],
+        "onecasino": [
+          2.25,
+          3.5,
+          2.75
+        ],
+        "starcasino": [
+          2.25,
+          3.67,
+          2.83
+        ]
+      },
+      "id": {
+        "betcity": 1024825405,
+        "bet365": "QaPpIEwQ",
+        "bingoal": 1024825405,
+        "unibet": 1024825405,
+        "toto": "9282701",
+        "zebet": "awha3",
+        "jacks": 1024825405,
+        "vbet": "28288787",
+        "onecasino": "10328788",
+        "starcasino": 14237019
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa Conference League"
+    },
+    "Dinamo Zagreb - Celta Vigo": {
+      "odds": {
+        "betcity": [
+          2.75,
+          3.6,
+          2.6
+        ],
+        "bingoal": [
+          2.75,
+          3.55,
+          2.6
+        ],
+        "unibet": [
+          2.7,
+          3.45,
+          2.5
+        ],
+        "toto": [
+          2.7,
+          3.45,
+          2.55
+        ],
+        "zebet": [
+          2.62,
+          3.3,
+          2.47
+        ],
+        "jacks": [
+          2.7,
+          3.45,
+          2.5
+        ],
+        "vbet": [
+          2.67,
+          3.5,
+          2.5
+        ],
+        "onecasino": [
+          2.6,
+          3.35,
+          2.5
+        ]
+      },
+      "id": {
+        "betcity": 1024825643,
+        "bingoal": 1024825643,
+        "unibet": 1024825643,
+        "toto": "9282746",
+        "zebet": "l8ca3",
+        "jacks": 1024825643,
+        "vbet": "28288804",
+        "onecasino": "10330281"
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "FC Midtjylland - Celtic": {
+      "odds": {
+        "betcity": [
+          2.15,
+          3.85,
+          3.35
+        ],
+        "bet365": [
+          2.1,
+          3.5,
+          3.3
+        ],
+        "bingoal": [
+          2.12,
+          3.8,
+          3.3
+        ],
+        "unibet": [
+          2.08,
+          3.7,
+          3.25
+        ],
+        "toto": [
+          2.11,
+          3.65,
+          3.3
+        ],
+        "zebet": [
+          2.07,
+          3.5,
+          3.15
+        ],
+        "jacks": [
+          2.08,
+          3.7,
+          3.25
+        ],
+        "vbet": [
+          2.09,
+          3.75,
+          3.19
+        ],
+        "onecasino": [
+          2.05,
+          3.6,
+          3.15
+        ],
+        "starcasino": [
+          2.08,
+          3.67,
+          3.14
+        ]
+      },
+      "id": {
+        "betcity": 1024825627,
+        "bet365": "0UeFdCz9",
+        "bingoal": 1024825627,
+        "unibet": 1024825627,
+        "toto": "9282750",
+        "zebet": "m8ca3",
+        "jacks": 1024825627,
+        "vbet": "28288802",
+        "onecasino": "10330279",
+        "starcasino": 14237002
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "FC Utrecht - FC Porto": {
+      "odds": {
+        "betcity": [
+          4.4,
+          4.0,
+          1.83
+        ],
+        "bet365": [
+          4.1,
+          3.9,
+          1.8
+        ],
+        "bingoal": [
+          4.4,
+          3.95,
+          1.81
+        ],
+        "unibet": [
+          4.3,
+          3.9,
+          1.77
+        ],
+        "toto": [
+          4.25,
+          3.9,
+          1.8
+        ],
+        "zebet": [
+          3.95,
+          3.7,
+          1.75
+        ],
+        "jacks": [
+          4.3,
+          3.9,
+          1.77
+        ],
+        "vbet": [
+          4.2,
+          3.99,
+          1.76
+        ],
+        "onecasino": [
+          4.0,
+          3.8,
+          1.74
+        ],
+        "starcasino": [
+          4.0,
+          4.0,
+          1.75
+        ]
+      },
+      "id": {
+        "betcity": 1024825635,
+        "bet365": "bTcbTIVr",
+        "bingoal": 1024825635,
+        "unibet": 1024825635,
+        "toto": "9282744",
+        "zebet": "1dca3",
+        "jacks": 1024825635,
+        "vbet": "28288798",
+        "onecasino": "10330259",
+        "starcasino": 14237007
+      },
+      "date": "2025-11-06T17:45:00",
+      "competition": "UEFA Europa League"
+    },
+    "Ath Madrid - Union Saint-Gilloise": {
+      "odds": {
+        "betcity": [
+          1.23,
+          7.0,
+          11.5
+        ],
+        "bingoal": [
+          1.23,
+          7.0,
+          11.5
+        ],
+        "unibet": [
+          1.23,
+          7.0,
+          11.5
+        ],
+        "toto": [
+          1.27,
+          6.5,
+          11.0
+        ],
+        "zebet": [
+          1.23,
+          5.8,
+          9.75
+        ],
+        "jacks": [
+          1.23,
+          7.0,
+          11.5
+        ],
+        "vbet": [
+          1.24,
+          6.3,
+          11.0
+        ],
+        "onecasino": [
+          1.23,
+          6.25,
+          11.0
+        ],
+        "starcasino": [
+          1.27,
+          6.0,
+          10.0
+        ]
+      },
+      "id": {
+        "betcity": 1025209122,
+        "bingoal": 1025209122,
+        "unibet": 1025209122,
+        "toto": "9282916",
+        "zebet": "ffaa3",
+        "jacks": 1025209122,
+        "vbet": "28272917",
+        "onecasino": "10317481",
+        "starcasino": 14214347
+      },
+      "date": "2025-11-04T20:00:00",
+      "competition": "UEFA Champions League"
+    },
+    "Rapid Vienna - CS Universitatea Craiova": {
+      "odds": {
+        "betcity": [
+          1.6,
+          4.2,
+          5.75
+        ],
+        "bingoal": [
+          1.58,
+          4.1,
+          5.6
+        ],
+        "unibet": [
+          1.6,
+          4.2,
+          5.75
+        ],
+        "toto": [
+          1.64,
+          4.0,
+          5.25
+        ],
+        "zebet": [
+          1.61,
+          3.75,
+          4.9
+        ],
+        "jacks": [
+          1.6,
+          4.2,
+          5.75
+        ],
+        "vbet": [
+          1.58,
+          3.57,
+          4.8
+        ],
+        "onecasino": [
+          1.61,
+          3.7,
+          5.0
+        ],
+        "starcasino": [
+          1.62,
+          3.8,
+          5.33
+        ]
+      },
+      "id": {
+        "betcity": 1024825486,
+        "bingoal": 1024825486,
+        "unibet": 1024825486,
+        "toto": "9282730",
+        "zebet": "fwha3",
+        "jacks": 1024825486,
+        "vbet": "28288772",
+        "onecasino": "10328803",
+        "starcasino": 14237045
+      },
+      "date": "2025-11-06T20:00:00",
+      "competition": "UEFA Europa Conference League"
     }
   },
   "basketball": {
