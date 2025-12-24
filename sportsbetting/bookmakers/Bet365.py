@@ -288,7 +288,6 @@ def _extract_1x2_odds(event_json: Dict[str, Any], bookmaker_id: str) -> Optional
         return None
     return [home, draw, away]
 
-
 # ---------------- Example CLI ----------------
 if __name__ == "__main__":
     url = "https://www.oddsportal.com/football/netherlands/eredivisie/"

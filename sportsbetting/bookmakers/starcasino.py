@@ -113,7 +113,7 @@ def parse_starcasino_payload(
                 break
 
         # Collect odds in order [1, X, 2]; default to 1000.0
-        match_odds = [1000.0, 1000.0, 1000.0]
+        match_odds = [1.01, 1.01, 1.01]
         if market_1x2:
             # Build selection index for this market
             sel_by_type: Dict[int, Dict[str, Any]] = {}

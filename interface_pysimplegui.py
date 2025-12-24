@@ -52,7 +52,6 @@ print(r"""
     /_/                                                         /____/   
 """)
 
-
 try:
     sb.ODDS = load_odds(PATH_DATA)
 except FileNotFoundError:
