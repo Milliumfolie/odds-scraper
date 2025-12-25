@@ -1,7 +1,6 @@
 from sportsbetting.bookmakers.template_parser import parse_template
 import dateutil.parser
 
-
 def test_parse_template_returns_expected_structure():
     res = parse_template()
     assert isinstance(res, dict)
